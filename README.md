@@ -11,24 +11,28 @@ A community has shared a lot of Decks [HERE](https://ankiweb.net/decks/) in lots
 You'll find below all the decks i've made or i'm currently memorizing...
 
 ## Memory systems
-
+- Words <-> images (in french)
 
 ## Languages
+- English / French
+coming soon
 
 
 ## Geography / History
-
+coming soon
 
 ## Programming languages
  - Python
  - Scala
  - Linux shell
  - SQL
+ coming soon
  
  ## Cloud / Big Data / Machine Learning
- 
+ coming soon
  
  ## Information technology
-
+coming soon
 
 ## Misc
+coming soon
