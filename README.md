@@ -17,7 +17,6 @@ You'll find below all the decks i've made or i'm currently memorizing...
 - English / French
 coming soon
 
-
 ## Geography / History
 coming soon
 
@@ -29,9 +28,16 @@ coming soon
  coming soon
  
  ## Cloud / Big Data / Machine Learning
- coming soon
+- Azure
+- GCP
+- ML
+coming soon
  
  ## Information technology
+- LPIC
+- Git / Github
+- Docker
+- Kubernetes
 coming soon
 
 ## Misc
