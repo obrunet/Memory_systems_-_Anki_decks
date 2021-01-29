@@ -1,5 +1,5 @@
 # Anki decks / memory flash cards
----
+
 
 [Anki](https://apps.ankiweb.net/) is a free and open-source flashcard program that utilizes spaced repetition (to increase rate of memorization). "Anki" (暗記) is the Japanese word for "memorization". The cards are presented using HTML and may include text, images, sounds, videos, and LaTeX equations. The decks of cards, along with the user's statistics, are stored in the open SQLite format. Source : [Wikipedia](https://en.wikipedia.org/wiki/Anki_(software))
 
