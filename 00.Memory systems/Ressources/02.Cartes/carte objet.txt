@@ -1,0 +1,52 @@
+Tr-A	tutu, tatoo			
+Tr-2	tonneau, tennis			
+Tr-3	tam-tam, tomate			
+Tr-4	terre, tarte			
+Tr-5	tôle, taule			
+Tr-6	tâche, tagine			
+Tr-7	taxi, tacle			
+Tr-8	taf (fumer), tof (photo)			
+Tr-9	tapis, table			
+Tr-10	tasse, tissu			
+Tr-V	tue tête-TV			
+Tr-D	tétine-tatane			
+Tr-R	tréfle, totem			
+Ca-A	catch, catin			
+Ca-2	canne, canneton			
+Ca-3	camion, caméa-méa (san goku)			
+Ca-4	car, karaté			
+Ca-5	cale, calin			
+Ca-6	cage, cache			
+Ca-7	caca, caco			
+Ca-8	café, cave			
+Ca-9	cape, capote			
+Ca-10	case, casse (noisette)			
+Ca-V	cathéter, cathédrale			
+Ca-D	cadenas, cantine			
+Ca-R	carreau (vitre, sol), catamaran			
+Pi-A	pâtes (lustucru), paté			
+Pi-2	panne, panneau			
+Pi-3	pomme, paume			
+Pi-4	part, barre			
+Pi-5	pale (hélice ou devenir tout blanc)			
+Pi-6	pêche (fruit et poisson), poche			
+Pi-7	pack (de bierre), paquet (cadeau)			
+Pi-8	bave, baffe			
+Pi-9	pape, papier			
+Pi-10	passe, passoire			
+Pi-V	patate, patte à tarte			
+Pi-D	patinette / patiner, bottine			
+Pi-R	pique, bathème			
+Co-A	cote, couteau			
+Co-2	cône (orange et glace)			
+Co-3	coma, comète			
+Co-4	cors, corde			
+Co-5	col / colle			
+Co-6	cochon, cauchemard			
+Co-7	coq, coco			
+Co-8	coffre, coiffe			
+Co-9	coppa, copeau			
+Co-10	cosse, coussin			
+Co-V	coton tige			
+Co-D	cotonneux			
+Co-R	cœur (amour & organe)			
