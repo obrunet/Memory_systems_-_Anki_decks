@@ -11,10 +11,12 @@ The method of loci (loci being Latin for "places") is a strategy of memory enhan
 The items to be remembered in this mnemonic system are mentally associated with specific physical locations. The method relies on memorized spatial relationships to establish order and recollect memorial content. It is also known as the "Journey Method", used for storing lists of related items, or the "Roman Room" technique, which is most effective for storing unrelated information.
 
 
-## Memory journeys
-- [Playing Cards <-> Characters (in french)]() from 0 to 52, only 1 character per card
-- [Playing Cards <-> Objects (in french)]() from 0 to 52, with 2 objects per card
-- [Words <-> images (in french)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/00.Memory%20systems/System%20words%20_-_%20images.apkg) from 0 to 999 (work in progress : almost finished but need to fix few things)
+## Memory journeys (in french)
+- coming soon
 
 
-## Memory palaces
+## Memory palaces (in french)
+- appartement de mes parents à Paris
+- maison de Toulouse
+- appartements de la Baule
+- notre apparte !
