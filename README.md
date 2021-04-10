@@ -10,8 +10,8 @@ A community has shared a lot of Decks [HERE](https://ankiweb.net/decks/) in lots
 You'll find below __some decks that i've made__ for learning purpose. __There are also links to other decks__ made by the community that i've found interesting. I'm currently memorizing or have memorized those decks...
 
 ## Method of loci - memory journey / palace
-- [more info on Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-- [My own journey's / palaces' list]() 
+* [More infos on Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+* [My own journey's / palaces' list]() 
 
 ## Memory systems
 - [Playing Cards <-> Characters (in french)]() from 0 to 52, only 1 character per card
