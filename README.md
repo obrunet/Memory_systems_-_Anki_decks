@@ -10,7 +10,9 @@ A community has shared a lot of Decks [HERE](https://ankiweb.net/decks/) in lots
 You'll find below __some decks that i've made__ for learning purpose. __There are also links to other decks__ made by the community that i've found interesting. I'm currently memorizing or have memorized those decks...
 
 ## Memory systems
-- [Words <-> images (in french)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/00.Memory%20systems/System%20words%20_-_%20images.apkg) from 0 to 999 for the moment (work in progress to add more stuff)
+- [Playing Cards <-> Characters (in french)]()
+- [Playing Cards <-> Objects (in french)]()
+- [Words <-> images (in french)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/00.Memory%20systems/System%20words%20_-_%20images.apkg) from 0 to 999 (work in progress to add more stuff)
 
 ## Languages
 - English / French

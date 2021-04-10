@@ -1,0 +1,56 @@
+Trèfle	série, cartoon, manga, bande dessiné						
+Carreau	personnages de film, super héros						
+Pique	chanteur(euse)s						
+Cœur	famille, proches, ami(e)s						
+Tr- A	Dalton						
+Tr- 2	Naruto						
+Tr- 3	Marsupilami						
+Tr- 4	Roger Rabit						
+Tr- 5	Lucky Luke						
+Tr- 6	Schtroumpfs						
+Tr- 7	Calvin et Hobbes						
+Tr- 8	Vegeta						
+Tr- 9	Panthère Rose						
+Tr- 10	Scratch (écureil age de glace)						
+Tr- V	Tintin						
+Tr- D	Tiana (La princesse grenouille)						
+Tr- R	Tom-Tom et Nana						
+Ca- A	E.T						
+Ca- 2	Neo						
+Ca- 3	Mask						
+Ca- 4	Rocky Balboa						
+Ca- 5	Luke Skywalker						
+Ca- 6	James Bond						
+Ca- 7	Captain America						
+Ca- 8	Forrest Gump						
+Ca- 9	Batman						
+Ca- 10	Superman						
+Ca- V	Tati Danielle						
+Ca- D	Ethan Hunt						
+Ca- R	Terminator						
+Pi- A	Daft Punk						
+Pi- 2	NTM						
+Pi- 3	M						
+Pi- 4	Renaud						
+Pi- 5	Lauryn Hill						
+Pi- 6	Jimi Hendrix						
+Pi- 7	Kurt Cobain						
+Pi- 8	Freddie Mercury,						
+Pi- 9	Bob Marley						
+Pi- 10	Céline Dion						
+Pi- V	Tonton David						
+Pi- D	Tina Turner						
+Pi- R	Thomas Dutronc (& Jacques)						
+Co- A	Dorothée						
+Co- 2	Nina						
+Co- 3	Maman						
+Co- 4	Rom						
+Co- 5	Lolo						
+Co- 6	Julien						
+Co- 7	Xav						
+Co- 8	Flo (cousine)						
+Co- 9	Papa						
+Co- 10	Zitoon & Sophie						
+Co- V	Tati (Marie & Michelle)						
+Co- D	Ta Nièce (Anaïs)						
+Co- R	Ta Mère (Jeannette)						
