@@ -11,7 +11,7 @@ You'll find below __some decks that i've made__ for learning purpose. __There ar
 
 ## Method of loci - memory journey / palace
 * [More infos on Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-* [My own journeys' / palaces' list]() 
+* [My own journeys' / palaces' list](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md) 
 
 ## Memory systems
 - [Playing Cards <-> Characters (in french)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Cartes%20Personnages.apkg) from 0 to 52, only 1 character per card
