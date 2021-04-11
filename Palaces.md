@@ -12,7 +12,7 @@ The items to be remembered in this mnemonic system are mentally associated with 
 
 
 ## Memory journeys (in french)
-- coming soon
+- work in progress... coming soon
 
 
 ## Memory palaces (in french)
