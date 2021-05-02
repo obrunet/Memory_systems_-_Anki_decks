@@ -1,52 +1,156 @@
-Tr-A	Dalton	tutu, tatoo
-Tr-2	Naruto	tonneau, tennis
-Tr-3	Marsupilami	tam-tam, tomate
-Tr-4	Roger Rabit	tir, terre, tour
-Tr-5	Lucky Luke	tuile, taule
-Tr-6	Schtroumpfs	tâche, toge
-Tr-7	Kirikou	taxi, tacle
-Tr-8	Vegeta	taf (fumer), tof (photo)
-Tr-9	Panthère Rose	tapis, toupis
-Tr-10	Scratch (écureil age de glace)	tasse, tissu
-Tr-V	Tintin	tue tête -TV
-Tr-D	Tiana (La princesse grenouille)	tétine -tatane
-Tr-R	Tom-Tom et Nana	tréfle, totem
-Ca-A	E.T	catch, catin
-Ca-2	Neo	canne, canneton
-Ca-3	Mask	camion -caméa-méa (san goku)
-Ca-4	Rocky Balboa	car, karaté
-Ca-5	Luke Skywalker	cale, calin
-Ca-6	James Bond	cage -cache
-Ca-7	Captain America	caca, caco
-Ca-8	Forrest Gump	café, cave
-Ca-9	Batman	cape, capote
-Ca-10	Superman	case, casse (noisette)
-Ca-V	Tati Danielle	cathéter, cathédrale
-Ca-D	Ethan Hunt	cadenas, cantine
-Ca-R	Terminator	carreau (vitre, sol), catamaran
-Pi-A	Daft Punk	pâtes (lustucru), paté
-Pi-2	NTM	panier, panneau
-Pi-3	M	pomme, piment
-Pi-4	Renaud, RATM	bar, barre
-Pi-5	Lauryn Hill	pile, pêle
-Pi-6	Jimi Hendrix	pêche (fruit et poisson), poche
-Pi-7	Kurt Cobain	pack (de bierre), paquet (cadeau)
-Pi-8	Freddie Mercury,	bave, baffe
-Pi-9	2Pac	pipe, papier
-Pi-10	Céline Dion	passe, passoire
-Pi-V	Tonton David	patate, patte à tarte
-Pi-D	Tina Turner	patinette, bottine
-Pi-R	Tom Jones	pique, bathème
-Co-A	Dorothée	cote, couteau
-Co-2	Nina	cône (orange et glace)
-Co-3	Maman	coma, comète
-Co-4	Rom	cors, corde
-Co-5	Lolo	col, colle
-Co-6	Julien	cochon, cauchemard
-Co-7	Xav	coq, coco
-Co-8	Flo (cousine)	coffre, coiffe
-Co-9	Papa	coppa, copeau
-Co-10	Zitoon & Sophie	cosse, coussin
-Co-V	Tati (Marie & Michelle)	coton tige
-Co-D	Ta Nièce (Anaïs)	cotonneux
-Co-R	Ta Mère (Jeannette)	cœur (amour & organe)
+Tr-A	Dalton | tutu, tatoo
+Tr-2	Naruto | tonneau, tennis
+Tr-3	Marsupilami | tam-tam, tomate
+Tr-4	Roger Rabit | tir, terre, tour
+Tr-5	Lucky Luke | tuile, taule
+Tr-6	Schtroumpfs | tâche, toge
+Tr-7	Kirikou | taxi, tacle
+Tr-8	Vegeta | taf (fumer), tof (photo)
+Tr-9	Panthère Rose | tapis, toupis
+Tr-10	Scratch (écureil age de glace) | tasse, tissu
+Tr-V	Tintin | tue tête -TV
+Tr-D	Tiana (La princesse grenouille) | tétine -tatane
+Tr-R	Tom-Tom et Nana | tréfle, totem
+Ca-A	E.T | catch, catin
+Ca-2	Neo | canne, canneton
+Ca-3	Mask | camion -caméa-méa (san goku)
+Ca-4	Rocky Balboa | car, karaté
+Ca-5	Luke Skywalker | cale, calin
+Ca-6	James Bond | cage -cache
+Ca-7	Captain America | caca, caco
+Ca-8	Forrest Gump | café, cave
+Ca-9	Batman | cape, capote
+Ca-10	Superman | case, casse (noisette)
+Ca-V	Tati Danielle | cathéter, cathédrale
+Ca-D	Ethan Hunt | cadenas, cantine
+Ca-R	Terminator | carreau (vitre, sol), catamaran
+Pi-A	Daft Punk | pâtes (lustucru), paté
+Pi-2	NTM | panier, panneau
+Pi-3	M | pomme, piment
+Pi-4	Renaud, RATM | bar, barre
+Pi-5	Lauryn Hill | pile, pêle
+Pi-6	Jimi Hendrix | pêche (fruit et poisson), poche
+Pi-7	Kurt Cobain | pack (de bierre), paquet (cadeau)
+Pi-8	Freddie Mercury, | bave, baffe
+Pi-9	2Pac | pipe, papier
+Pi-10	Céline Dion | passe, passoire
+Pi-V	Tonton David | patate, patte à tarte
+Pi-D	Tina Turner | patinette, bottine
+Pi-R	Tom Jones | pique, bathème
+Co-A	Dorothée | cote, couteau
+Co-2	Nina | cône (orange et glace)
+Co-3	Maman | coma, comète
+Co-4	Rom | cors, corde
+Co-5	Lolo | col, colle
+Co-6	Julien | cochon, cauchemard
+Co-7	Xav | coq, coco
+Co-8	Flo (cousine) | coffre, coiffe
+Co-9	Papa | coppa, copeau
+Co-10	Zitoon & Sophie | cosse, coussin
+Co-V	Tati (Marie & Michelle) | coton tige
+Co-D	Ta Nièce (Anaïs) | cotonneux
+Co-R	Ta Mère (Jeannette) | cœur (amour & organe)
+tutu, tatoo	Tr-A | Dalton
+tonneau, tennis	Tr-2 | Naruto
+tam-tam, tomate	Tr-3 | Marsupilami
+tir, terre, tour	Tr-4 | Roger Rabit
+tuile, taule	Tr-5 | Lucky Luke
+tâche, toge	Tr-6 | Schtroumpfs
+taxi, tacle	Tr-7 | Kirikou
+taf (fumer), tof (photo)	Tr-8 | Vegeta
+tapis, toupis	Tr-9 | Panthère Rose
+tasse, tissu	Tr-10 | Scratch (écureil age de glace)
+tue tête -TV	Tr-V | Tintin
+tétine -tatane	Tr-D | Tiana (La princesse grenouille)
+tréfle, totem	Tr-R | Tom-Tom et Nana
+catch, catin	Ca-A | E.T
+canne, canneton	Ca-2 | Neo
+camion -caméa-méa (san goku)	Ca-3 | Mask
+car, karaté	Ca-4 | Rocky Balboa
+cale, calin	Ca-5 | Luke Skywalker
+cage -cache	Ca-6 | James Bond
+caca, caco	Ca-7 | Captain America
+café, cave	Ca-8 | Forrest Gump
+cape, capote	Ca-9 | Batman
+case, casse (noisette)	Ca-10 | Superman
+cathéter, cathédrale	Ca-V | Tati Danielle
+cadenas, cantine	Ca-D | Ethan Hunt
+carreau (vitre, sol), catamaran	Ca-R | Terminator
+pâtes (lustucru), paté	Pi-A | Daft Punk
+panier, panneau	Pi-2 | NTM
+pomme, piment	Pi-3 | M
+bar, barre	Pi-4 | Renaud, RATM
+pile, pêle	Pi-5 | Lauryn Hill
+pêche (fruit et poisson), poche	Pi-6 | Jimi Hendrix
+pack (de bierre), paquet (cadeau)	Pi-7 | Kurt Cobain
+bave, baffe	Pi-8 | Freddie Mercury,
+pipe, papier	Pi-9 | 2Pac
+passe, passoire	Pi-10 | Céline Dion
+patate, patte à tarte	Pi-V | Tonton David
+patinette, bottine	Pi-D | Tina Turner
+pique, bathème	Pi-R | Tom Jones
+cote, couteau	Co-A | Dorothée
+cône (orange et glace)	Co-2 | Nina
+coma, comète	Co-3 | Maman
+cors, corde	Co-4 | Rom
+col, colle	Co-5 | Lolo
+cochon, cauchemard	Co-6 | Julien
+coq, coco	Co-7 | Xav
+coffre, coiffe	Co-8 | Flo (cousine)
+coppa, copeau	Co-9 | Papa
+cosse, coussin	Co-10 | Zitoon & Sophie
+coton tige	Co-V | Tati (Marie & Michelle)
+cotonneux	Co-D | Ta Nièce (Anaïs)
+cœur (amour & organe)	Co-R | Ta Mère (Jeannette)
+Dalton	Tr-A | tutu, tatoo
+Naruto	Tr-2 | tonneau, tennis
+Marsupilami	Tr-3 | tam-tam, tomate
+Roger Rabit	Tr-4 | tir, terre, tour
+Lucky Luke	Tr-5 | tuile, taule
+Schtroumpfs	Tr-6 | tâche, toge
+Kirikou	Tr-7 | taxi, tacle
+Vegeta	Tr-8 | taf (fumer), tof (photo)
+Panthère Rose	Tr-9 | tapis, toupis
+Scratch (écureil age de glace)	Tr-10 | tasse, tissu
+Tintin	Tr-V | tue tête -TV
+Tiana (La princesse grenouille)	Tr-D | tétine -tatane
+Tom-Tom et Nana	Tr-R | tréfle, totem
+E.T	Ca-A | catch, catin
+Neo	Ca-2 | canne, canneton
+Mask	Ca-3 | camion -caméa-méa (san goku)
+Rocky Balboa	Ca-4 | car, karaté
+Luke Skywalker	Ca-5 | cale, calin
+James Bond	Ca-6 | cage -cache
+Captain America	Ca-7 | caca, caco
+Forrest Gump	Ca-8 | café, cave
+Batman	Ca-9 | cape, capote
+Superman	Ca-10 | case, casse (noisette)
+Tati Danielle	Ca-V | cathéter, cathédrale
+Ethan Hunt	Ca-D | cadenas, cantine
+Terminator	Ca-R | carreau (vitre, sol), catamaran
+Daft Punk	Pi-A | pâtes (lustucru), paté
+NTM	Pi-2 | panier, panneau
+M	Pi-3 | pomme, piment
+Renaud, RATM	Pi-4 | bar, barre
+Lauryn Hill	Pi-5 | pile, pêle
+Jimi Hendrix	Pi-6 | pêche (fruit et poisson), poche
+Kurt Cobain	Pi-7 | pack (de bierre), paquet (cadeau)
+Freddie Mercury,	Pi-8 | bave, baffe
+2Pac	Pi-9 | pipe, papier
+Céline Dion	Pi-10 | passe, passoire
+Tonton David	Pi-V | patate, patte à tarte
+Tina Turner	Pi-D | patinette, bottine
+Tom Jones	Pi-R | pique, bathème
+Dorothée	Co-A | cote, couteau
+Nina	Co-2 | cône (orange et glace)
+Maman	Co-3 | coma, comète
+Rom	Co-4 | cors, corde
+Lolo	Co-5 | col, colle
+Julien	Co-6 | cochon, cauchemard
+Xav	Co-7 | coq, coco
+Flo (cousine)	Co-8 | coffre, coiffe
+Papa	Co-9 | coppa, copeau
+Zitoon & Sophie	Co-10 | cosse, coussin
+Tati (Marie & Michelle)	Co-V | coton tige
+Ta Nièce (Anaïs)	Co-D | cotonneux
+Ta Mère (Jeannette)	Co-R | cœur (amour & organe)
