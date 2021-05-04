@@ -12,11 +12,15 @@ The items to be remembered in this mnemonic system are mentally associated with 
 
 
 ## Memory journeys (in french)
+- depuis la gare de SQY jusqu'au bureau / salle de pause chez CA-GIP (25 emplacements)
 - work in progress... coming soon
 
 
 ## Memory palaces (in french)
-- appartement de mes parents à Paris
+- parents à Paname
+- grands parents à Paname
+- Yann à Paname Paname
+- Pra Loup
 - maison de Toulouse
-- appartements de la Baule
-- notre apparte !
+- la Baule (Grands parents & parents)
+- Courbevoie (plus ancien de courbe & paris)
