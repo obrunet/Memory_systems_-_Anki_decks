@@ -16,6 +16,7 @@ You'll find below __some decks that i've made__ for learning purpose. __There ar
 ## Memory systems
 - [Playing Cards <-> Characters (in french)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Cartes%20Personnages.apkg) from 0 to 52, only 1 character per card
 - [Playing Cards <-> Objects (in french)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Cartes%20Objet.apkg) from 0 to 52, with 2 objects per card
+- Both two previous systems are aggregated in [the following deck](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Cards.apkg) with images of better quality
 - [Words <-> images (in french)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/00.Memory%20systems/System%20words%20_-_%20images.apkg) from 0 to 999 (work in progress : almost finished but need to fix few things)
 
 ## Languages
