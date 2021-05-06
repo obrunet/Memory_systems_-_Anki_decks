@@ -26,8 +26,8 @@ coming soon
 ## Geography / History
 coming soon
 
-## Programming languages
- - Python
+## [Programming languages](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/)
+ - Python [Notebook](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/python_cheat_sheet.ipynb) - [Anki deck](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/)
  - Scala
  - Linux shell
  - SQL
