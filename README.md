@@ -30,7 +30,8 @@ coming soon
  - Python [Notebook](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/python_cheat_sheet.ipynb) - [Anki deck](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/)
  - Scala
  - Linux shell
- - SQL
+ - [Relationnal Databases Concepts]()
+ - [SQL syntax and commands](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/SQL/SQL%20syntax%20and%20commands.apkg)
  coming soon
  
  ## Cloud / Big Data / Machine Learning
