@@ -36,7 +36,7 @@ coming soon
  
  ## Cloud / Big Data / Machine Learning
 - Azure
-- GCP
+- GCP - [Looker]() - [LookML]() 
 - ML
 coming soon
  
