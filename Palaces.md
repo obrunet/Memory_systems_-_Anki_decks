@@ -12,15 +12,22 @@ The items to be remembered in this mnemonic system are mentally associated with 
 
 
 ## Memory journeys (in french)
-- depuis la gare de SQY jusqu'au bureau / salle de pause chez CA-GIP (25 emplacements)
-- work in progress... coming soon
+- depuis la gare de SQY jusqu'à la salle de pause des bureaux CA-GIP (25 emplacements):  
+    quai || bas escalator rampe || portiques || écran avec escalier || haut des escalier (5) || abris bus || parking végétalisé || sous pont || parking / rond point / chantier || entrée visiteur (10) || banc || portique || nature avec animaux || porte tambour || portique intérieur (15) || cafétéria || salle de pause devant ascenseur || palier 5ème || couloir entre portes CF & WC || bureau Gilles (20) ||  bureau Adil coin + board || canapé machine café || salle de réunion pouffes || couloirs bureau post it war || palier à nouveau & salle de pause déco fauteuil avec machines. 
+- WIP
 
 
 ## Memory palaces (in french)
+ 
+- la Baule _ Parents (XX emplacements): 
+- la Baule _ Grands parents (25 emplacements):
+    parking ext || porte entrée immeuble || porte entrée || entrée || 1ère chambre [ lavabo (5) || 1er lit superposé bas || 2ème lit milieu || 3ème lit en haut] || 2ème chambre [armoire || lit (10) || secrétaire || balcon] || salon [canapé || meuble secrétaire || table en coin arrondi (15) || table à manger] || cuisine [ four || évier || plaques chauffantes || frigo (20) || congélo] || salle de bain [douche || toilettes || évier] || sortie apparte & ascenseur (25)
 - parents à Paname
-- grands parents à Paname
+- Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements):
+    station portique || bacs à fleur || café Oz || immeuble brise soleil || viel immeuble affiche (5) || café terrasse || grecque || superette mandiant || entrée résidence || entrée immeuble (10) || hall || ascenseur || palier 7ème || porte entrée || entrée placard (15) || cuisine [ frigidaire || four || plan de travail || éviter || table toile cirée avec tabouret (20) ] || salon [ TV || fauteuil || meuble noir biblo || table ronde ] || débarras avec machines à laver (25) || salle de bain [ baignoire || glace ] || WC || chambre grands parents [ armoire  || lit (30) || balcon ] || bureau Roudoudou [ table muscu || balcon || bureau  || bibliothèque (35) ] || réserves luminaire || cagibi avec boite à clé || meubles entrée || corridor petite étagère || bureau grand mère [ lit (40) || balcon || bureau] || corridor douche || palier immeuble || escalier (45)
 - Yann à Paname Paname
 - Pra Loup
 - maison de Toulouse
-- la Baule (Grands parents & parents)
+
 - Courbevoie (plus ancien de courbe & paris)
+e
