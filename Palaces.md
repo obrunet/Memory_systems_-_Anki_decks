@@ -12,15 +12,15 @@ The items to be remembered in this mnemonic system are mentally associated with 
 
 
 ## Memory journeys (in french)
-- [SQY _ Gare -> salle de pause CA-GIP (25 emplacements)]()
+- [SQY _ Gare -> salle de pause CA-GIP (25 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#depuis-la-gare-de-sqy-jusqu%C3%A0-la-salle-de-pause-des-bureaux-ca-gip)
 
 
 ## Memory palaces (in french)
  
 - la Baule _ Parents (WIP): 
-- [la Baule _ Grands parents (25 emplacements)]()
+- [la Baule _ Grands parents (25 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-grands-parents-25-emplacements)
 - Paname _ Parents (WIP)
-- [Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements)]()
+- [Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#paname-_-de-denfert-rochereau-%C3%A0-chez-les-grands-parents)
 - Paname _ Yannick  (WIP)
 - Paname _ Guy Moquet (WIP)
 - Pra Loup (WIP)
