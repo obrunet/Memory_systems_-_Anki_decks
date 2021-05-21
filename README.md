@@ -36,7 +36,7 @@ coming soon
  
  ## Cloud / Big Data / Machine Learning
 - Azure
-- GCP - [Looker]() - [LookML]() 
+- GCP - [Looker]() - [LookML](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/LookML/LookML.apkg) 
 - ML
 coming soon
  

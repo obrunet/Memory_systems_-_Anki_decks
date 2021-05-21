@@ -13,6 +13,10 @@ The items to be remembered in this mnemonic system are mentally associated with 
 
 ## Memory journeys (in french)
 - [SQY _ Gare -> salle de pause CA-GIP (25 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#depuis-la-gare-de-sqy-jusqu%C3%A0-la-salle-de-pause-des-bureaux-ca-gip)
+- Courbevoie _ Footing île de la Jatte
+- Courbevoie _ Piscine
+- Courbevoie _ Intermarché
+_ Courbevoie _ Bibliothèque
 
 
 ## Memory palaces (in french)
