@@ -1,4 +1,4 @@
-An exhaustive Python cheat sheet 1/2
+# An exhaustive Python cheat sheet 1/2
 
 You'll find in this anki deck a summary of the most important key features of the Python programming language in order to help you memorizing it. 
 
