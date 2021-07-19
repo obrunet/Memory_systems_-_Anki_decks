@@ -43,16 +43,16 @@ et ensuite on utilise la consonne suivante pour la hauteur; par exemple:
 
 x       | Trèfle        | Carreau           | Pique  | Coeur
 --------|-------------|-------------|-------------|-------------|
-As | <font color='red'>Dalton</font> - <font color='blue'>tutu, tatoo</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-2 | <font color='red'>Naruto</font> - <font color='blue'>tennis, tonneau, tune</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-3 | <font color='red'>Marsupilami</font> - <font color='blue'>tam-tam, tomate, tami</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-4 | <font color='red'>Roger Rabit</font> - <font color='blue'>tir, terre, tour</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-5 | <font color='red'>Lucky Luke</font> - <font color='blue'>tuile, toile, taule</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-6 | <font color='red'>Schtroumfs</font> - <font color='blue'>tache, toge, tige</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-7 | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-8 | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-9 | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-10 | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-V | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-D | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
-R | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> | <font color='red'>x</font> - <font color='blue'>x</font> |
+As | Dalton - tutu, tatoo | x - x | x - x | x - x |
+2 | Naruto - tennis, tonneau, tune | x - x | x - x | x - x |
+3 | Marsupilami - tam-tam, tomate, tami | x - x | x - x | x - x |
+4 | Roger Rabit - tir, terre, tour | x - x | x - x | x - x |
+5 | Lucky Luke - tuile, toile, taule | x - x | x - x | x - x |
+6 | Schtroumfs - tache, toge, tige | x - x | x - x | x - x |
+7 | Kirikou - taxi, taquet, taki walki | x - x | x - x | x - x |
+8 | Vegeta - taf, tof, tif | x - x | x - x | x - x |
+9 | Panthère rose - tapis, toupis, taper | x - x | x - x | x - x |
+10 | Scratch - tasse, tissu, tousser | x - x | x - x | x - x |
+V | Tintin - TV, tue tête | x - x | x - x | x - x |
+D | Tiana - tétine, tatane | x - x | x - x | x - x |
+R | Tom tom & Nana - trèfle, totem, tandem | x - x | x - x | x - x |
