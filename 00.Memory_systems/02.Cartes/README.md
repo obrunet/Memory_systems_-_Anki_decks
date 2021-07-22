@@ -103,7 +103,7 @@ la mémorisation d’un bloc de cartes peut se résumer en 3 étapes :
     - grab = ne pas mémoriser tout de suite le dernier bloc de cartes mais de simplement l’encoder avant de stopper le chronomètre, 
 
  
-__Routine d’entraînement journalier__
+__Routine d’entraînement journalier__   
     - 1 ou 2 séquences de lecture / encodage chronométrée,   
     - Entre 2 et 5 séquences de mémorisation d’un paquet, si possible espacées dans un environnement calme,   
     - tenir un « journal » de votre progression, et de noter et analyser à chaque fois vos erreurs   
