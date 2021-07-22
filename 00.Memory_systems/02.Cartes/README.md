@@ -104,10 +104,10 @@ la mémorisation d’un bloc de cartes peut se résumer en 3 étapes :
 
  
 __Routine d’entraînement journalier__
-    - 1 ou 2 séquences de lecture / encodage chronométrée,
-    - Entre 2 et 5 séquences de mémorisation d’un paquet, si possible espacées dans un environnement calme,
-    - tenir un « journal » de votre progression, et de noter et analyser à chaque fois vos erreurs
-    - si impression de stagner voire de régresser : se rassurer, ca arrive à tout le monde votre cerveau a besoin de repos !
+    - 1 ou 2 séquences de lecture / encodage chronométrée,   
+    - Entre 2 et 5 séquences de mémorisation d’un paquet, si possible espacées dans un environnement calme,   
+    - tenir un « journal » de votre progression, et de noter et analyser à chaque fois vos erreurs   
+    - si impression de stagner voire de régresser : se rassurer, ca arrive à tout le monde votre cerveau a besoin de repos !   
 
  
 
