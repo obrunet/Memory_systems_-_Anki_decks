@@ -43,10 +43,10 @@ et ensuite on utilise la consonne suivante pour la hauteur; par exemple:
 
 x       | Trèfle        | Carreau           | Pique  | Coeur
 --------|-------------|-------------|-------------|-------------|
-As | Dalton - tutu, tatoo | x - x | x - x | x - x |
-2 | Naruto - tennis, tonneau, tune | x - x | x - x | x - x |
-3 | Marsupilami - tam-tam, tomate, tami | x - x | x - x | x - x |
-4 | Roger Rabit - tir, terre, tour | x - x | x - x | x - x |
+As | Dalton - tutu, tatoo | E.T - catin, catch | x - x | x - x |
+2 | Naruto - tennis, tonneau, tune | Néo - canne, canoé | x - x | x - x |
+3 | Marsupilami - tam-tam, tomate, tami | Mask (The) - came (coke), camion | x - x | x - x |
+4 | Roger Rabit - tir, terre, tour | Rambo - car, carte | x - x | x - x |
 5 | Lucky Luke - tuile, toile, taule | x - x | x - x | x - x |
 6 | Schtroumfs - tache, toge, tige | x - x | x - x | x - x |
 7 | Kirikou - taxi, taquet, taki walki | x - x | x - x | x - x |
