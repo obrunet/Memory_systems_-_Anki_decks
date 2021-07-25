@@ -43,19 +43,19 @@ et ensuite on utilise la consonne suivante pour la hauteur; par exemple:
 
 x       | Trèfle        | Carreau           | Pique  | Coeur
 --------|-------------|-------------|-------------|-------------|
-As | Dalton - tutu, tatoo | E.T - catin, catch | x - x | x - x |
-2 | Naruto - tennis, tonneau, tune | Néo - canne, canoé | x - x | x - x |
-3 | Marsupilami - tam-tam, tomate, tami | Mask (The) - came (coke), camion | x - x | x - x |
-4 | Roger Rabit - tir, terre, tour | Rambo - car, carte | x - x | x - x |
-5 | Lucky Luke - tuile, toile, taule | x - x | x - x | x - x |
-6 | Schtroumfs - tache, toge, tige | x - x | x - x | x - x |
-7 | Kirikou - taxi, taquet, taki walki | x - x | x - x | x - x |
-8 | Vegeta - taf, tof, tif | x - x | x - x | x - x |
-9 | Panthère rose - tapis, toupis, taper | x - x | x - x | x - x |
-10 | Scratch - tasse, tissu, tousser | x - x | x - x | x - x |
-V | Tintin - TV, tue tête | x - x | x - x | x - x |
-D | Tiana - tétine, tatane | x - x | x - x | x - x |
-R | Tom tom & Nana - trèfle, totem, tandem | x - x | x - x | x - x |
+As | __Dalton__ - tutu, tatoo, toutou | __E.T__ - catin, catch, catapulte | Daft Punk - pâte, paté, batte | Dorothée - côte, cote, couteau |
+2 | Naruto - tennis, tonneau, tune | Néo - canne, canoé, canon | N.T.M - panier, pénis, paneau | Nat - cône (glace, orange, joint) |
+3 | Marsupilami - tam-tam, tomate, tami | Mask (The) - came (coke), camion | M - piment, puma, pommeau | Maman - coma, comète, combi |
+4 | Roger Rabit - tir, terre, tour | Rambo - car, carte | Renaud - bar (poisson, à boire), barre (de pole dance) | Rom - corps, cors (music, ampoule) |
+5 | Lucky Luke - tuile, toile, taule | Luck Skywalker - cale, calin, caillou | Lauryn Hill - pile, pêle, poile | Lolo - col, colle, collier, collant |
+6 | Schtroumfs - tache, toge, tige | James Bond - cage, cache, cachalot | Jimi Hendrix - poche, pêche(r), pichet | Julien - cochon, couche, cloche |
+7 | Kirikou - taxi, taquet, taki walki | Captain America - Caca, cacao, cactus | Kurt Cobain - pack (bière), paquet (cadeau), pâques (oeuf) | Carine - coca cola, coq, coco (noix & perroquet) |
+8 | Vegeta - taf, tof, tif | Forrest Gump - café, cafetière, cave | Freddy Mercury - pavé, bave, baffe | Flo - coffre, coffret, coiffe |
+9 | Panthère rose - tapis, toupis, taper, taupe | Batman - cape, capot, capote | 2Pac - pipo, pipe, papier | Papa - coppa, copeau, couper, copie |
+10 | Scratch - tasse, tissu, tousser | Superman - case, casse(r), caisse | Céline Dion - pisse, passoire, pousser | Sophie - cosse, coussin, cousin (moustique) |
+V | Tintin - TV, tue tête | Tati Danielle - cathéter, cathédrale | Tonton David - patate, pate à tartiner | Tatis - coton tige |
+D | Tiana - tétine, tatane | Ethan Hunt - catana, cadenas, caténaire | Tina Turner - patiner, bottine, poutine | Ta nièce - cotonneux, cotonnier |
+R | Tom tom & Nana - trèfle, totem, tandem | Terminator - carreaux, catamaran | Tom Jones - pique, bitume, baptême | Ta mère - coeur (organe ou amour) |
 
 
 ## Astuces & conseils pour progresser
