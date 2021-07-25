@@ -43,19 +43,19 @@ et ensuite on utilise la consonne suivante pour la hauteur; par exemple:
 
 x       | Trèfle        | Carreau           | Pique  | Coeur
 --------|-------------|-------------|-------------|-------------|
-As | __Dalton__ - tutu, tatoo, toutou | __E.T__ - catin, catch, catapulte | __Daft Punk__ - pâte, paté, batte | __Dorothée__ - côte, cote, couteau |
-2 | __Naruto__ - tennis, tonneau, tune | __Néo__ - canne, canoé, canon | __N.T.M__ - panier, pénis, paneau | __Nat__ - cône (glace, orange, joint) |
+As | __Dalton__ - tutu, tatoo, toutou | __E.T__ - catin, catch, caddie catapulte | __Daft Punk__ - pâte, paté, batte | __Dorothée__ - côte, cote, couteau |
+2 | __Naruto__ - tennis, tonneau, tune | __Néo__ - canne, canoé, canon | __N.T.M__ - panier, pénis, paneau, poney | __Nat__ - cône (glace, orange, joint) |
 3 | __Marsupilami__ - tam-tam, tomate, tami | __Mask (The)__ - came (coke), camion | __M__ - piment, puma, pommeau | __Maman__ - coma, comète, combi |
-4 | __Roger Rabit__ - tir, terre, tour | __Rambo__ - car, carte | __Renaud__ - bar (poisson, à boire), barre (de pole dance) | __Rom__ - corps, cors (music, ampoule) |
-5 | __Lucky Luke__ - tuile, toile, taule | __Luck Skywalker__ - cale, calin, caillou | __Lauryn Hill__ - pile, pêle, poile | __Lolo__ - col, colle, collier, collant |
+4 | __Roger Rabit__ - tir, terre, tour, taureau | __Rambo__ - car, carrie, carte, kart | __Renaud__ - bar (poisson, à boire), barre (de pole dance) | __Rom__ - corps, cors (music, ampoule) |
+5 | __Lucky Luke__ - tuile, toile, taule, talon | __Luck Skywalker__ - cale, calin, caillou | __Lauryn Hill__ - pile, pêle, poile | __Lolo__ - col, colle, collier, collant |
 6 | __Schtroumfs__ - tache, toge, tige | __James Bond__ - cage, cache, cachalot | __Jimi Hendrix__ - poche, pêche(r), pichet | __Julien__ - cochon, couche, cloche |
 7 | __Kirikou__ - taxi, taquet, taki walki | __Captain America__ - Caca, cacao, cactus | __Kurt Cobain__ - pack (bière), paquet (cadeau), pâques (oeuf) | __Carine__ - coca cola, coq, coco (noix & perroquet) |
 8 | __Vegeta__ - taf, tof, tif | __Forrest Gump__ - café, cafetière, cave | __Freddy Mercury__ - pavé, bave, baffe | __Flo__ - coffre, coffret, coiffe |
 9 | __Panthère rose__ - tapis, toupis, taper, taupe | __Batman__ - cape, capot, capote | __2Pac__ - pipo, pipe, papier | __Papa__ - coppa, copeau, couper, copie |
 10 | __Scratch__ - tasse, tissu, tousser | __Superman__ - case, casse(r), caisse | __Céline Dion__ - pisse, passoire, pousser | __Sophie__ - cosse, coussin, cousin (moustique) |
 V | __Tintin__ - TV, tue tête | __Tati Danielle__ - cathéter, cathédrale | __Tonton David__ - patate, pate à tartiner | __Tatis__ - coton tige |
-D | __Tiana (Princesse grenouille)__ - tétine, tatane | __Ethan Hunt__ - catana, cadenas, caténaire | __Tina Turner__ - patiner, bottine, poutine | __Ta nièce__ - cotonneux, cotonnier |
-R | __Tom tom & Nana__ - trèfle, totem, tandem | __Terminator__ - carreaux, catamaran | __Tom Jones__ - pique, bitume, baptême | __Ta mère__ - coeur (organe ou amour) |
+D | __Tiana (Princesse grenouille)__ - tétine, tatane | __Ethan Hunt__ - catana, cadenas, caténaire | __Tina Turner__ - patiner, bottine, poutine | __Ta nièce__ - cotonneux, cotonnier, comptine, condamné |
+R | __Tom tom & Nana__ - trèfle, totem, tandem, tatami | __Terminator__ - carreaux, catamaran | __Tom Jones__ - pique, bitume, baptême, podium | __Ta mère__ - coeur (organe ou amour) |
 
 
 ## Astuces & conseils pour progresser
