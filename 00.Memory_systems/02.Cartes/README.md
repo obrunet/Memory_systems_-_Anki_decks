@@ -56,7 +56,6 @@ As | __Dalton__ - tutu, tatoo, toutou | __E.T__ - catin, catch, caddie catapulte
 V | __Tintin__ - TV, tue tête | __Tati Danielle__ - cathéter, cathédrale | __Tonton David__ - patate, pate à tartiner | __Tatis__ - coton tige |
 D | __Tiana (Princesse grenouille)__ - tétine, tatane | __Ethan Hunt__ - catana, cadenas, caténaire | __Tina Turner__ - patiner, bottine, poutine | __Ta nièce__ - cotonneux, cotonnier, comptine, condamné |
 R | __Tom tom & Nana__ - trèfle, totem, tandem, tatami | __Terminator__ - carreaux, catamaran | __Tom Jones__ - pique, bitume, baptême, podium | __Ta mère__ - coeur (organe ou amour) |
-R | __Tom tom & Nana__ - trèfle, totem, tandem, tatami | __Terminator__ - carreaux, catamaran | __Tom Jones__ - pique, bitume, baptême, podium | __Ta mère__ - coeur (organe ou amour) |
 
 
 ## Astuces & conseils pour progresser
