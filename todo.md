@@ -1,1 +1,41 @@
+video games
+- outlast
+- skyrim
+- duke nukem
+- ion fury
+- hitman
+- myst cyan riven
+- room escape
+- sims 4
+- tourism game http://vectorpoem.com/tourism
+- maple story
+- dark souls
+- portal
+- nier: gestalt and nier: automata
+- fable 3
+- escape the room
+- the secret annex of anne frank
+- photosynth.net
+- google daydream
+- assassins creed series
+- stanley parable
 
+to do
+
+- geographie
+- anglais
+- allemand
+- rubiks cube
+- piano
+- vin
+- astrologie
+- mentalisme
+- echec
+- dames (version chinoise)
+- go
+- language des signes
+- japonais
+- chinois
+- alphabet syrillique
+- espagnol
+- russe
