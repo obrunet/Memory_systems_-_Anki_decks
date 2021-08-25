@@ -38,7 +38,7 @@ coming soon
  ## Cloud / Big Data / Machine Learning
 - Azure
 - GCP - [Looker]() - [LookML](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/LookML/LookML.apkg) 
-- [Spark v2.4 Machine Learning](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Spark/Spark 2.4 - Part 3 ML - 1.overview, preprocessing & feat eng..apkg) (just an overview, will be updated in the future with v3) 
+- [Spark v2.4 Machine Learning](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Spark/Spark%202.4%20-%20Part%203%20ML%20-%201.overview%2C%20preprocessing%20%26%20feat%20eng._bak_.apkg) (just an overview, will be updated in the future with v3) 
 
  
 
@@ -50,5 +50,5 @@ coming soon
 coming soon
 
 ## Misc
-- [Rubik's cube - Beginner's solution](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Misc/Rubik's cube - Beginner's solution.apkg), credits : [Ruwix](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/) & [Youcandothecube](https://www.youcandothecube.com/solve-it/3x3-solution)
+- [Rubik's cube - Beginner's solution](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Misc/Rubik's%20cube%20-%20Beginner's%20solution.apkg), credits : [Ruwix](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/) & [Youcandothecube](https://www.youcandothecube.com/solve-it/3x3-solution)
 
