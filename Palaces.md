@@ -31,6 +31,8 @@ _ Courbevoie _ Bibliothèque
 - Toulouse _ Maison vacances (WIP)
 - Courbevoie _ ancien apparte (WIP)
 - Courbevoie _ nouvel apparte (WIP)
+- Pénestin _ Maison vacances (WIP)
+- Belle Isle _ Maison Palais (WIP)
 
 # Details 
 
