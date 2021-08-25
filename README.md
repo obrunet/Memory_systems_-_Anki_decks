@@ -38,9 +38,10 @@ coming soon
  ## Cloud / Big Data / Machine Learning
 - Azure
 - GCP - [Looker]() - [LookML](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/LookML/LookML.apkg) 
-- ML
-coming soon
+- [Spark v2.4 Machine Learning](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Spark/Spark 2.4 - Part 3 ML - 1.overview, preprocessing & feat eng..apkg) (just an overview, will be updated in the future with v3) 
+
  
+
  ## Information technology
 - LPIC
 - Git / Github
@@ -49,6 +50,5 @@ coming soon
 coming soon
 
 ## Misc
-coming soon
-
+- [Rubik's cube - Beginner's solution](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Misc/Rubik's cube - Beginner's solution.apkg), credits : [Ruwix](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/) & [Youcandothecube](https://www.youcandothecube.com/solve-it/3x3-solution)
 
