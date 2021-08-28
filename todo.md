@@ -20,6 +20,15 @@ video games
 - assassins creed series
 - stanley parable
 
+- obduction
+- ether one
+- julia among the stars
+- the room
+- mind path to thalamus
+- year walk
+- the talos principle
+- outer wild
+
 to do
 
 - geographie
