@@ -16,7 +16,8 @@ The items to be remembered in this mnemonic system are mentally associated with 
 - Courbevoie _ Footing île de la Jatte
 - Courbevoie _ Piscine
 - Courbevoie _ Intermarché
-_ Courbevoie _ Bibliothèque
+- Courbevoie _ Bibliothèque
+- Pra Loup _ Place -> appartement ( emplacements)
 
 
 ## Memory palaces (in french)
@@ -27,7 +28,6 @@ _ Courbevoie _ Bibliothèque
 - [Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#paname-_-de-denfert-rochereau-%C3%A0-chez-les-grands-parents)
 - Paname _ Yannick  (WIP)
 - Paname _ Guy Moquet (WIP)
-- Pra Loup (WIP)
 - Toulouse _ Maison vacances (WIP)
 - Courbevoie _ ancien apparte (WIP)
 - Courbevoie _ nouvel apparte (WIP)
@@ -35,6 +35,38 @@ _ Courbevoie _ Bibliothèque
 - Belle Isle _ Maison Palais (WIP)
 
 # Details 
+
+## Praloup
+
+    1. place fontaine trampo
+    2. magasin de ski peau de foque
+    3. librairie
+    4. boulangerie
+    5. troittoire
+    6. escalier entrée immeuble
+    7. box à ski
+    8. entrée gardien
+    9. ascenseur
+    10. palier / local poubelle
+    11. entrée mirroir penderie
+    12. toilettes
+    14. cagibi
+    15. 1er lit 
+    16. 2ème lit
+    17. bureau rouge
+    18. salle de bain / machine / douche
+    19. canapé + rangement câne
+    20. 3ème lit + carte
+    21. bureau tréto
+    22. table ronde matos ski 
+    23. chaise longue
+    24. balcon
+    25. secretaire / bibliothèque
+    26. table à manger
+    27. frigo
+    28. cuisine
+    29. couloir palier
+    30. escalier
 
 ## Depuis la gare de SQY jusqu'à la salle de pause des bureaux CA-GIP:    
     1. quai 
