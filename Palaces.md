@@ -17,7 +17,8 @@ The items to be remembered in this mnemonic system are mentally associated with 
 - Courbevoie _ Piscine
 - Courbevoie _ Intermarché
 - Courbevoie _ Bibliothèque
-- Pra Loup _ Place -> appartement ( emplacements)
+- Pra Loup _ Place -> appartement (30 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#praloup)
+
 
 
 ## Memory palaces (in french)
