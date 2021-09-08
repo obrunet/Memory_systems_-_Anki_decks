@@ -24,7 +24,7 @@ The items to be remembered in this mnemonic system are mentally associated with 
 ## Memory palaces (in french)
  
 - la Baule _ Parents (WIP): 
-- [la Baule _ Grands parents (25 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-grands-parents-25-emplacements)
+- [la Baule _ Grands parents (30 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-grands-parents-30-emplacements)
 - Paname _ Parents (WIP)
 - [Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#paname-_-de-denfert-rochereau-%C3%A0-chez-les-grands-parents)
 - Paname _ Yannick  (WIP)
@@ -96,10 +96,10 @@ The items to be remembered in this mnemonic system are mentally associated with 
     24. couloirs bureau post it war 
     25. palier à nouveau & salle de pause déco fauteuil avec machines. 
 
-## la Baule _ Grands parents (25 emplacements): 
-    1. parking ext 
+## la Baule _ Grands parents (30 emplacements): 
+    1. parking ext voiture plot
     2. porte entrée immeuble 
-    3. porte entrée 
+    3. porte entrée / escalier
     4. entrée 
     5. 1ère chambre [ lavabo 
     6. 1er lit superposé bas 
@@ -116,12 +116,17 @@ The items to be remembered in this mnemonic system are mentally associated with 
     17. cuisine [ four 
     18. évier 
     19. plaques chauffantes 
-    20. frigo
-    21. congélo] 
-    22. salle de bain [douche 
-    23. toilettes 
-    24. évier] 
-    25. sortie apparte & ascenseur
+    20. frigo & congélo          
+    21. salle de bain [douche 
+    22. toilettes 
+    23. évier] 
+    24. sortie apparte & ascenseur
+    25. couleur sombre
+    26. sortie côté plage
+    27. allée extérieure
+    28. plage + mer
+    29. club de l'étoile ou Mickey
+    30. petite piscine
 
 ## Paname _ de Denfert Rochereau à chez les Grands Parents:
     1. station portique 
@@ -169,3 +174,88 @@ The items to be remembered in this mnemonic system are mentally associated with 
     43. corridor douche 
     44. palier immeuble 
     45. escaliers
+
+## la Baule _ Parents (15 emplacements): 
+    1. devant la porte dans le couloir
+    2. entré apparte
+    3. kitchenette
+    4. canapé
+    5. balcon
+    6. TV & bibliothèque
+    7. table a manger
+    8. salle de bain [ lavabo
+    9. douche
+    10. machine & produits
+    11. wc
+    12. chambre [ secrétaire
+    13. lit
+    14. armoire
+    15. couloir sortie apparte
+
+
+## Chez Matou _ Maison Triel-sur-Seine (26 emplacements): 
+
+    1. rue / porte entrée ext
+    2. allée / porte maison
+    3. entrée maison porte manteau
+    4. salon canapé + fauteuil
+    5. salon pas TV mais projo + jouets
+    6. table cuisine
+    7. table à manger verrandas
+    8. toboggan dans le jardin
+    9. trampoline
+    10. chaises près de la haie
+    11. potager
+    12. babyfoot verrandas
+    13. rameur
+    14. cuisine
+    15. escalier sous sol
+    16. sous sol & réserves
+    17. salle de bain avec baignoire
+    18. salle d'amis lit biblio ikea armoire
+    19. garage
+    20. autre pièce canapé
+    21. toilettes
+    22. escalier en bois
+    23. chambre lit
+    24. bureau + pendrie
+    25. salle de bain douche
+    26. chambre hugo tipi
+
+## Chez Dorothée _ Maison Festieux (26 emplacements): 
+
+    1. portail
+    2. entrée jardin
+    3. salle rangement
+    4. entrée maison baby
+    5. wc
+    6. douche
+    7. canape TV
+    6. canape table basse
+    7. piano
+    8. cuisine
+    9. table à manger
+    10. bureau
+    11. fauteuil
+    12. escalier accès 1er étage
+    13. 1ère chambre
+    14. cagibi
+    15. 2ème chambre lit surélevé
+    16. 3ème chambre [ lit
+    17. douche ]
+    18. 4ème chambre canape TV
+    19. couloir peinture machine à coudre
+    20. salle de bain / baignoire / lavabo
+    21. wc romain
+    22. salle de jeux
+    23. passage cabane coussins
+    24. 5ème chambre lit superposés + lit enfant
+    25. 6ème chambre bébé
+    26. lustre pour sortir
+    27. table dehors / terrasse pavée 
+    28. jardin
+    29. ancienne grange
+    30. piscine
+    31. chaises longues
+    31. jardin déco
+    32. emplacement voiture
