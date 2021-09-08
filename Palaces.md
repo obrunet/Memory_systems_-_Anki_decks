@@ -23,10 +23,10 @@ The items to be remembered in this mnemonic system are mentally associated with 
 
 ## Memory palaces (in french)
  
-- la Baule _ Parents (WIP): 
+- [la Baule _ Parents](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-parents-15-emplacements): 
 - [la Baule _ Grands parents (30 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-grands-parents-30-emplacements)
 - Paname _ Parents (WIP)
-- [Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#paname-_-de-denfert-rochereau-%C3%A0-chez-les-grands-parents)
+- [Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#paname-_-de-denfert-rochereau-%C3%A0-chez-les-grands-parents-45-emplacements)
 - Paname _ Yannick  (WIP)
 - Paname _ Guy Moquet (WIP)
 - Toulouse _ Maison vacances (WIP)
@@ -34,6 +34,8 @@ The items to be remembered in this mnemonic system are mentally associated with 
 - Courbevoie _ nouvel apparte (WIP)
 - Pénestin _ Maison vacances (WIP)
 - Belle Isle _ Maison Palais (WIP)
+- [Chez Matou _ Maison Triel-sur-Seine (26 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-matou-_-maison-triel-sur-seine-26-emplacements)
+- [Chez Dorothée _ Maison Festieux (26 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-doroth%C3%A9e-_-maison-festieux-26-emplacements)
 
 # Details 
 
@@ -128,7 +130,7 @@ The items to be remembered in this mnemonic system are mentally associated with 
     29. club de l'étoile ou Mickey
     30. petite piscine
 
-## Paname _ de Denfert Rochereau à chez les Grands Parents:
+## Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements):
     1. station portique 
     2. bacs à fleur 
     3. café Oz 
