@@ -23,7 +23,7 @@ The items to be remembered in this mnemonic system are mentally associated with 
 
 ## Memory palaces (in french)
  
-- [la Baule _ Parents](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-parents-15-emplacements): 
+- [la Baule _ Parents (15 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-parents-15-emplacements)
 - [la Baule _ Grands parents (30 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#la-baule-_-grands-parents-30-emplacements)
 - Paname _ Parents (WIP)
 - [Paname _ de Denfert Rochereau à chez les Grands Parents (45 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#paname-_-de-denfert-rochereau-%C3%A0-chez-les-grands-parents-45-emplacements)
@@ -35,7 +35,7 @@ The items to be remembered in this mnemonic system are mentally associated with 
 - Pénestin _ Maison vacances (WIP)
 - Belle Isle _ Maison Palais (WIP)
 - [Chez Matou _ Maison Triel-sur-Seine (26 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-matou-_-maison-triel-sur-seine-26-emplacements)
-- [Chez Dorothée _ Maison Festieux (26 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-doroth%C3%A9e-_-maison-festieux-26-emplacements)
+- [Chez Dorothée _ Maison Festieux (35 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-doroth%C3%A9e-_-maison-festieux-26-emplacements)
 
 # Details 
 
@@ -224,7 +224,7 @@ The items to be remembered in this mnemonic system are mentally associated with 
     25. salle de bain douche
     26. chambre hugo tipi
 
-## Chez Dorothée _ Maison Festieux (26 emplacements): 
+## Chez Dorothée _ Maison Festieux (35 emplacements): 
 
     1. portail
     2. entrée jardin
@@ -233,31 +233,31 @@ The items to be remembered in this mnemonic system are mentally associated with 
     5. wc
     6. douche
     7. canape TV
-    6. canape table basse
-    7. piano
-    8. cuisine
-    9. table à manger
-    10. bureau
-    11. fauteuil
-    12. escalier accès 1er étage
-    13. 1ère chambre
-    14. cagibi
-    15. 2ème chambre lit surélevé
-    16. 3ème chambre [ lit
-    17. douche ]
-    18. 4ème chambre canape TV
-    19. couloir peinture machine à coudre
-    20. salle de bain / baignoire / lavabo
-    21. wc romain
-    22. salle de jeux
-    23. passage cabane coussins
-    24. 5ème chambre lit superposés + lit enfant
-    25. 6ème chambre bébé
-    26. lustre pour sortir
-    27. table dehors / terrasse pavée 
-    28. jardin
-    29. ancienne grange
-    30. piscine
-    31. chaises longues
-    31. jardin déco
-    32. emplacement voiture
+    8. canape table basse
+    9. piano
+    10. cuisine
+    11. table à manger
+    12. bureau
+    13. fauteuil
+    14. escalier accès 1er étage
+    15. 1ère chambre
+    16. cagibi
+    17. 2ème chambre lit surélevé
+    18. 3ème chambre [ lit
+    19. douche ]
+    20. 4ème chambre canape TV
+    21. couloir peinture machine à coudre
+    22. salle de bain / baignoire / lavabo
+    23. wc romain
+    24. salle de jeux
+    25. passage cabane coussins
+    26. 5ème chambre lit superposés + lit enfant
+    27. 6ème chambre bébé
+    28. lustre pour sortir
+    29. table dehors / terrasse pavée 
+    30. jardin
+    31. ancienne grange
+    32. piscine
+    33. chaises longues
+    34. jardin déco
+    35. emplacement voiture
