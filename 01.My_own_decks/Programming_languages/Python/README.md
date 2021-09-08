@@ -1,5 +1,9 @@
-# An exhaustive Python cheat sheet 1/2
+# An exhaustive Python cheat sheet
 
-You'll find in this anki deck a summary of the most important key features of the Python programming language in order to help you memorizing it. 
+You'll find 2 anki decks
 
-Its clear syntax is illustrated trough simple examples. I'll probably make an other cheat sheet in the future with a focus on the Object Oriented part of Python and on functionnal programming. You can find all of this content in a dedicated [jupyter notebook]() or as [a blogpost on my personnal website]().
+- one with the basics : the most important key features of the Python programming language - [jupyter notebook](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/python_cheat_sheet_reworked.ipynb) /  [anki deck](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%201-2.apkg).
+- an other one with a focus on OOP & on functionnal programming - [jupyter notebook](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/cheat_sheet_2_2021-09-08.ipynb) /  [anki deck WIP]().
+
+
+The language clear syntax is illustrated trough simple examples.

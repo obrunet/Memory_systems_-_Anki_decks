@@ -29,7 +29,7 @@ coming soon
 
 ## [Programming languages](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/)
  - Python 1 / 2 : all programming aspects except functions & OOP : [Notebook](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/python_cheat_sheet.ipynb) - [Anki deck](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/)
-  - Python 2 / 2 : functions & OOP : [Notebook]() - [Anki deck]() WIP
+  - Python 2 / 2 : functions & OOP : [Notebook](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/01.My_own_decks/Programming_languages/Python/cheat_sheet_2_2021-09-08.ipynb) - [Anki deck]() WIP
  - Scala
  - Linux shell
  - [Relationnal Databases Concepts]()
