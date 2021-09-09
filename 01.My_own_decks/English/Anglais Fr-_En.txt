@@ -1,0 +1,2977 @@
+[en] je vais bien	I'm fine	[en]Vocab
+[en] je suis fatigué	I'm tired	[en]Vocab
+[en] je suis malade	I'm sick	[en]Vocab
+[en] je suis en colère	I'm angry	[en]Vocab
+[en] j'ai peur	I'm scared	[en]Vocab
+[en] je suis joyeux	I'm happy	[en]Vocab
+[en] je suis triste	I'm sad	[en]Vocab
+[en] j'ai froid	I'm cold	[en]Vocab
+[en] j'ai faim	I'm hungry	[en]Vocab
+[en] je vais couci-couça	I'm so so	[en]Vocab
+[en] je m'ennuie	I'm bored	[en]Vocab
+[en] j'ai chaud	I'm hot	[en]Vocab
+[en] j'ai soif	I'm thirsty	[en]Vocab
+[en] aimes-tu ... ?	Do you like ... ?	[en]Vocab
+[en] Oui, j'aime !	Yes I like !	[en]Vocab
+[en] Non, je n'aime pas. Je préfère...	No, I don't like. I prefer...	[en]Vocab
+[en] Qu'aimes-tu ?	What do you like ?	[en]Vocab
+[en] j'aime...	I like...	[en]Vocab
+[en] fermer	to close	[en]Vocab
+[en] peindre	to paint	[en]Vocab
+[en] ouvrir	to open	[en]Vocab
+[en] se peigner	to comb	[en]Vocab
+[en] applaudir	to clap	[en]Vocab
+[en] se laver (les dents)	to brush	[en]Vocab
+[en] danser	to dance	[en]Vocab
+[en] violet	purple	[en]Vocab
+[en] un verre d'eau	a glass of water	[en]Vocab
+[en] un verre de lait	a glass of milk	[en]Vocab
+[en] une tasse de thé	a cup of tea	[en]Vocab
+[en] une tasse de café	a cup of cofee	[en]Vocab
+[en] un jus d'orange	an orange juice	[en]Vocab
+[en] un hamburger	a hamburger	[en]Vocab
+[en] une pizza	a pizza	[en]Vocab
+[en] du pain	some bread	[en]Vocab
+[en] une glace (au chocolat par ex)	an ice cream	[en]Vocab
+[en] une boisson	a drink	[en]Vocab
+[en] the food	la nourriture	[en]Vocab
+[en] une orange	an orange	[en]Vocab
+[en] le pamplemousse	the grapefruit	[en]Vocab
+[en] une poire	a pear	[en]Vocab
+[en]une banane	a banana	[en]Vocab
+[en] une fraise	a strawberry	[en]Vocab
+[en] du raisin	grape	[en]Vocab
+[en] une pêche (fruit)	a peach	[en]Vocab
+[en] un ananas	pineapple	[en]Vocab
+[en] une noix de coco	a coconut	[en]Vocab
+[en] une cerise	a cherry	[en]Vocab
+[en] une pastèque	a watermelon	[en]Vocab
+[en] un abricot	an abricot	[en]Vocab
+[en] une prune	a plum	[en]Vocab
+[en] un pruneau	a prune	[en]Vocab
+[en] une framboise	a raspberry	[en]Vocab
+[en] une mûre	a blackberry	[en]Vocab
+[en] une myrtille	a blueberry	[en]Vocab
+[en] un melon	a melon	[en]Vocab
+[en] un citron vert	a lime	[en]Vocab
+[en] un kiwi	a kiwi	[en]Vocab
+[en] une figue	a fig	[en]Vocab
+[en] une clémentine	a clementine	[en]Vocab
+[en] une groseille	a currant	[en]Vocab
+[en] un cassis (fruit)	a blackcurrant	[en]Vocab
+[en] une grenade	a grenade	[en]Vocab
+[en] une châtaigne	a chestnut	[en]Vocab
+[en] une carotte	a carrot	[en]Vocab
+[en] une courgette	zucchini&nbsp;	[en]Vocab
+[en] les épinards	spinach	[en]Vocab
+[en] un concombre	a cucumber	[en]Vocab
+[en] un poireau	a leek	[en]Vocab
+[en] les haricots	beans	[en]Vocab
+[en] les pois (légumes)	peas	[en]Vocab
+[en] un radis	a radish	[en]Vocab
+[en] un chou	cabbage	[en]Vocab
+[en] les moments de la journée	moments of the day	[en]Vocab
+[en] les jours de la semaine	days of the week	[en]Vocab
+[en] lundi	Monday	[en]Vocab
+[en] mardi	Tuesday	[en]Vocab
+[en] mercredi	Wednesday	[en]Vocab
+[en] jeudi&nbsp;	Thursday	[en]Vocab
+[en] vendredi	Friday	[en]Vocab
+[en] samedi	Saturday	[en]Vocab
+[en] dimanche	sunday	[en]Vocab
+[en] les mois de l'année	months of the year	[en]Vocab
+[en] janvier	January	[en]Vocab
+[en] février	february	[en]Vocab
+[en] mars	March	[en]Vocab
+[en] avril	April	[en]Vocab
+[en] juin	June	[en]Vocab
+[en] juillet	July	[en]Vocab
+[en] aout	August	[en]Vocab
+[en] septembre	September	[en]Vocab
+[en] octobre	October	[en]Vocab
+[en] novembre	November	[en]Vocab
+[en] décembre	december	[en]Vocab
+[en] les saisons	seasons	[en]Vocab
+[en] l'automne&nbsp;	autumn	[en]Vocab
+[en] la semaine dernière	last week	[en]Vocab
+[en] l'année dernière	last year	[en]Vocab
+[en] en ce moment (quand le moment est court)	at the moment / right now	[en]Vocab
+[en] la semaine prochaine	next week	[en]Vocab
+[en] le 6 (du mois)	the sixth	[en]Vocab
+[en] le 7 (du mois)	the seventh	[en]Vocab
+[en] le 8 (du mois)	the eighth	[en]Vocab
+[en] le 10 (du mois)	the tenth	[en]Vocab
+[en] le 11 (du mois)	the eleventh	[en]Vocab
+[en] le 12 (du mois)	le twelfth	[en]Vocab
+[en] le 13 (du mois)	the thirteenth	[en]Vocab
+[en] le 14 (du mois)	the fourteenth	[en]Vocab
+[en] le 15 (du mois)	the fifteenth	[en]Vocab
+[en] le 16 (du mois)	the sixteenth	[en]Vocab
+[en] le 17 (du mois)	the seventeenth	[en]Vocab
+[en] le 18 (du mois)	the eighteenth	[en]Vocab
+[en] le 19 (du mois)	the nineteenth	[en]Vocab
+[en] le 20 (du mois)	the twentieth	[en]Vocab
+[en] le 21 (du mois)	the twenty-first	[en]Vocab
+[en] le 22 (du mois)	the twenty-second	[en]Vocab
+[en] le 23 (du mois)	the twenty-third	[en]Vocab
+[en] le 24 (du mois)	the twenty-fourth	[en]Vocab
+[en] le 25 (du mois)	the twenty-fifth	[en]Vocab
+[en] le 26 (du mois)	the twenty-sixth	[en]Vocab
+[en] le 27 (du mois)	the twenty-seventh	[en]Vocab
+[en] le 28 (du mois)	the twenty-eighth	[en]Vocab
+[en] le 29 (du mois)	the twenty-ninth	[en]Vocab
+[en] le 30 (du mois)	the thirtieth	[en]Vocab
+[en] le 31 (du mois)	the thirty-first	[en]Vocab
+[en] to have (got)	avoir	[en]Vocab
+[en] j'ai	I have (got)	[en]Vocab
+[en] tu as, vous avez	you have got	[en]Vocab
+[en] il a&nbsp;	he has got	[en]Vocab
+[en] nous avons	we have (got)	[en]Vocab
+[en] ils ont	they have got	[en]Vocab
+[en] As-tu un stylo ?	Have you got a pencil ? Do you have a pencil ?	[en]Vocab
+[en] je suis	I am	[en]Vocab
+[en] tu es, vous êtes	you are	[en]Vocab
+[en] il est	he is	[en]Vocab
+[en] nous sommes	we are	[en]Vocab
+[en] ils sont	they are	[en]Vocab
+[en] je vais	I go (to)	[en]Vocab
+[en] tu vas	you go (to)	[en]Vocab
+[en] il va	he goes (to)	[en]Vocab
+[en] nous allons	we go (to)	[en]Vocab
+[en] ils vont	they go (to)	[en]Vocab
+[en] je peux	I can	[en]Vocab
+[en] tu peux	you can	[en]Vocab
+[en] il peut	he can	[en]Vocab
+[en] nous pouvons	we can	[en]Vocab
+[en] ils peuvent	they can	[en]Vocab
+[en] Es-tu prêt ?	Are you ready ?	[en]Vocab
+[en] Sais-tu faire du cheval ?&nbsp;	Can you ride a horse ?	[en]Vocab
+[en] Quel temps fait-il ?	What's the weather like ?	[en]Vocab
+[en] les nuages	clouds	[en]Vocab
+[en] Le temps est ensoleillé	It's sunny	[en]Vocab
+[en] Le temps est nuageux	It's cloudy	[en]Vocab
+[en] il pleut	it's raining	[en]Vocab
+[en] il neige	it's snowing	[en]Vocab
+[en] il y a du vent	it's windy	[en]Vocab
+[en] un orage	a storm	[en]Vocab
+[en] le bouillard	the fog	[en]Vocab
+[en] Le temps est orageux	It's stormy	[en]Vocab
+[en] il y a du brouillard	it's foggy	[en]Vocab
+[en] il fait chaud	it's hot	[en]Vocab
+[en] il fait froid	it's cold	[en]Vocab
+[en] un emploi du temps	a timetable / a time schedule	[en]Vocab
+[en] les maths (matière)	mathematics	[en]Vocab
+[en] le français (matière)	French	[en]Vocab
+[en] l'EPS (matière)	PE (Physical Education)	[en]Vocab
+[en] la géographie (matière)	geography	[en]Vocab
+[en] Ma matière favorite est	My favorite subject is...	[en]Vocab
+[en] ma famille	my family	[en]Vocab
+[en] les parents	parents	[en]Vocab
+[en] les grands-parents	grand-parents	[en]Vocab
+[en] le père / papa	the father / dad / daddy	[en]Vocab
+[en] la mère / maman	the mother / mum / mummy	[en]Vocab
+[en] les enfants (des parents)	children	[en]Vocab
+[en] Madame	Madam, Mrs	[en]Vocab
+[en] un professeur	a teacher / a professor	[en]Vocab
+[en] un cousin	a cousin	[en]Vocab
+[en] une tante	an aunt	[en]Vocab
+[en] un abandon&nbsp;	abandonment / desertion	
+[en] à	to	[en]3000
+[en] à côté de	beside / near	[en]3000
+[en] à l'étranger	abroad	[en]3000
+[en] à l'extérieur	outside	[en]3000
+[en] à l'intérieur	inside	[en]3000
+[en] à l'ombre	in the shade	[en]3000
+[en] à l'origine	originally	[en]3000
+[en] à la mode	fashionable	[en]3000
+[en] chercher	to search / to look for	[en]3000
+[en] être en quête de	to seek	[en]3000
+[en] à peine	hardly / barely / merely	[en]3000
+[en] à plusieurs reprises	repeatedly	[en]3000
+[en] à suivre	to be continued	[en]3000
+[en] à travers (quelque chose d'abstrait, comme internet)	across	[en]3000
+[en] abandonner	to abandon	[en]3000
+[en] absolument	absolutely	[en]3000
+[en] définitivement	definitely	[en]3000
+[en] accompagner	to accompany / to come with	[en]3000
+[en] accomplir	to accomplish	[en]3000
+[en] accrocher	to hang [something] up	[en]3000
+[en] acheter	to buy	[en]3000
+[en] achevé (fini)	complete	[en]3000
+[en] acide (adjectif)	acidic	[en]3000
+[en] acquérir	to acquire / to gain	[en]3000
+[en] actif	active	[en]3000
+[en] actuel	current	[en]3000
+[en] additionnel	additional	[en]3000
+[en] affamé	hungry	[en]3000
+[en] affecter	to affect	[en]3000
+[en] afficher	to display	[en]3000
+[en] agir	to act	[en]3000
+[en] agréable	nice	[en]3000
+[en] agressif	aggressive	[en]3000
+[en] agricole	agricultural	[en]3000
+[en] aider	to aid / to help	[en]3000
+[en] aidez-moi ! (à l'aide !)	help me ! (help !)	[en]3000
+[en] ajouter	to add	[en]3000
+[en] aller	to go	[en]3000
+[en] analyser	to analyze	[en]3000
+[en] annoncer	to announce	[en]3000
+[en] annuel	annual / yearly	[en]3000
+[en] anticiper	to anticipate	[en]3000
+[en] apparemment	apparently	[en]3000
+[en] appartenir à	to belong to	[en]3000
+[en] apprécier	to appreciate	[en]3000
+[en] approprié	appropriate	[en]3000
+[en] approuver	to approve	[en]3000
+[en] après	after	[en]3000
+[en] armé	armed	[en]3000
+[en] arrêter (une action)	to stop	[en]3000
+[en] arrêter, interpeller (police)	to arrest	[en]3000
+[en] arriver (avoir lieu)	to occur	[en]3000
+[en] assez = plutôt / assez = suffisamment	quite / enough	[en]3000
+[en] associer	to associate	[en]3000
+[en] attaquer en justice	to sue	[en]3000
+[en] atteindre (un lieu, un endroit)	to reach	[en]3000
+[en] atteindre, arriver à une destination	to arrive	[en]3000
+[en] attirer	to attract	[en]3000
+[en] attraper quelque chose qui est à l'arrêt	to grab	[en]3000
+[en] attraper quelque chose qui vient vers vous	to catch	[en]3000
+[en] attrayant	attractive	[en]3000
+[en] au dessous de	below	[en]3000
+[en] au dessus	above	[en]3000
+[en] au lieu de	instead of	[en]3000
+[en] au sud	southern	[en]3000
+[en] au-delà	beyond	[en]3000
+[en] aucun	none	[en]3000
+[en] augmenter	to increase / to raise	[en]3000
+[en] aujourd'hui	today	[en]3000
+[en] auparavant	"before / ago (ne s'utilise pas seul : ""some time ago"" par exemple)"	[en]3000
+[en] aussi	too / as well	[en]3000
+[en] autre	other	[en]3000
+[en] autres	others	[en]3000
+[en] avancé	advanced	[en]3000
+[en] avant	before	[en]3000
+[en] avec	with	[en]3000
+[en] avec succès	successfully	[en]3000
+[en] avoir peur	to be afraid (of)	[en]3000
+[en] beaucoup (plusieurs)	much (many au pluriel)	[en]3000
+[en] beaucoup de	a lot of (loads of)	[en]3000
+[en] bien	fine, good, well	[en]3000
+[en] bientôt	soon	[en]3000
+[en] biologique	biological	[en]3000
+[en] blanc	white	[en]3000
+[en] bleu	blue	[en]3000
+[en] bonjour	hello / good morning	[en]3000
+[en] bref	brief / short	[en]3000
+[en] brièvement	briefly	[en]3000
+[en] brillant ( pour la couleur ou l'intelligence)	bright / shiny (pour la couleur uniquement) / brilliant (pour l'intelligence uniquement)	[en]3000
+[en] bruyant (ex : qui parle fort)	loud / noisy	[en]3000
+[en] c'est à dire	that is	[en]3000
+[en] calculer	to calculate	[en]3000
+[en] capable de&nbsp;	able	[en]3000
+[en] capital /&nbsp; principal, essentiel	capital / crucial	[en]3000
+[en] capturer	to capture	[en]3000
+[en] car	because	[en]3000
+[en] caractériser	to characterize	[en]3000
+[en] cassé	broken	[en]3000
+[en] célèbre	famous	[en]3000
+[en] célébrer	to celebrate	[en]3000
+[en] cent	hundred	[en]3000
+[en] central	central	[en]3000
+[en] cependant	nevertheless / however	[en]3000
+[en] certain	certain / sure	[en]3000
+[en] certains	some	[en]3000
+[en] cet	this (proche) / that (lointain)	[en]3000
+[en] ceux	these (proche) / those (lointain)	[en]3000
+[en] chanceux	lucky	[en]3000
+[en] chaque (en considérant les individus un par un)	each	[en]3000
+[en] chaque (en considérant un ensemble)	every	[en]3000
+[en] charmant	lovely / charming	[en]3000
+[en] très chaud, brûlant	hot	[en]3000
+[en] chaud / tiède	warm	[en]3000
+[en] cher (affectueux) / cher (onéreux)	dear / expensive	[en]3000
+[en] chuchoter	to whisper	[en]3000
+[en] cinq	five	[en]3000
+[en] cinquante	fifty	[en]3000
+[en] civil	civil	[en]3000
+[en] clair	clear	[en]3000
+[en] clairement	clearly	[en]3000
+[en] classique	classic	[en]3000
+[en] cohérent	consistent	[en]3000
+[en] collecter	to collect	[en]3000
+[en] collectif	collective	[en]3000
+[en] combiner	to combine	[en]3000
+[en] commander (commercial)	to order	[en]3000
+[en] commander (hiérarchie)	to command	[en]3000
+[en] comme	like	[en]3000
+[en] comment ?	how ?	[en]3000
+[en] commercial	commercial	[en]3000
+[en] commun	common	[en]3000
+[en] communiquer	to communicate	[en]3000
+[en] comparer	to compare	[en]3000
+[en] compétitif	competitive	[en]3000
+[en] complet	full / complete	[en]3000
+[en] complètement	completely	[en]3000
+[en] complexe	complex	[en]3000
+[en] compliqué	complicated	[en]3000
+[en] composer	to compose	[en]3000
+[en] comprendre	to understand	[en]3000
+[en] concerner	to concern	[en]3000
+[en] concourir	to compete	[en]3000
+[en] confirmer	to confirm	[en]3000
+[en] confortable	comfortable	[en]3000
+[en] confronter	to confront	[en]3000
+[en] conscient / conscient de&nbsp;	conscious / aware of	[en]3000
+[en] conserver	to preserve	[en]3000
+[en] considérable	considerable	[en]3000
+[en] consister	to consist (in)	[en]3000
+[en] consommer	to consume	[en]3000
+[en] constamment	constantly	[en]3000
+[en] constitutionnel	constitutional	[en]3000
+[en] contemporain	contemporary	[en]3000
+[en] contenir	to contain	[en]3000
+[en] continuer	to continue / to go on	[en]3000
+[en] contrairement à	unlike	[en]3000
+[en] contre	against	[en]3000
+[en] contre (dans le sens de : confrontation)	versus - vs	[en]3000
+[en] contribuer	to contribute	[en]3000
+[en] controversé	controversial	[en]3000
+[en] convaincre	to convince	[en]3000
+[en] conventionnel	conventional	[en]3000
+[en] convertir	to convert	[en]3000
+[en] correct	proper / correct	[en]3000
+[en] coucher	to lay	[en]3000
+[en] coupable	guilty	[en]3000
+[en] couper	to cut	[en]3000
+[en] courir	to run	[en]3000
+[en] court	short	[en]3000
+[en] creuser	to dig	[en]3000
+[en] critique (adjectif)	critical	[en]3000
+[en] critiquer	to criticize	[en]3000
+[en] croire	to believe	[en]3000
+[en] crucial	crucial	[en]3000
+[en] le cuir	leather	[en]3000
+[en] curieux	curious	[en]3000
+[en] améliorer (les détails)	to enhance	[en]3000
+[en] améliorer (les fonctionnalités générales)	to improve	[en]3000
+[en] en or	golden	[en]3000
+[en] dans (sans mouvement)	in	[en]3000
+[en] dans (avec mouvement)	into	[en]3000
+[en] dans (d'ici) quelques jours	within a few days	[en]3000
+[en] de base	basic	[en]3000
+[en] de bonne heure	early	[en]3000
+[en] conclure	to conclude	[en]3000
+[en] de côté	aside	[en]3000
+[en] de façon spectaculaire	dramatically	[en]3000
+[en] réparer	to fix	[en]3000
+[en] de plus en plus	increasingly / more and more	[en]3000
+[en] de pointe	peak	[en]3000
+[en] de premier plan	leading	[en]3000
+[en] publier	to publish	[en]3000
+[en] rejeter (une idée)	to dismiss	[en]3000
+[en] débarrasser (se débarrasser de )	to rid (to get rid of)	[en]3000
+[en] déclarer	to declare	[en]3000
+[en] découvrir	to discover	[en]3000
+[en] décrire	to describe	[en]3000
+"[en] déjà (dans le sens de ""auparavant"", dans le passé)"	already	[en]3000
+"[en] déjà (dans le sens de ""au moins une fois dans ta vie"", dans une question)"	ever	[en]3000
+[en] demander	to ask	[en]3000
+[en] j'ai une requête	I have a request	[en]3000
+[en] démocratique	democratic	[en]3000
+[en] démontrer	to demonstrate	[en]3000
+[en] depuis	since	[en]3000
+[en] dernier	last	[en]3000
+[en] derrière	behind	[en]3000
+[en] désireux	eager	[en]3000
+[en] déterminer	to determine	[en]3000
+[en] détruire	to destroy	[en]3000
+[en] deux	two	[en]3000
+[en] deux fois	twice	[en]3000
+[en] devant	ahead	[en]3000
+[en] développer	to develop	[en]3000
+[en] différemment	differently	[en]3000
+[en] décliner - refuser (une offre par exemple)&nbsp;	to decline	[en]3000
+[en] diminuer	to decrease	[en]3000
+[en] dire (dans le sens de parler)	to say	[en]3000
+[en] direct	direct	[en]3000
+[en] disparaître	to disappear	[en]3000
+[en] un dispositif	a device	[en]3000
+[en] distinguer	to distinguish	[en]3000
+[en] distribuer	to distribute	[en]3000
+[en] divisé	split	[en]3000
+[en] dix	ten	[en]3000
+[en] dominer	to dominate	[en]3000
+[en] donc	therefore / so / thus	[en]3000
+[en] donné	given	[en]3000
+[en] dont	whose	[en]3000
+[en] double	double	[en]3000
+[en] jumeau	twin	[en]3000
+[en] doucement	gently (gentiment) / slowly (lentement)	[en]3000
+[en] doué	gifted	[en]3000
+[en] douloureux	painful	[en]3000
+[en] doux	soft	[en]3000
+[en] douze	twelve	[en]3000
+[en] drôle	funny	[en]3000
+[en] dû	due	[en]3000
+[en] froid	cold	[en]3000
+[en] du quotidien	daily	[en]3000
+[en] dur (difficile)	hard	[en]3000
+[en] dur (solide, résistant)	tough	[en]3000
+[en] échanger	to exchange	[en]3000
+[en] écologique	environmental	[en]3000
+[en] éducatif	educational	[en]3000
+[en] effectivement (en effet)	indeed	[en]3000
+[en] effectuer	to perform	[en]3000
+[en] effrayé	scared	[en]3000
+[en] égal	equal	[en]3000
+[en] électronique	electronic	[en]3000
+[en] élémentaire	elementary	[en]3000
+[en] éliminer	to eliminate	[en]3000
+[en] elle	she	[en]3000
+[en] elle-même	herself	[en]3000
+[en] éloigné (de tout)	remote	[en]3000
+[en] embrasser (une idée-cause) / prendre dans ses bras	to embrace	[en]3000
+[en] émerger	to emerge	[en]3000
+[en] employer	to employ	[en]3000
+[en] en augmentant	increasing	[en]3000
+[en] en avant	forth / forward	[en]3000
+[en] en bois	wooden	[en]3000
+[en] en bonne santé	healthy	[en]3000
+[en] en cours	ongoing	[en]3000
+[en] en dehors	out	[en]3000
+[en] en effet	indeed	[en]3000
+[en] en fin de compte	ultimately / finally	[en]3000
+[en] en grande partie	mainly / largely	[en]3000
+[en] en haut	up	[en]3000
+[en] en ligne	online	[en]3000
+[en] de plus (par ailleurs)	besides	[en]3000
+[en] en outre (avec rajout de précisions)	furthermore	[en]3000
+[en] en quelque sorte	somehow	[en]3000
+[en] en retard	late	[en]3000
+[en] en tous cas	anyway	[en]3000
+[en] en train de lire	reading	[en]3000
+[en] de nouveau	again	[en]3000
+[en] je n'en ai plus&nbsp;	I have no more	[en]3000
+[en] Il n'est toujours pas là ? / Il n'est pas encore là ?	He's still not here ? / He's not here yet ?	[en]3000
+[en] encourager	to encourage	[en]3000
+[en] enfin	finally	[en]3000
+[en] gigantesque	huge	[en]3000
+[en] impressionnant&nbsp;	tremendous	[en]3000
+[en] enquêter	to investigate	[en]3000
+[en] enregistrer (un billet de train, un objet)	to register	[en]3000
+[en] entier	whole	[en]3000
+[en] entourer	to surround	[en]3000
+[en] entre	between	[en]3000
+[en] approximativement	approximately	[en]3000
+[en] environ	around	[en]3000
+[en] environ, à peu près&nbsp;	approximately / roughly	[en]3000
+[en] envisager	to consider	[en]3000
+[en] épais	thick	[en]3000
+[en] équilibrer	to balance	[en]3000
+[en] équitablement	fairly	[en]3000
+[en] espérer	to hope	[en]3000
+[en] essayer	to try	[en]3000
+[en] essentiellement	essentially	[en]3000
+[en] estimer	to estimate	[en]3000
+[en] établir	to establish	[en]3000
+[en] etc	etc	[en]3000
+[en] l'éthique	ethics	[en]3000
+[en] ethnique	ethnic	[en]3000
+[en] étirer	to stretch	[en]3000
+[en] étonnamment	surprisingly	[en]3000
+[en] étrange	strange	[en]3000
+[en] être	to be	[en]3000
+[en] être confiant	to be confident	[en]3000
+[en] être correct	to be correct	[en]3000
+[en] être de retour	to be back	[en]3000
+[en] être en colère	to be angry	[en]3000
+[en] être en désaccord	to disagree	[en]3000
+[en] être endormi	to be asleep	[en]3000
+[en] être né	to be born	[en]3000
+[en] être occupé	to be busy	[en]3000
+[en] étroit	narrow	[en]3000
+[en] étroitement	closely	[en]3000
+[en] évaluer	to evaluate	[en]3000
+[en] évident	obvious	[en]3000
+[en] exact	exact	[en]3000
+[en] exactement	exactly	[en]3000
+[en] examiner	to examine	[en]3000
+[en] excéder	to exceed	[en]3000
+[en] exclure	to ban	[en]3000
+[en] expliquer	to explain	[en]3000
+[en] explorer	to explore	[en]3000
+[en] exploser	to explode	[en]3000
+[en] exposer	to expose	[en]3000
+[en] express	express	[en]3000
+[en] extraordinaire	extraordinary	[en]3000
+[en] extrême	extreme	[en]3000
+[en] facile	easy	[en]3000
+[en] facile, simple	simple	[en]3000
+[en] facilement	easily	[en]3000
+[en] faible (peu élevé / bas)&nbsp;	low	[en]3000
+[en] faible (manque de musculature, de force)	weak	[en]3000
+[en] faire	to do	[en]3000
+[en] faire attention	to be careful	[en]3000
+[en] faire du vélo	to cycle / to bike	[en]3000
+[en] faire semblant	to pretend	[en]3000
+[en] fatigué	tired	[en]3000
+[en] faux, pas vrai	false / untrue / wrong	[en]3000
+[en] pas bien, pas comme il faut, erroné	wrong	[en]3000
+[en] fédéral	federal	[en]3000
+[en] fier	proud	[en]3000
+[en] finalement	eventually	[en]3000
+[en] fondamental	fundamental	[en]3000
+[en] formel	formal	[en]3000
+[en] fort (solide-puissant) / fort (génial)	strong / great	[en]3000
+[en] fortement (avec l'idée de poids)	heavily	[en]3000
+[en] fournir	to provide	[en]3000
+[en] frais	fresh	[en]3000
+[en] frapper	to hit	[en]3000
+[en] fréquemment	frequently	[en]3000
+[en] frotter	to rub	[en]3000
+[en] furieux	mad / furious	[en]3000
+[en] gagner (une compétition)	to win	[en]3000
+[en] garantir	to guarantee	[en]3000
+[en] générer	to generate	[en]3000
+[en] génétique	genetic	[en]3000
+[en] génial	great	[en]3000
+[en] gentil	kind	[en]3000
+[en] global / mondial	global	[en]3000
+[en] par dessus tout&nbsp;	above all	[en]3000
+[en] grand	large	[en]3000
+[en] très grand (en taille)	tall	[en]3000
+[en] grandiose	grand / grandiose	[en]3000
+[en] gris	grey	[en]3000
+[en] gros	big	[en]3000
+[en] grossièrement	roughly	[en]3000
+[en] habituel	usual	[en]3000
+[en] haut	high	[en]3000
+[en] hebdomadaire	weekly	[en]3000
+[en] content	"happy / glad (""Glad to see you !"")"	[en]3000
+[en] heureux / content	happy	[en]3000
+[en] honnête	honest	[en]3000
+[en] hôte	host	[en]3000
+[en] huit	eight	[en]3000
+[en] humide	wet	[en]3000
+[en] ici	here	[en]3000
+[en] idéal	ideal	[en]3000
+[en] identifier	to identify	[en]3000
+[en] illégal	illegal	[en]3000
+[en] ils	they	[en]3000
+[en] imaginer	to imagine	[en]3000
+[en] immédiatement	immediately	[en]3000
+[en] impair / étrange	odd	[en]3000
+[en] s'impliquer (dans une tâche)&nbsp;	to get involved	[en]3000
+[en] significatif	significant	[en]3000
+[en] impossible	impossible	[en]3000
+[en] impressionnant	impressive	[en]3000
+[en] impressionner	to impress	[en]3000
+[en] incapable	unable	[en]3000
+[en] inclure	to include	[en]3000
+[en] incorporer	to incorporate	[en]3000
+[en] incroyable, génial	amazing	[en]3000
+[en] incroyable (on ne peut pas le croire)	incredible	[en]3000
+[en] indépendamment (de la situation par ex.)	regardless	[en]3000
+[en] indépendant	independent	[en]3000
+[en] Indien	Indian	[en]3000
+[en] indiquer	to indicate	[en]3000
+[en] individuel	individual	[en]3000
+[en] industriel	industrial	[en]3000
+[en] inférieur	lower	[en]3000
+[en] influencer	to influence	[en]3000
+[en] inspirer	to inspire	[en]3000
+[en] installer	to install	[en]3000
+[en] institutionnel	institutional	[en]3000
+[en] intelligent	smart	[en]3000
+[en] intense	intense	[en]3000
+[en] intéressant	interesting	[en]3000
+[en] intéressé	interested	[en]3000
+[en] international	international	[en]3000
+[en] interpréter	to interpret	[en]3000
+[en] islamique	islamic	[en]3000
+[en] jamais	never	[en]3000
+[en] jaune	yellow	[en]3000
+[en] jeune	young	[en]3000
+[en] jolie	pretty	[en]3000
+[en] juif	jewish	[en]3000
+[en] junior	junior	[en]3000
+[en] jusqu'à	until	[en]3000
+[en] juste (qui va dans le sens de la justice)	fair	[en]3000
+[en] juste (une réponse)&nbsp;	right	[en]3000
+[en] justifier	to justify	[en]3000
+[en] une absence&nbsp;	an absence	[en]3000
+[en] un accident	an accident	[en]3000
+[en] un accord	an agreement	[en]3000
+[en] un achat	a purchase	[en]3000
+[en] une action	an action	[en]3000
+[en] un activiste	an activist	[en]3000
+[en] une activité	an activity	[en]3000
+[en] une actrice	an actress	[en]3000
+[en] une addition (au restau)&nbsp;	a bill / a check (en maths = a sum)	[en]3000
+[en] un adolescent	a teenager / an adolescent	[en]3000
+[en] une administration	an administration	[en]3000
+[en] une admission	an admission	[en]3000
+[en] l'ADN	the DNA	[en]3000
+[en] une adresse postale	a postal address	[en]3000
+[en] un adversaire	an opponent	[en]3000
+[en] la publicité	advertising	[en]3000
+[en] un aéroport	an airport	[en]3000
+[en] une relation extraconjugale	an affair	[en]3000
+[en] un Africain	an African	[en]3000
+[en] un afro-américain	an African American / a Black American	[en]3000
+[en] l'âge	the age	[en]3000
+[en] une agence	an agency	[en]3000
+[en] un agenda	an agenda	[en]3000
+[en] un agriculteur	a farmer	[en]3000
+[en] une assistance (aide)	an assistance	[en]3000
+[en] l'ail	garlic	[en]3000
+[en] l'air	the air	[en]3000
+[en] un ajustement	an adjustment	[en]3000
+[en] l'alcool	alcohol	[en]3000
+[en] un Allemand	a German	[en]3000
+[en] une alliance (un pacte)	an alliance	[en]3000
+[en] une alternative	an alternative	[en]3000
+[en] une amélioration	an improvement	[en]3000
+[en] un Américain	an American	[en]3000
+[en] un ami	a friend	[en]3000
+[en] l'amitié	friendship	[en]3000
+[en] l'ampleur	the extent	[en]3000
+[en] une analyse	an analysis	[en]3000
+[en] un analyste	an analyst	[en]3000
+[en] ancien (précédent) / ancien (vieux)	former / old	[en]3000
+[en] un ancien combattant	a veteran	[en]3000
+[en] l'anglais&nbsp;	English	[en]3000
+[en] un animal	an animal	[en]3000
+[en] un anniversaire (d'un évènement)	an anniversary	[en]3000
+[en] un anniversaire (de naissance)	a birthday	[en]3000
+[en] l'anxiété	anxiety	[en]3000
+[en] l'aperçu	the insight	[en]3000
+[en] un appareil photo	a camera	[en]3000
+[en] l'apparence	the appearance	[en]3000
+[en] un appartement	an apartment	[en]3000
+[en] un appel (téléphonique)	an appeal (a call)	[en]3000
+[en] une application	an application	[en]3000
+[en] l'application (de la loi)	the enforcement	[en]3000
+[en] l'apprentissage	the learning	[en]3000
+[en] l'approbation	the approval	[en]3000
+[en] l'après-midi	the afternoon	[en]3000
+[en] un architecte	an architect	[en]3000
+[en] l'argent (le métal)	silver	[en]3000
+[en] un argument	an argument	[en]3000
+[en] une arme	a weapon	[en]3000
+[en] une armoire	a wardrobe	[en]3000
+[en] un arrangement	an arrangement	[en]3000
+[en] l'arrière-plan	the background	[en]3000
+[en] l'arrivée	the arrival	[en]3000
+[en] l'art	the art	[en]3000
+[en] un article (d'un journal)	an article	[en]3000
+[en] une revue	a review	[en]3000
+[en] un artiste	an artist	[en]3000
+[en] un aspect	an aspect	[en]3000
+[en] un assaut	an assault	[en]3000
+[en] un assistant	an assistant	[en]3000
+[en] une association	an association	[en]3000
+[en] une assurance	an insurance	[en]3000
+[en]un atelier	a workshop	[en]3000
+[en] un athlète	an athlete	[en]3000
+[en] l'atmosphère	the atmosphere	[en]3000
+[en] une attente (désir) / une attente (un délai)	an expectation / a delay	[en]3000
+[en] l'attention	the attention	[en]3000
+[en] l'attitude	the attitude	[en]3000
+[en] l'attribut	the attribute	[en]3000
+[en] une audience	a hearing	[en]3000
+[en] un auditoire, un public	an audience	[en]3000
+[en] un auteur	an author	[en]3000
+[en] l'autorité	authority	[en]3000
+[en] une autoroute	a highway	[en]3000
+[en] un autre&nbsp;	another	[en]3000
+[en] un avantage	an advantage	[en]3000
+[en] l'avenir	future	[en]3000
+[en] une aventure	an adventure	[en]3000
+[en] un avertissement	a warning	[en]3000
+[en] un véhicule qui vole (un avion, une mongolfière etc)	an aircraft	[en]3000
+[en] un avocat défenseur&nbsp;	an advocate	[en]3000
+[en] le procureur	the attorney	[en]3000
+[en] un juriste&nbsp;	a lawyer	[en]3000
+[en] l'avortement	abortion	[en]3000
+[en] un échantillon	a sample	[en]3000
+[en] un échec	a failure	[en]3000
+[en] l'école	the school	[en]3000
+[en] l'économie (la manière dont fonctionne l'économie d'un pays)	the economy	[en]3000
+[en] les économies	saving	[en]3000
+[en] un économiste	an economist	[en]3000
+[en] un écran	a screen	[en]3000
+[en] l'écriture	the writing	[en]3000
+[en] un écrivain	a writer	[en]3000
+[en] un éditeur	a publisher	[en]3000
+[en] l'édition	the edition	[en]3000
+[en] un éducateur	an educator	[en]3000
+[en] l'éducation	the education	[en]3000
+[en] l'effet	the effect	[en]3000
+[en] l'efficacité	the efficiency	[en]3000
+[en] un effondrement	a collapse	[en]3000
+[en] un effort	an effort	[en]3000
+[en] une église	a church	[en]3000
+[en] une élection	an election	[en]3000
+[en] l'électricité	electricity	[en]3000
+[en] un élément	an element	[en]3000
+[en] un émerveillement	a wonder	[en]3000
+[en] une émission (pas de télé !)	an emission	[en]3000
+[en] une émotion	an emotion	[en]3000
+[en] l'emphase	the emphasis	[en]3000
+[en] un emplacement	a location	[en]3000
+[en] l'emploi	the employment	[en]3000
+[en] un employé	an employee	[en]3000
+[en] un employeur	an employer	[en]3000
+[en] l'énergie	energy	[en]3000
+[en] l'enfance	childhood	[en]3000
+[en] un engagement	a commitment	[en]3000
+[en] une enquête à charge	an inquiry	[en]3000
+[en] une investigation	an investigation	[en]3000
+[en] un enquêteur	an investigator	[en]3000
+[en] un enregistrement	a recording	[en]3000
+[en] un enseignant	a teacher	[en]3000
+[en] l'enseignement	teaching	[en]3000
+[en] une entrée&nbsp;	an entrance	[en]3000
+[en] une entreprise	a company, an enterprise, a corporation	[en]3000
+[en] l'environnement	the environment	[en]3000
+[en] l'épaule	the shoulder	[en]3000
+[en] une épicerie	a grocery	[en]3000
+[en] un épisode	an episode	[en]3000
+[en] l'équipement	the equipment	[en]3000
+[en] l'ère (géologique)	the era	[en]3000
+[en] une erreur&nbsp; (humaine)	a mistake	[en]3000
+[en] l'espagnol (langue)&nbsp;	Spanish	[en]3000
+[en] l'esprit (au sens spirituel du terme)	the spirit	[en]3000
+[en] un test (médical)	a testing	[en]3000
+[en] l'est (direction cardinale)	east	[en]3000
+[en] l'estomac	the stomach	[en]3000
+[en] l'été	summer	[en]3000
+[en] un étranger (celui qui ne vit pas dans notre pays)	a foreigner	[en]3000
+[en] un étranger (celui qui nous est étranger, que l'on ne connait pas)	a stranger	[en]3000
+[en] un étudiant	a student	[en]3000
+[en] un Européen	an European	[en]3000
+[en] une évaluation	an evaluation, an assessment	[en]3000
+[en] l'évolution	the evolution	[en]3000
+[en] un examen	an examination / a test	[en]3000
+[en] un exemple	an example	[en]3000
+[en] une exception	an exception	[en]3000
+[en] un exercice	an exercise	[en]3000
+[en] une exigence (dans le sens de consigne)	a requirement	[en]3000
+[en] l'existence	the existence	[en]3000
+[en] l'expansion	the expansion	[en]3000
+[en] l'expérience (habileté à faire)	experience	[en]3000
+[en] l'expérience (scientifique)	the experiment	[en]3000
+[en] un expert	an expert	[en]3000
+[en] une explication	an explanation	[en]3000
+[en] une explosion	an explosion	[en]3000
+[en] une exposition	an exhibit, an exhibition, a show	[en]3000
+[en] l'exposition (d'un objet à la lumière, le fait de soumettre un objet à la lumière)	the exposure	[en]3000
+[en] l'expression	the expression	[en]3000
+[en] l'extension	the extension	[en]3000
+[en] l'habillement&nbsp;	clothing	[en]3000
+[en] l'habitat	the habitat	[en]3000
+[en] un hélicoptère	an helicopter	[en]3000
+[en] un héritage	a legacy	[en]3000
+[en] l'Histoire&nbsp;	History	[en]3000
+[en] un historien	an historian	[en]3000
+[en] l'hiver	winter	[en]3000
+[en] un homme politique	a politician	[en]3000
+[en] un hôpital	an hospital	[en]3000
+[en] un horaire	a schedule	[en]3000
+[en] l'horizon	the horizon	[en]3000
+[en] l'horreur	the horror	[en]3000
+[en] l'hypothèse (qui n'a pas forcement besoin de preuves)	the assumption	[en]3000
+[en] l'hypothèse (qui demande des preuves indiscutables ; scientifiques par exemple)	the hypothesis	[en]3000
+[en] l'identification	the identification	[en]3000
+[en] l'identité	identity	[en]3000
+[en] une île	an island	[en]3000
+[en] une image (sur un support physique)	a picture	[en]3000
+[en] l'imagination&nbsp;	imagination	[en]3000
+[en] l'immigration&nbsp;	immigration	[en]3000
+[en] un immigré	an immigrant	[en]3000
+[en] l'impact	the impact	[en]3000
+[en] l'implication	the implication	[en]3000
+[en] l'importance	the importance	[en]3000
+[en] une impression	an impression / a feeling	[en]3000
+[en] un incident	an incident	[en]3000
+[en] une incitation	an incentive	[en]3000
+[en] l'indépendance	the independence	[en]3000
+[en] une indication	an indication	[en]3000
+[en] l'industrie	the industry	[en]3000
+[en] une infection	an infection	[en]3000
+[en] l'inflation	the inflation	[en]3000
+[en] une information	an information	[en]3000
+[en] une infraction	an offense	[en]3000
+[en] l'ingénierie&nbsp;	engineering	[en]3000
+[en] un ingénieur	an engineer	[en]3000
+[en] un ingrédient	an ingredient	[en]3000
+[en] une initiative	an initiative	[en]3000
+[en] une instance	an instance	[en]3000
+[en] une institution	an institution	[en]3000
+[en] un instructeur	an instructor	[en]3000
+[en] l'instruction	instruction	[en]3000
+[en] un instrument	an instrument	[en]3000
+[en]intellectuel	intellectual	[en]3000
+[en] l'intelligence&nbsp;	intelligence	[en]3000
+[en] l'intensité	intensity	[en]3000
+[en] avoir l'intention de	to intend (to)	[en]3000
+[en] l'intention	the intention	[en]3000
+[en] l'interaction	the interaction	[en]3000
+[en] l'interêt	the interest	[en]3000
+[en] une interprétation	an interpretation	[en]3000
+[en] l'intervention	the intervention	[en]3000
+[en] une interview	an interview	[en]3000
+[en] une introduction	an introduction	[en]3000
+[en] l'invalidité (physique)	the disability	[en]3000
+[en] une invasion	an invasion	[en]3000
+[en] un investissement	an investment	[en]3000
+[en] un investisseur	an investor	[en]3000
+[en] Italien	Italian	[en]3000
+[en] l'objet	the object	[en]3000
+[en] un objectif	an objective	[en]3000
+[en] une obligation	an obligation	[en]3000
+[en] l'obscurité	darkness	[en]3000
+[en] l'observateur	the observer	[en]3000
+[en] l'observation	the observation	[en]3000
+[en] une occasion	an occasion	[en]3000
+[en] l'occupation	the occupation	[en]3000
+[en] un officier	an officer	[en]3000
+[en] l'ombre	the shadow	[en]3000
+[en] une opération	an operation	[en]3000
+[en] une opinion	an opinion	[en]3000
+[en] une opportunité	an opportunity	[en]3000
+[en] l'opposé	the opposite	[en]3000
+[en] une opposition	an opposition	[en]3000
+[en] une option	an option	[en]3000
+[en] un ordinateur	a computer	[en]3000
+[en] une organisation	an organization	[en]3000
+[en] l'orientation	the orientation	[en]3000
+[en] l'origine	the origin	[en]3000
+[en] une ouverture	an opening	[en]3000
+[en] un uniforme	a uniform	[en]3000
+[en] l'univers	the universe	[en]3000
+[en] une université	a university	[en]3000
+[en] une urgence	an emergency	[en]3000
+[en] une usine	a factory	[en]3000
+[en] la / le / les	the	[en]3000
+[en] là	there	[en]3000
+[en] une balle (de pistolet)	a bullet	[en]3000
+[en]une barrière	a barrier	[en]3000
+[en] une batterie (de voiture par ex)	a battery	[en]3000
+[en] la beauté	beauty	[en]3000
+[en] une bibliothèque	a library	[en]3000
+[en] une blessure	an injury / a wound	[en]3000
+[en] une boîte	a box	[en]3000
+[en] une bourse (étudiante)	a scholarship	[en]3000
+[en] une bouteille	a bottle	[en]3000
+[en] une branche	a branch	[en]3000
+[en] la campagne (électorale)	the campaign	[en]3000
+[en] la capacité (contenance)	the capability	[en]3000
+[en] la capacité (que l'on sait - que l'on a, déjà éprouvée)	the ability	[en]3000
+[en] la capacité (le potentiel)	the capacity	[en]3000
+[en] une caractéristique	a characteristic	[en]3000
+[en] la carrière (professionnelle)	the career	[en]3000
+[en] une carte / une carte (un plan)	a card / a map	[en]3000
+[en] une catégorie	a category	[en]3000
+[en] une célébrité	a celebrity	[en]3000
+[en] une cérémonie	a ceremony	[en]3000
+[en] une chaîne	a string	[en]3000
+[en] une chaîne (à la télévision)	a channel	[en]3000
+[en] une chambre (où l'on dort)	a bedroom	[en]3000
+[en] une probabilité	a chance	[en]3000
+[en] un fardeau	a burden	[en]3000
+[en] la charité	charity	[en]3000
+[en] la chasse (pour tuer)	hunting	[en]3000
+[en] la chirurgie	surgery	[en]3000
+[en] une cible	a target	[en]3000
+[en] une cigarette	a cigarette	[en]3000
+[en] une circonstance	a circumstance	[en]3000
+[en] une clé	a key	[en]3000
+[en] une clinique	a clinic	[en]3000
+[en] une coalition	a coalition	[en]3000
+[en] une collection	a collection	[en]3000
+[en] une colonne	a column	[en]3000
+[en] une combinaison	a combination	[en]3000
+[en] la comédie	comedy	[en]3000
+[en] la commercialisation	marketing	[en]3000
+[en] une commission	a commission	[en]3000
+[en] une communauté	a community	[en]3000
+[en] la communication	communication	[en]3000
+[en] une compagnie aérienne	an airline	[en]3000
+[en] une comparaison	a comparison	[en]3000
+[en] une compétition (qui met le stress, l'émulation entre des personnes) / compétition sportive	competition / championship	[en]3000
+[en] une compétition (organisée, sportive par exemple, à laquelle il y aura un vainqueur)	a contest	[en]3000
+[en] une composition	a composition	[en]3000
+[en] la compréhension	understanding	[en]3000
+[en] la concentration	concentration / focus	[en]3000
+[en] la conception (de produits)	design	[en]3000
+[en] une conclusion	a conclusion	[en]3000
+[en] une condition	a condition	[en]3000
+[en] une conférence	a conference	[en]3000
+[en] la confiance	confidence	[en]3000
+[en] la confusion	confusion	[en]3000
+[en] la connaissance	knowledge	[en]3000
+[en] une connexion	a connection	[en]3000
+[en] la conscience	awareness	[en]3000
+[en] la conscience (cerveau)	consciousness	[en]3000
+[en] la conséquence	the consequence	[en]3000
+[en] la consommation	consumption	[en]3000
+[en] la construction (d'un immeuble par ex)	the construction / the building	[en]3000
+[en] la contribution	contribution	[en]3000
+[en] une controverse	a controversy	[en]3000
+[en] une convention	a convention	[en]3000
+[en] une conversation	a conversation	[en]3000
+[en] une conviction	a conviction	[en]3000
+[en] la coopération	cooperation	[en]3000
+[en] la course (pour courir sans forcément faire la compétition)	running	[en]3000
+[en] une couverture (sur un lit)	a blanket	[en]3000
+[en] la couverture (le toit d'une maison, ou la couverture médiatique d'un événement)	the coverage	[en]3000
+[en] une création	a creation	[en]3000
+[en] une créature	a creature	[en]3000
+[en] une crise	a crisis	[en]3000
+[en] la critique	criticism	[en]3000
+[en] la croissance (en taille)	growing	[en]3000
+[en] la croissance (développement)	growth	[en]3000
+[en] la croyance	the belief	[en]3000
+[en] une cuillère à café	a teaspoon	[en]3000
+[en] une cuillère à soupe	a tablespoon	[en]3000
+[en] la cuisine (avec des recettes de cuisine)	cooking	[en]3000
+[en] la cuisine (la pièce où l'on fait la cuisine)	the kitchen	[en]3000
+[en] la culture	culture	[en]3000
+[en] une décennie	a decade	[en]3000
+[en] une décision	a decision	[en]3000
+[en] une déclaration	a statement	[en]3000
+[en] une découverte (de quelque chose que l'on ne s'attendait pas à trouver)	a discovery	[en]3000
+[en] une découverte (de quelque chose que l'on souhaitait vraiment trouver)	a finding	[en]3000
+[en] une défaite	a defeat	[en]3000
+[en] la défense	the defense	[en]3000
+[en] une définition	a definition	[en]3000
+[en] une demande (quand on demande fortement, avec insistance)	a demand	[en]3000
+[en] la démocratie	democracy	[en]3000
+[en] une démolition	a destruction	[en]3000
+[en] une démonstration	a demonstration	[en]3000
+[en] la dépression	depression	[en]3000
+[en] une dérive [	a drift	[en]3000
+[en] une description	a description	[en]3000
+[en] le 2 du mois / le second&nbsp;	the second	[en]3000
+[en] une différence	a difference	[en]3000
+[en] une difficulté	a difficulty	[en]3000
+[en] une dimension	a dimension	[en]3000
+[en] la direction (le sens dans lequel on va)	the direction	[en]3000
+[en] la direction (la tête d'une organisation, d'une entreprise)	the leadership	[en]3000
+[en] la discipline	discipline	[en]3000
+[en] la discrimination	discrimination	[en]3000
+[en] une discussion	a discussion	[en]3000
+[en] la distance	distance	[en]3000
+[en] une distinction	a distinction	[en]3000
+[en] une distribution	a distribution	[en]3000
+[en] la diversité	diversity	[en]3000
+[en] une division	a division	[en]3000
+[en] la douane	the custom	[en]3000
+[en] une douche	a shower	[en]3000
+[en] la durée	the length	[en]3000
+[en] la durée de vie	the lifetime	[en]3000
+[en] la fabrication	the manufacturing	[en]3000
+[en] la facilité&nbsp;	the ease	[en]3000
+[en] la faculté (aptitude)	the faculty / the ability	[en]3000
+[en] la famille	the family	[en]3000
+[en] la femelle	the female	[en]3000
+[en] une fenêtre	a window	[en]3000
+[en] une célébration	a celebration	[en]3000
+[en] la fiction	fiction	[en]3000
+[en] la fille (d'un parent)	the daughter	[en]3000
+[en] la fin	the end	[en]3000
+[en] la finance	the finance	[en]3000
+[en] une fleur	a flower	[en]3000
+[en] la fonction	the feature	[en]3000
+[en] fonctionner	to function / to work	[en]3000
+[en] la fondation	the foundation	[en]3000
+[en] la force	strength	[en]3000
+[en] une forêt	a forest	[en]3000
+[en] la formation (de quelque chose : la formation d'un volcan, la formation d'un iceberg)	the formation	[en]3000
+[en] un entraînement	a training	[en]3000
+[en] une formule	a formula	[en]3000
+[en] la fortune	the fortune	[en]3000
+[en] une provision	a provision	[en]3000
+[en] une fourniture	a supply	[en]3000
+[en] la fréquence	frequency	[en]3000
+[en] une frontière	a border	[en]3000
+[en] une limite (dans le sens d'une ligne limite)	a boundary	[en]3000
+[en] la frustration	frustration	[en]3000
+[en] une fusillade	a shooting	[en]3000
+[en] une galaxie	ta galaxy	[en]3000
+[en] une galerie	a gallery	[en]3000
+[en] une gare	a station	[en]3000
+[en] une génération	a generation	[en]3000
+[en] la gestion	management	[en]3000
+[en] la glace	the ice	[en]3000
+[en] la gorge	the throat	[en]3000
+[en] la graisse	the fat	[en]3000
+[en] la grand-mère	the grandmother / grandma	[en]3000
+[en] une grève	a strike	[en]3000
+[en] une grossesse	a pregnancy	[en]3000
+[en] la guerre	the war	[en]3000
+[en] la hanche	the hip	[en]3000
+[en] la hauteur	the height	[en]3000
+[en] la jambe	the leg	[en]3000
+[en] la joie	joy / happyness	[en]3000
+[en] un(e) journaliste	a journalist	[en]3000
+[en] la justice	justice	[en]3000
+[en] la langue (dans la bouche)	the tongue	[en]3000
+[en] la langue (d'un pays)	the language	[en]3000
+[en] une leçon	a lesson	[en]3000
+[en] une légende	a legend	[en]3000
+[en] la législation	the legislation	[en]3000
+[en] une lettre	a letter	[en]3000
+[en] la lèvre	the lip	[en]3000
+[en] la liberté	freedom	[en]3000
+[en] une licence	a license	[en]3000
+[en] une ligne (dans un tableur)	a row	[en]3000
+[en] une ligne directrice	a guideline	[en]3000
+[en] une ligue	a league	[en]3000
+[en] une limitation	a limitation	[en]3000
+[en] la littérature	literature	[en]3000
+[en] une livraison	a delivery	[en]3000
+[en] une loi	a law	[en]3000
+[en] une machine	a machine	[en]3000
+[en] la maintenance	the maintenance	[en]3000
+[en] la majorité	the majority	[en]3000
+[en] une maladie	a disease	[en]3000
+[en] être malade	to be ill	[en]3000
+[en] une manière	a manner / a way	[en]3000
+[en] une marge	a margin	[en]3000
+[en] la médecine	the medicine	[en]3000
+[en] la mémoire	the memory	[en]3000
+[en] une menace	a threat	[en]3000
+[en] une mention	a mention	[en]3000
+[en] la mer	the sea	[en]3000
+[en] une mesure	a measure	[en]3000
+[en] une mesure (le fait de mesurer)	a measurement	[en]3000
+[en] une méthode	a method	[en]3000
+[en] une minorité	a minority	[en]3000
+[en] une minute	a minute	[en]3000
+[en] la mise en place	the establishment	[en]3000
+[en] une mission	a mission	[en]3000
+[en] une montagne	a mountain	[en]3000
+[en] la motivation	the motivation	[en]3000
+[en] la moyenne	the average	[en]3000
+[en] une nation	a nation	[en]3000
+[en] la nature	nature	[en]3000
+[en] une négociation	a negotiation / a bargaining	[en]3000
+[en] une noix	a nut	[en]3000
+[en] une nomination	a nomination	[en]3000
+[en] une note (au sens de l'évaluation)	a rating	[en]3000
+[en] une notion	a notion	[en]3000
+[en] l'investissement (dans une tâche)	the involvement	[en]3000
+[en] une participation	a participation	[en]3000
+[en] la passion	passion	[en]3000
+[en] la pauvreté	poverty	[en]3000
+[en] la pêche	fishing	[en]3000
+[en] la peinture	painting	[en]3000
+[en] une pénalité	a penalty	[en]3000
+[en] penser	to think	[en]3000
+[en] une pensée	a thought	[en]3000
+[en] une perception	a perception	[en]3000
+[en] une performance	a performance	[en]3000
+[en] une période	a period	[en]3000
+[en] une permission	a permission	[en]3000
+[en] la personnalité	the personality	[en]3000
+[en] une personne	a person	[en]3000
+[en] une personne âgée	a senior	[en]3000
+[en] une perspective	a perspective	[en]3000
+[en] prospecter	to prospect	[en]3000
+[en] une petite amie	a girlfriend	[en]3000
+[en] la philosophie	philosophy	[en]3000
+[en] une phrase&nbsp;	a sentence	[en]3000
+[en] une place (d'un village)	&nbsp;a square	[en]3000
+[en] une plainte	a complaint	[en]3000
+[en] une planète	a planet	[en]3000
+[en] la planification	the planning	[en]3000
+[en] une plateforme	a platform	[en]3000
+[en] la plupart&nbsp;	most of	[en]3000
+[en] une poche	a pocket	[en]3000
+[en] une poêle	a pan	[en]3000
+[en] la poésie	poetry	[en]3000
+[en] une poignée (de chips par exemple) / une poignée (de main) / une poignée (de porte)	a handful / a handshake / a door handle	[en]3000
+[en] une pointe	a tip	[en]3000
+[en] un sein	a breast	[en]3000
+[en] la police	the police	[en]3000
+[en] la politique (économique par ex) / la politique (en général)	the policy / politics	[en]3000
+[en] la pollution	pollution	[en]3000
+[en] une pomme de terre	a potato	[en]3000
+[en] la population	the population	[en]3000
+[en] une portion	a portion	[en]3000
+[en] une position	ta position	[en]3000
+[en] une possibilité	a possibility	[en]3000
+[en] la poudre	the powder	[en]3000
+[en] une préférence	a preference	[en]3000
+[en] la première fois	the first time	[en]3000
+[en] une préparation	a preparation	[en]3000
+[en] une prescription	a prescription	[en]3000
+[en] une présence	a presence	[en]3000
+[en] une présentation	a presentation	[en]3000
+[en] la pression	the pressure	[en]3000
+[en] une preuve (après laquelle il ne reste plus de doute)	an evidence	[en]3000
+[en] une prière	a prayer	[en]3000
+[en] une priorité	a priority	[en]3000
+[en] la prise en compte	the consideration	[en]3000
+[en] une prison	a prison / a jail	[en]3000
+[en] une procédure	a procedure	[en]3000
+[en] une production	a production	[en]3000
+[en] une profession	a profession	[en]3000
+[en] la proportion	the proportion	[en]3000
+[en] une proposition	a proposal	[en]3000
+[en] une propriété / une propriété (immobilière)	a possession / a property	[en]3000
+[en] une protection	a protection	[en]3000
+[en] une protéine	a protein	[en]3000
+[en] une province	a province	[en]3000
+[en] la psychologie	psychology	[en]3000
+[en] une publication	a publication	[en]3000
+[en] une punition	a punishment	[en]3000
+[en] une qualité	a quality	[en]3000
+[en] le problème apparent, le sujet de discussion&nbsp;	the matter / the issue	[en]3000
+[en] une question	a question	[en]3000
+[en] une raison	a reason	[en]3000
+[en] une réaction	a reaction	[en]3000
+[en] une réalisation	an achievement	[en]3000
+[en] la réalité	reality	[en]3000
+[en] une recette	a recipe	[en]3000
+[en] une recherche	a research	[en]3000
+[en] une recommandation	a recommendation	[en]3000
+[en] la reconnaissance	the recognition	[en]3000
+[en] la récupération	recovery	[en]3000
+[en] la réduction	reduction	[en]3000
+[en] la réflexion	reflection	[en]3000
+[en] une région	a region	[en]3000
+[en] une réglementation	a regulation	[en]3000
+[en] une relation (humaine)	a relationship	[en]3000
+[en] une religion	a religion	[en]3000
+[en] une remise en forme	a fitness	[en]3000
+[en] une réponse	a response / an answer	[en]3000
+[en] une représentation	a representation	[en]3000
+[en] la réputation	the reputation	[en]3000
+[en] une réservation	a reservation	[en]3000
+[en] la résistance	the resistance	[en]3000
+[en] une résolution (décision)&nbsp;	a resolution	[en]3000
+[en] une responsabilité	a responsibility	[en]3000
+[en] une ressource	ta resource	[en]3000
+[en] une restriction	a restriction	[en]3000
+[en] la retraite	the retirement	[en]3000
+[en] une réunion (professionnelle)	a meeting	[en]3000
+[en] une révolution	a revolution	[en]3000
+[en] la richesse	the wealth	[en]3000
+[en] la routine	the routine	[en]3000
+[en] une rue	a street	[en]3000
+[en] la sagesse	wisdom	[en]3000
+[en] une saisie&nbsp;	a seizing	[en]3000
+[en] une saison	a season	[en]3000
+[en] la saleté	dirt	[en]3000
+[en] une salle à manger	a dining (room)	[en]3000
+[en] une salle de bain	a bathroom	[en]3000
+[en] une salle de classe	a classroom	[en]3000
+[en] une sanction	a sanction	[en]3000
+[en] la santé	health	[en]3000
+[en] une satisfaction	a satisfaction	[en]3000
+[en] la science	science	[en]3000
+[en] une section	a section	[en]3000
+[en] la sécurité	the safety / security	[en]3000
+[en] une sélection	a selection	[en]3000
+[en] une séquence	a sequence	[en]3000
+[en] une session	a session	[en]3000
+[en] une situation	a situation	[en]3000
+[en] une société (l'entreprise)	a corporation	[en]3000
+[en] une société	a society	[en]3000
+[en] une soeur	a sister	[en]3000
+[en] une solution	a solution	[en]3000
+[en] une source	a source	[en]3000
+[en] la stabilité	stability	[en]3000
+[en] une station (de vacances, de ski)	a resort	[en]3000
+[en] une stratégie	a strategy	[en]3000
+[en] une structure	a structure	[en]3000
+[en] une substance	a substance	[en]3000
+[en] une succession&nbsp;	a succession / a suite&nbsp;	[en]3000
+[en] une suggestion	a suggestion	[en]3000
+[en] une surface	a surface	[en]3000
+[en] une surprise	a surprise	[en]3000
+[en] la survie	the survival	[en]3000
+[en] une tâche (qui va être évaluée le plus souvent dans un cadre scolaire)	an assignment	[en]3000
+[en] une tactique	a tactic	[en]3000
+[en] une tarte	a pie	[en]3000
+[en] une tasse	a cup	[en]3000
+[en] une taxe	a tax	[en]3000
+[en] une technique	a technique	[en]3000
+[en] une technologie	a technology	[en]3000
+[en] la télé	the TV	[en]3000
+[en] une télévision	a television	[en]3000
+[en] la température	the temperature	[en]3000
+[en] une tension	a tension	[en]3000
+[en] la terre (la planète)	the earth	[en]3000
+[en] la terreur	the terror	[en]3000
+[en] une théorie	a theory	[en]3000
+[en] une thérapie	a therapy	[en]3000
+[en] une tomate	a tomato	[en]3000
+[en] une tradition	a tradition	[en]3000
+[en] une tragédie	a tragedy	[en]3000
+[en] une transformation	a transformation	[en]3000
+[en] une transition	a transition	[en]3000
+[en] une tuerie	a killing	[en]3000
+[en] une vache	a cow	[en]3000
+[en] une vallée	a valley	[en]3000
+[en] une variable	a variable	[en]3000
+[en] une variation	a variation	[en]3000
+[en] une variété	a variety	[en]3000
+[en] une version (interprétation des faits)	a version	[en]3000
+[en] la vertu	the virtue	[en]3000
+[en]&nbsp; une veste	a jacket	[en]3000
+[en] une victime	a victim	[en]3000
+[en] une victoire	a victory	[en]3000
+[en] la vie privée	the privacy	[en]3000
+[en] une vision	a vision	[en]3000
+[en] une voiture	a car	[en]3000
+[en] la volonté	the will	[en]3000
+[en] laid / moche	ugly	[en]3000
+[en] laisser&nbsp;	to let	[en]3000
+[en] laisser tomber (physiquement, par terre)	to drop	[en]3000
+[en] large	wide, broad	[en]3000
+[en] largement	widely	[en]3000
+[en] laver	to wash	[en]3000
+[en] un bar	a bar	[en]3000
+[en] le base-ball	baseball	[en]3000
+[en] le basketball	basketball	[en]3000
+[en] un bâtiment	a building	[en]3000
+[en] le bénéfice	the benefit	[en]3000
+[en] le béton	the concrete	[en]3000
+[en] le beurre	butter	[en]3000
+[en] le bien-être	welfare	[en]3000
+[en] un billet	a ticket	[en]3000
+[en] un boîtier	a housing	[en]3000
+[en] un bol	a bowl	[en]3000
+[en] un bombardement	a bombing	[en]3000
+[en] un gars / mec / gus (compagnon)	a fellow	[en]3000
+[en] un bouton (de chemise)	a button	[en]3000
+[en] un bras	an arm	[en]3000
+[en] les Britanniques&nbsp;	British	[en]3000
+[en] un budget	a budget	[en]3000
+[en] le bureau (pièce pour travailler)	an office	[en]3000
+[en] un bus	a bus	[en]3000
+[en] l'objectif (le but)	the aim	[en]3000
+[en] le moyen d'atteindre un objectif	the purpose	[en]3000
+[en] le café	coffee	[en]3000
+[en] un campus	a campus	[en]3000
+[en] un canadien	a Canadian	[en]3000
+[en] un cancer	cancer	[en]3000
+[en] un candidat&nbsp;	a candidate / an applicant	[en]3000
+[en] un canon (d'une arme)	a barrel	[en]3000
+[en] un capitaine	a captain	[en]3000
+[en] un capuchon (de stylo) / une casquette	a cap	[en]3000
+[en] le carbone	carbon	[en]3000
+[en] le centre	the center	[en]3000
+[en] le centre-ville	downtown	[en]3000
+[en] un cercle	a circle	[en]3000
+[en] un champion	a champion	[en]3000
+[en] un championnat	a championship	[en]3000
+[en] un changement	a change	[en]3000
+[en] un chanteur	a singer	[en]3000
+[en] un chapeau	a hat	[en]3000
+[en] un chapitre	a chapter	[en]3000
+[en] un chasseur	a hunter	[en]3000
+[en] un chat	a cat	[en]3000
+[en]&nbsp; un chemin	a way	[en]3000
+[en] un chercheur	a researcher	[en]3000
+[en] un chien	a dog	[en]3000
+[en] le chiffre d'affaires	the revenue	[en]3000
+[en] un Chinois&nbsp;	a Chinese man	[en]3000
+[en] le chocolat	chocolate	[en]3000
+[en] un choix	a choice	[en]3000
+[en] un chrétien	a christian	[en]3000
+[en] le ciel	the sky	[en]3000
+[en] un citoyen	a citizen	[en]3000
+[en] un client	a client	[en]3000
+[en] le climat	the climate	[en]3000
+[en] un coin	a corner	[en]3000
+[en] un collègue	the colleague	[en]3000
+[en] un combattant	a fighter	[en]3000
+[en] un comité	a committee	[en]3000
+[en] un commandant	a commander	[en]3000
+[en] un commentaire	a comment	[en]3000
+[en] un comportement	a behavior	[en]3000
+[en] un composant	a component	[en]3000
+[en] un compte	an account	[en]3000
+[en] un compteur / un comptoir (de bar)	a counter	[en]3000
+[en] un concept	a concept	[en]3000
+[en] un concert	a concert	[en]3000
+[en] un concessionnaire / un dealer	a dealer	[en]3000
+[en] un concurrent	a competitor	[en]3000
+[en] un conducteur	a driver	[en]3000
+[en] un conflit	a conflict	[en]3000
+[en] une dispute	a dispute	[en]3000
+[en] le confort	comfort	[en]3000
+[en] le Congrès (américain)	the Congress	[en]3000
+[en] un conseil (d'ami par exemple)	an advice	[en]3000
+[en] le conseil d'une ville (l'institution)	the council	[en]3000
+[en] un conseiller	an advisor	[en]3000
+[en] un conseiller (municipal, d'orientation, ...)	a counselor	[en]3000
+[en] un consensus	a consensus	[en]3000
+[en] un consommateur (qui utilise un objet, un service)	a consumer	[en]3000
+[en] un consommateur (qui achète un objet, un service)	a customer	[en]3000
+[en] un consultant	a consultant	[en]3000
+[en] un contact	a contact	[en]3000
+[en] un contenu	a content	[en]3000
+[en] le contexte	the context	[en]3000
+[en] le contraste	the contrast	[en]3000
+[en] un contrat	a contract	[en]3000
+[en] un contribuable	a taxpayer	[en]3000
+[en] un contrôle (pas scolaire !)	a control	[en]3000
+[en] un correspondant	a correspondent	[en]3000
+[en] du coton	cotton	[en]3000
+[en] un coup / un coup de pied	a stroke - a blow / a kick	[en]3000
+[en] un couple	a couple	[en]3000
+[en] le courage	courage / bravery	[en]3000
+[en] un cours (scolaire)	a course	[en]3000
+[en] un crédit	a credit	[en]3000
+[en] un critère / des critères	a criterium / criteria	[en]3000
+[en] un critique (littéraire, gastronomique, ...)	a critic	[en]3000
+[en] un cursus (scolaire)	a curriculum	[en]3000
+[en] le danger	danger	[en]3000
+[en] le début	the beginning	[en]3000
+[en] un défenseur (au foot)	a defender	[en]3000
+[en] un défenseur (d'une cause, d'une idée) / partisan	a supporter	[en]3000
+[en] un défi	a challenge	[en]3000
+[en] un déficit	a deficit	[en]3000
+[en] un degré	a degree	[en]3000
+[en] un département (d'une entreprise)	a department	[en]3000
+[en] un adjoint&nbsp;	a deputy	[en]3000
+[en] un désastre	a disaster	[en]3000
+[en] un désert	a desert	[en]3000
+[en] un dessin	a drawing	[en]3000
+[en] un détail	a detail	[en]3000
+[en] un développement	ta development	[en]3000
+[en] un dialogue	a dialogue	[en]3000
+[en] un dieu	a god	[en]3000
+[en] un dîner	a dinner	[en]3000
+[en] un directeur	a manager	[en]3000
+[en] un discours&nbsp;	a speech / a discourse	[en]3000
+[en] un divertissement	entertainment	[en]3000
+[en] un divorce	an divorce	[en]3000
+[en] un document	a document	[en]3000
+[en] un doigt	a finger	[en]3000
+[en] un orteil	a toe	[en]3000
+[en] un fabricant	a manufacturer / a maker	[en]3000
+[en] un facteur (de risque par ex.)	a factor	[en]3000
+[en] un fan / un ventilateur	a fan	[en]3000
+[en] un fantasme	a fantasy	[en]3000
+[en] un acquiescement (signe de tête du haut vers le bas)	a nod	[en]3000
+[en] un fils	a son	[en]3000
+[en] un financement	a funding	[en]3000
+[en] un flic	a cop	[en]3000
+[en] un flux / un courant	a stream	[en]3000
+[en] le fond	the bottom	[en]3000
+[en] un fondateur	a founder	[en]3000
+[en] le football américain	football	[en]3000
+[en] le football européen	soccer	[en]3000
+[en] un fournisseur	a provider	[en]3000
+[en] un Français / Les Français	a Frenchman / The French	[en]3000
+[en] un frère	a brother	[en]3000
+[en] un fromage	a cheese	[en]3000
+[en] un gagnant	a winner	[en]3000
+[en] un garage	a garage	[en]3000
+[en] un garçon	a boy	[en]3000
+[en] le gaz	gas	[en]3000
+[en] un général	a general	[en]3000
+[en] le genre (mâle ou femelle)	the gender	[en]3000
+[en] un geste	a gesture	[en]3000
+[en] un goût	a flavor	[en]3000
+[en] un gouvernement	a government	[en]3000
+[en] un gouverneur	a governor	[en]3000
+[en] un grand-père	a grandfather / a grandpa	[en]3000
+[en] le haut	the top	[en]3000
+[en] un haut-parleur / un orateur	a speaker	[en]3000
+[en] un jardin	a garden	[en]3000
+[en] un jouet	a toy	[en]3000
+[en] un joueur	a player	[en]3000
+[en] un jour	a day	[en]3000
+[en] un journal (intime, de bord, ...)	a journal / a diary	[en]3000
+[en] un journal (presse)	a newspaper	[en]3000
+[en] un journaliste	a reporter	[en]3000
+[en] un jugement	a judgment	[en]3000
+[en] un Juif	a Jew	[en]3000
+[en] un labo(ratoire)	a lab(oratory)	[en]3000
+[en] un lecteur	a reader	[en]3000
+[en] un légume	a vegetable	[en]3000
+[en] un lit	a bed	[en]3000
+[en] le long de	along	[en]3000
+[en] à long terme	long-term	[en]3000
+[en] un magazine	a magazine	[en]3000
+[en] le maître	the master	[en]3000
+[en] le maquillage	the makeup	[en]3000
+[en] un marché	a market	[en]3000
+[en] un mari	a husband	[en]3000
+[en] le mariage (pas la cérémonie, le fait d'être marié)	the marriage	[en]3000
+[en] le matériel / le matériau	the hardware / the material	[en]3000
+[en] le matin	the morning	[en]3000
+[en] un mec	a guy	[en]3000
+[en] un mécanisme	a mechanism	[en]3000
+[en] un médecin	a doctor	[en]3000
+[en] un médicament	a medication	[en]3000
+[en] le meilleur	the greatest / the best	[en]3000
+[en] un mélange	a mixture	[en]3000
+[en] un membre	a member	[en]3000
+[en] un ménage (un couple de personnes)	a household	[en]3000
+[en] un meneur	a leader	[en]3000
+[en] un mensonge	a lie	[en]3000
+[en] un message	a message	[en]3000
+[en] un meurtre / un meurtrier&nbsp;	a murder / a murderer	[en]3000
+[en] Un Mexicain&nbsp;	A Mexican man	[en]3000
+[en] le milieu	the middle	[en]3000
+[en] un milliard	a billion	[en]3000
+[en] un million	a million	[en]3000
+[en] un ministre	a minister	[en]3000
+[en] un miracle	a miracle	[en]3000
+[en] un miroir	a mirror	[en]3000
+[en] un missile	a missile	[en]3000
+[en] un mode de vie	a lifestyle	[en]3000
+[en] un moment	a moment	[en]3000
+[en] un moniteur&nbsp;	an instructor	[en]3000
+[en] le montant (la quantité)	the amount	[en]3000
+[en] un moteur (thermique)	an engine	[en]3000
+[en] un motif (qui se répète)	a pattern	[en]3000
+[en] un mouvement (physique, qui fait bouger un objet)	a motion	[en]3000
+[en] un mouvement (politique ou physique)&nbsp;	a movement	[en]3000
+[en] un muscle	a muscle	[en]3000
+[en] un musée	a museum	[en]3000
+[en] un musicien	a musician	[en]3000
+[en] un musulman	a muslim	[en]3000
+[en] un mystère	a mystery	[en]3000
+[en] la narration&nbsp;	the narrative	[en]3000
+[en] un navire	ta vessel	[en]3000
+[en] un nombre	a number	[en]3000
+[en] un paiement	a payment	[en]3000
+[en] un panier	a basket	[en]3000
+[en] papa	dad	[en]3000
+[en] un paquet	a package	[en]3000
+[en] le paradis	heaven	[en]3000
+[en] un parent	a parent	[en]3000
+[en] un pari	a bet	[en]3000
+[en] un parking	a parking	[en]3000
+[en] un partenaire	a partner	[en]3000
+[en] un partenariat	a partnership	[en]3000
+[en] un participant	a participant	[en]3000
+[en] un passage	a passage	[en]3000
+[en] un passager	a passenger	[en]3000
+[en] un patient	a patient	[en]3000
+[en] le patrimoine	the heritage	[en]3000
+[en] un pays	a country	[en]3000
+[en] un paysage	a landscape	[en]3000
+[en] un PC	a PC	[en]3000
+[en] le PDG	the CEO [Chief Executive Officer]	[en]3000
+[en] un péché	a sin	[en]3000
+[en] un peintre	a painter	[en]3000
+[en] un permis	a permit	[en]3000
+[en] un personnage	a character	[en]3000
+[en] le petit ami	the boyfriend	[en]3000
+[en] le petit déjeuner	the breakfast	[en]3000
+[en] un phénomène	a phenomenon	[en]3000
+[en] un photographe	a photographer	[en]3000
+[en] un physicien	a physician	[en]3000
+[en] un pistolet	a gun	[en]3000
+[en] un plafond	a ceiling	[en]3000
+[en] l'amusement	the fun	[en]3000
+[en] le plaisir	the pleasure	[en]3000
+[en] le plastique	plastic	[en]3000
+[en] le poids	the weight	[en]3000
+[en] le poivre / le poivron&nbsp;	the pepper	[en]3000
+[en] un pont	a bridge	[en]3000
+[en] un porte-parole	a spokesman	[en]3000
+[en] un portrait	a portrait	[en]3000
+[en] un pot	a jar&nbsp;	[en]3000
+[en] un poulet	a chicken	[en]3000
+[en] un pourcentage	a percentage	[en]3000
+[en] le préféré	the favorite	[en]3000
+[en] le président [d'une assemblée, ex le sénat]	the chairman	[en]3000
+[en] le président	the president	[en]3000
+[en] un prêtre	a priest	[en]3000
+[en] un principe	a principle	[en]3000
+[en] le printemps	spring	[en]3000
+[en] un prisonnier	a prisoner	[en]3000
+[en] un problème	a problem	[en]3000
+[en] un trouble	a trouble	[en]3000
+[en] une déposition (justice)	a lawsuit	[en]3000
+[en] le processus	the process	[en]3000
+[en] un producteur	a producer	[en]3000
+[en] un produit	a product	[en]3000
+[en] un professionnel	a professional	[en]3000
+[en] un profil	a profile	[en]3000
+[en] un profit	a profit	[en]3000
+[en] un programme	a program	[en]3000
+[en] un progrès	a progress	[en]3000
+[en] un projet	a project	[en]3000
+[en] un(e) psychologue	a psychologist	[en]3000
+[en] le voisinage	the neighborhood	[en]3000
+[en] un quartier (urbain)&nbsp;	a neighbourhood	[en]3000
+[en] le quartier général	the headquarters	[en]3000
+[en] le 4 du mois /// le quatrième	the fourth	[en]3000
+[en] un rappel, un souvenir	a recall	[en]3000
+[en] un rapport	a report	[en]3000
+[en] un réalisateur	a director	[en]3000
+[en] un récipient	a container	[en]3000
+[en] une référence	a reference	[en]3000
+[en] un refuge	a shelter	[en]3000
+[en] un réfugié	a refugee	[en]3000
+[en] un coup d'oeil&nbsp;&nbsp;	a glance	[en]3000
+[en] un régime	a diet	[en]3000
+[en] un régime politique	a regime	[en]3000
+[en] un réglage	a setting	[en]3000
+[en] un règlement (d'un contentieux / différend)	a settlement	[en]3000
+[en] le relief (d'un paysage apr ex) / le soulagement (prononciation différente !)	the relief	[en]3000
+[en] un rendez-vous (pas amoureux)	an appointment	[en]3000
+[en] un républicain	a Republican	[en]3000
+[en] un réseau	a network	[en]3000
+[en] un résident	a resident	[en]3000
+[en] le respect	the respect	[en]3000
+[en] un restaurant	a restaurant	[en]3000
+[en] un résultat (d'une action)	an outcome	[en]3000
+[en] un résultat (en mathématiques)	a result	[en]3000
+[en] un revenu	an income	[en]3000
+[en] un robinet	a tap	[en]3000
+[en] Un Russe	a Russian man	[en]3000
+[en] le rythme	the rhythm	[en]3000
+[en] un sac	a bag	[en]3000
+[en] le salaire	the salary	[en]3000
+[en] un satellite	a satellite	[en]3000
+[en] un savant	a scholar	[en]3000
+[en] un scandale	a scandal	[en]3000
+[en] un scénario	a scenario	[en]3000
+[en] un scientifique	a scientist	[en]3000
+[en] un script	a script	[en]3000
+[en] un secret	a secret	[en]3000
+[en] un(e) secrétaire	a secretary	[en]3000
+[en] un secteur	a sector	[en]3000
+[en] un segment	a segment	[en]3000
+[en] le Sénat	the Senate	[en]3000
+[en] un sénateur	a senator	[en]3000
+[en] la signification (le sens)	the meaning	[en]3000
+[en] un sentiment	a feeling	[en]3000
+[en] un service	a service	[en]3000
+[en] un célibataire&nbsp;	a single	[en]3000
+[en] le sexe	sex	[en]3000
+[en] un siècle	a century	[en]3000
+[en] le sien / la sienne (pour un garçon)	his	[en]3000
+[en] un signal	a signal	[en]3000
+[en] le silence	the silence	[en]3000
+[en] le ski	the ski	[en]3000
+[en] le soir	the evening	[en]3000
+[en] le sol	the ground	[en]3000
+[en] un soldat	a soldier	[en]3000
+[en] le soleil	the sun	[en]3000
+[en] un sommet (politique par ex)	a summit	[en]3000
+[en] une enquête (type sondage)	a survey	[en]3000
+[en] le souffle / la respiration	the breath	[en]3000
+[en] un spécialiste	a specialist	[en]3000
+[en] un spectateur	a viewer	[en]3000
+[en] un standard	a standard	[en]3000
+[en] un statut	a status	[en]3000
+[en] le stockage	the storage	[en]3000
+[en] un studio	a studio	[en]3000
+[en] le succès	the success	[en]3000
+[en] le suicide	the suicide	[en]3000
+[en] le suivant	the following	[en]3000
+[en] un porteur / transporteur&nbsp;	a carrier	[en]3000
+[en] un survivant	a survivor	[en]3000
+[en] un suspect	a suspect	[en]3000
+[en] un symbole	a symbol	[en]3000
+[en] un symptôme	a symptom	[en]3000
+[en] un système	a system	[en]3000
+[en] le tabac	tobacco	[en]3000
+[en] le talent	the talent	[en]3000
+[en] un télescope	a telescope	[en]3000
+[en] un témoignage	a testimony	[en]3000
+[en] un témoin	a witness	[en]3000
+[en] le temps (météo)	the weather	[en]3000
+[en] le tennis	tennis	[en]3000
+[en] un territoire	a territory	[en]3000
+[en] le terrorisme	the terrorism	[en]3000
+[en] un terroriste	a terrorist	[en]3000
+[en] le thé	tea	[en]3000
+[en] le tien	yours	[en]3000
+[en] un tissu	a fabric	[en]3000
+[en] les gros titres d'un journal	headlines	[en]3000
+[en] le tour d'un circuit	the lap	[en]3000
+[en] un touriste	a tourist	[en]3000
+[en] un tournoi	a tournament	[en]3000
+[en] le trafic / la circulation	the traffic	[en]3000
+[en] un traité	a treaty	[en]3000
+[en] un traitement	a treatment	[en]3000
+[en] le transport	the transportation	[en]3000
+[en] un travail, métier, emploi	a job	[en]3000
+[en] un travailleur (ouvrier)	a worker	[en]3000
+[en] un espace, écart, intervalle	a gap	[en]3000
+[en] un tueur	a killer	[en]3000
+[en] un tunnel	a tunnel	[en]3000
+[en] un véhicule	a vehicle	[en]3000
+[en] un village	a village	[en]3000
+[en] un visiteur	a visitor	[en]3000
+[en] lun voisin	a neighbor	[en]3000
+[en] un vol (en l'air)&nbsp;&nbsp;	a flight	[en]3000
+[en] un volontaire	a volunteer	[en]3000
+[en] le volume	the volume	[en]3000
+[en] un long voyage	a journey	[en]3000
+[en] un week-end	a weekend	[en]3000
+[en] légal	legal	[en]3000
+[en] légitime	legitimate	[en]3000
+[en] lent	slow	[en]3000
+[en] lentement	slowly	[en]3000
+[en] lequel	which	[en]3000
+[en] les affaires	business	[en]3000
+[en] les combats / un combat	fighting / a fight	[en]3000
+[en] les courses / les courses alimentaires&nbsp;	shopping / groceries	[en]3000
+[en] les dégâts	damage	[en]3000
+[en] les dépenses&nbsp;	expenses	[en]3000
+[en] les espèces / une espèce (animale par ex)	species	[en]3000
+[en] les frais	fees	[en]3000
+[en] les funérailles	funeral	[en]3000
+[en] les gens	people	[en]3000
+[en] un Japonais	a Japanese man	[en]3000
+[en] les logiciels	software	[en]3000
+[en] les meubles	the furniture	[en]3000
+[en] l'armée&nbsp;	the military	[en]3000
+[en] les noces	wedding	[en]3000
+[en] les personnes âgées&nbsp;	the elderly	[en]3000
+[en] les gains / bénéfices&nbsp;&nbsp;	earnings	[en]3000
+[en] les sans-abris	homeless	[en]3000
+[en] les séries	series	[en]3000
+[en] les statistiques	statistics	[en]3000
+[en] les vacances	vacation / holidays	[en]3000
+[en] les vêtements	clothes	[en]3000
+[en] libéral	liberal	[en]3000
+[en] libre	free	[en]3000
+[en] lier	to bind	[en]3000
+[en] lier au moyen d'une corde	to tie	[en]3000
+[en] limité	limited	[en]3000
+[en] lire	to read	[en]3000
+[en] lisse	smooth	[en]3000
+[en] littéraire	literary	[en]3000
+[en] livrer	to deliver	[en]3000
+[en] local	local	[en]3000
+[en] distant	distant	[en]3000
+[en] loin	far	[en]3000
+[en] longue	long	[en]3000
+[en] lourd	heavy	[en]3000
+[en] lui	him	[en]3000
+[en] lui-même, soi-même	himself, itself	[en]3000
+[en] lutter	to struggle	[en]3000
+[en] mai&nbsp;	May	[en]3000
+[en] maigre	lean	[en]3000
+[en] maintenant	now	[en]3000
+[en] maintenir	to maintain	[en]3000
+[en] mais	but	[en]3000
+[en] mal [adverbe]	badly	[en]3000
+[en] malade	ill, sick	[en]3000
+[en] malgré	despite	[en]3000
+[en] malheureusement	unfortunately	[en]3000
+[en] maman	mom / mommy	[en]3000
+[en] manger	to eat	[en]3000
+"[en] manquer (faire défaut) / manquer (affectivement : ""Tu me manques !"")"	"to lack / to miss (""I miss you !"")"	[en]3000
+[en] marcher	to walk	[en]3000
+[en] marié(e)	married	[en]3000
+[en] marron	brown	[en]3000
+[en] massif	massive	[en]3000
+[en] mauvais	bad	[en]3000
+[en] médical	medical	[en]3000
+[en] mélanger	to mix	[en]3000
+[en] même	even	[en]3000
+[en] mener	to lead	[en]3000
+[en] mental	mental	[en]3000
+[en] merci	thanks	[en]3000
+[en] mériter	to deserve	[en]3000
+[en] mettre	to put	[en]3000
+[en] mettre en place	to set	[en]3000
+[en] le mien / la mienne	mine	[en]3000
+[en] mieux	better	[en]3000
+[en] léger&nbsp;	light	[en]3000
+[en] mince	thin	[en]3000
+[en] minuscule	tiny	[en]3000
+[en] modérer	to moderate	[en]3000
+[en] moderne	modern	[en]3000
+[en] modeste	modest	[en]3000
+[en] moi	me	[en]3000
+[en] moi-même	myself	[en]3000
+[en] moins [dénombrable]	fewer	[en]3000
+[en] le dernier&nbsp;	the last	[en]3000
+[en] moins [indénombrable]	less	[en]3000
+[en] mon / ma / mes	my	[en]3000
+[en] mon/ma chéri(e)	honey	[en]3000
+[en] Monsieur	Mr, Mister, Sir	[en]3000
+[en] montrer	to show	[en]3000
+[en] mordre	to bite	[en]3000
+[en] mourir	to die	[en]3000
+[en] moyen	medium	[en]3000
+[en] musical	musical	[en]3000
+[en] mutuel	mutual	[en]3000
+[en] n'importe qui	anybody, anyone	[en]3000
+[en] n'importe quoi (n'importe quelle chose)	anything	[en]3000
+[en] nager	to swim	[en]3000
+[en] national	national	[en]3000
+[en] naturel / organique	organic	[en]3000
+[en] naturel	natural	[en]3000
+[en] ne pas	not	[en]3000
+[en] nécessairement	necessarily	[en]3000
+[en] négatif	negative	[en]3000
+[en] négliger	to overlook	[en]3000
+[en] gérer (une situation)	to deal	[en]3000
+[en] négocier	to negotiate	[en]3000
+[en] nerveux	nervous	[en]3000
+[en] net&nbsp;	neat	[en]3000
+[en] neuf [9]	nine	[en]3000
+[en] ni ... ni	neither ... nor	[en]3000
+[en] nier	to deny	[en]3000
+[en] noir	black	[en]3000
+[en] plusieurs&nbsp;	several	[en]3000
+[en] nombreux	numerous	[en]3000
+[en] nommer (à un poste)	to appoint	[en]3000
+[en] non	no (I don't)	[en]3000
+[en] normalement	normally	[en]3000
+[en] notre / nos	our	[en]3000
+[en] nourrir	to feed	[en]3000
+[en] nous	we (pronom sujet) / us (pronom complément)&nbsp;	[en]3000
+[en] nouveau	new	[en]3000
+[en] nouvellement	newly	[en]3000
+[en] nu	naked	[en]3000
+[en] nucléaire	nuclear	[en]3000
+[en] partout (lieu inconnu)	anywhere	[en]3000
+[en] nulle part	nowhere	[en]3000
+[en] numérique	digital	[en]3000
+[en] observer	to observe	[en]3000
+[en] occidental	western	[en]3000
+[en] officiel	official	[en]3000
+[en] olympique	olympic	[en]3000
+[en] qui&nbsp;	who	[en]3000
+[en] opérer	to operate	[en]3000
+[en] orange	orange	[en]3000
+[en] ordinaire	ordinary / normal	[en]3000
+[en] régulier	regular	[en]3000
+[en] arranger	to arrange	[en]3000
+[en] organiser	to organize	[en]3000
+[en] originaire (de)	native (from)	[en]3000
+[en] original	original	[en]3000
+[en] oser	to dare	[en]3000
+[en] ou (bien)	or	[en]3000
+[en] où	where	[en]3000
+[en] ouais	yeah	[en]3000
+[en] ouest	west	[en]3000
+[en] oui	yes (Yes I do)	[en]3000
+[en] ouvert	open	[en]3000
+[en] pâle	pale	[en]3000
+[en] par (un jour par semaine)	per	[en]3000
+[en] à travers (quelque chose de concret, comme une rue)	through	[en]3000
+[en] pardon	sorry	[en]3000
+[en] parfait	perfect	[en]3000
+[en] parfois&nbsp;	occasionally / sometimes	[en]3000
+[en] parler (dans une discussion)	to talk	[en]3000
+[en] parmi	among	[en]3000
+[en] participer (à un évènement en étant actif)	to participate	[en]3000
+[en] particulier	particular	[en]3000
+[en] particulièrement	particularly	[en]3000
+[en] partiellement	partly	[en]3000
+[en] partout (lieu connu)	everywhere	[en]3000
+[en] pas cher	cheap	[en]3000
+[en] passer	to pass	[en]3000
+[en] passionnant	exciting	[en]3000
+[en] pauvre	poor	[en]3000
+[en] payer	to pay	[en]3000
+[en] pendant	during	[en]3000
+[en] percevoir	to perceive	[en]3000
+[en] perdu	lost	[en]3000
+[en] personne	nobody	[en]3000
+[en] personnel	personal	[en]3000
+[en] personnellement	personally	[en]3000
+[en] persuader	to persuade	[en]3000
+[en] petit	small	[en]3000
+[en] peu de (+ nom au pluriel)	few	[en]3000
+[en] un peu de (+ nom au singulier)	a little	[en]3000
+[en] peut-être	maybe, perhaps	[en]3000
+[en] peut-être (quand cela va peut être arriver, éventualité)	possibly	[en]3000
+[en] photographier	to photograph	[en]3000
+[en] physique	physical	[en]3000
+[en] physiquement	physically	[en]3000
+[en] plat	flat	[en]3000
+[en] plein	full	[en]3000
+[en] pleinement	fully	[en]3000
+[en] pleurer	to cry	[en]3000
+[en] plier	to bend	[en]3000
+[en] plus (il n'y en a plus)	anymore	[en]3000
+[en] plus (une plus grande quantité)	more	[en]3000
+[en] le plus	the most	[en]3000
+[en] plus (le signe +)	plus	[en]3000
+[en] plus de&nbsp;	over	[en]3000
+[en] plus haut&nbsp;	higher	[en]3000
+[en] plus précisément	specifically	[en]3000
+[en] plus proche	closer	[en]3000
+[en] plus tard	later	[en]3000
+[en] multiple	multiple	[en]3000
+[en] plutôt	rather	[en]3000
+[en] politiquement	politically	[en]3000
+[en] populaire (qui est aimé par le petit peuple)	folk	[en]3000
+[en] populaire (une personne populaire)	popular	[en]3000
+[en] porter (des vêtements)	to wear	[en]3000
+[en] positif	positive	[en]3000
+[en] posséder (après qu'on se le soit procuré)	to own	[en]3000
+[en] posséder (dans le sens où on l'a toujours eu)	to possess	[en]3000
+[en] possible	possible	[en]3000
+[en] poster	to post	[en]3000
+[en] potentiellement	potentially	[en]3000
+[en] pour	for	[en]3000
+[en] avancer	to advance	[en]3000
+[en] constituer	to constitute	[en]3000
+[en] discuter	to discuss	[en]3000
+[en] éduquer	to educate	[en]3000
+[en] essuyer	to wipe	[en]3000
+[en] faciliter	to ease	[en]3000
+[en] faire face à&nbsp;	to face / to deal with / to cope with	[en]3000
+[en] illustrer	to illustrate	[en]3000
+[en] prévenir de (empêcher)	to prevent (from)	[en]3000
+[en] pour toujours	forever	[en]3000
+[en] pourquoi	why	[en]3000
+[en] pourrait	might	[en]3000
+[en] pourtant	however	[en]3000
+[en] pousser	to push	[en]3000
+[en] pouvoir	can	[en]3000
+[en] précédemment	previously	[en]3000
+[en] précédent	previous	[en]3000
+[en] précis	accurate	[en]3000
+[en] prédire	to predict	[en]3000
+[en] prendre	to take	[en]3000
+[en] prendre soin (de)	to care (for)	[en]3000
+[en] préparer	to prepare	[en]3000
+[en] près	near	[en]3000
+[en] présent	present	[en]3000
+[en] présenter (qqchose ou qqun à qqun)	to introduce	[en]3000
+[en] présidentiel	presidential	[en]3000
+[en] presque	almost	[en]3000
+[en] presque (pour une localisation)	nearly	[en]3000
+[en] prêt	ready	[en]3000
+[en] prier	to pray	[en]3000
+[en] primaire, élémentaire	primary	[en]3000
+[en] principal	main / prime	[en]3000
+[en] principalement	mainly	[en]3000
+[en] privé	private	[en]3000
+[en] probable	likely	[en]3000
+[en] probablement	probably	[en]3000
+[en] procéder	to proceed	[en]3000
+[en] prochain	next	[en]3000
+[en] prochainement	shortly	[en]3000
+[en] proche	close	[en]3000
+[en] proche d'ici	nearby	[en]3000
+[en] produire	to produce	[en]3000
+[en] profond	deep	[en]3000
+[en] profondément	deeply	[en]3000
+[en] promettre	to promise	[en]3000
+[en] promouvoir	to promote	[en]3000
+[en] proposé	proposed	[en]3000
+[en] demander en mariage	to propose	[en]3000
+[en] protéger	to protect	[en]3000
+[en] protester	to protest	[en]3000
+[en] psychologique	psychological	[en]3000
+[en] publique	public	[en]3000
+[en] publiquement	publicly	[en]3000
+[en] puis	then	[en]3000
+[en] puissant	powerful	[en]3000
+[en] pur	pure	[en]3000
+[en] qu'il s'agisse	whether	[en]3000
+[en] qualifier	to qualify	[en]3000
+[en] quand	when	[en]3000
+[en] quatre	four	[en]3000
+[en] qui	who	[en]3000
+[en] quinze	fifteen	[en]3000
+[en] démissionner	to quit	[en]3000
+[en] quoi	what	[en]3000
+[en] racial	racial	[en]3000
+[en] radical	radical	[en]3000
+[en] raffermir / consolider	to strenghten	[en]3000
+[en] raisonnable	reasonable	[en]3000
+[en] quick&nbsp;	prompt / rapide	[en]3000
+[en] rapide (quand ce qui est décrit est ponctuel)	quick	[en]3000
+[en] un rapide (pour une rivière)	a rapid	[en]3000
+[en] rapidement (quand un évènement est ponctuel)	quickly	[en]3000
+[en] rapidement (quand ce qui est décrit s'inscrit dans la durée)	rapidly	[en]3000
+[en] rare	rare	[en]3000
+[en] rarement	rarely	[en]3000
+[en] réaliser	to realize	[en]3000
+[en] récemment	recently	[en]3000
+[en] récent	recent	[en]3000
+[en] recevoir	to receive	[en]3000
+[en] recommander	to recommend	[en]3000
+[en] reconnaître	to recognize / to acknowledge	[en]3000
+[en] recruter	to recruit	[en]3000
+[en] actuellememt	currently	[en]3000
+[en] réel	real	[en]3000
+[en] actuellement	presently	[en]3000
+[en] refléter	to reflect	[en]3000
+[en] regarder (activement)	to look at	[en]3000
+[en] régional	regional	[en]3000
+[en] réguler	to regulate	[en]3000
+[en] relativement	relatively	[en]3000
+[en] remarquable	remarkable	[en]3000
+[en] remplacer	to replace	[en]3000
+[en] remplir	to fill	[en]3000
+[en] remuer	to stir	[en]3000
+[en] rencontrer (un problème)	to encounter	[en]3000
+[en] rencontrer (des gens)	to meet	[en]3000
+[en] renforcer	to strengthen, to reinforce	[en]3000
+[en] répandu	widespread	[en]3000
+[en] répondre à une question	to answer	[en]3000
+[en] représentant	representative	[en]3000
+[en] représenter	to represent	[en]3000
+[en] requérir	to require	[en]3000
+[en] résister	to resist	[en]3000
+[en] résoudre (après plusieurs essais)	to resolve	[en]3000
+[en] respirer	to breathe	[en]3000
+[en] responsable (de)	responsible (for)	[en]3000
+[en] ressembler	to resemble / to look like	[en]3000
+[en] restaurer	to restore	[en]3000
+[en] rester (volontairement)	to stay	[en]3000
+[en] réussi (couronné de succès)	successful	[en]3000
+[en] réussir	to succeed	[en]3000
+[en] réveiller	to wake (up)	[en]3000
+[en] riche	wealthy	[en]3000
+[en] rien	nothing	[en]3000
+[en] rogner	to crop	[en]3000
+[en] rond&nbsp;	round / circular	[en]3000
+[en] rose&nbsp;	pink	[en]3000
+[en] une rose&nbsp;	a rose	[en]3000
+[en] rouge	red	[en]3000
+[en] rugueux	rough	[en]3000
+[en] rural	rural	[en]3000
+[en] s'approcher	to approach	[en]3000
+[en] s'asseoir	to sit	[en]3000
+[en] se remettre (de qqchose)	to recover	[en]3000
+[en] s'engager	to commit	[en]3000
+[en] s'entraîner	to practice	[en]3000
+[en] s'il vous plaît	please	[en]3000
+[en] sa / son / ses (pour une fille)	her	[en]3000
+[en] sacré	sacred	[en]3000
+[en] saint	holy	[en]3000
+[en] sale	dirty	[en]3000
+[en] salut	hi / hello	[en]3000
+[en] sans	without	[en]3000
+[en] satisfaire	to satisfy	[en]3000
+[en] sauf	except	[en]3000
+[en] sauf si / à moins que	unless	[en]3000
+[en] sauter	to jump	[en]3000
+[en] sauvage	wild	[en]3000
+[en] sauver	to save	[en]3000
+[en] savoir	to know	[en]3000
+[en] scientifique	scientific	[en]3000
+[en] eux-mêmes	themselves	[en]3000
+[en] se concentrer (j'ai l'esprit concentré)	to concentrate	[en]3000
+[en] se connecter	to connect	[en]3000
+[en] se lever	to rise (up)	[en]3000
+[en] se plaindre	to complain	[en]3000
+[en] se précipiter	to rush	[en]3000
+[en] se rétracter	to withdraw	[en]3000
+[en] se souvenir	to remember	[en]3000
+[en] sec (contraire de mouillé)	dry	[en]3000
+[en] selon (d'après un tel)	according to	[en]3000
+[en] sentir (ressentir)	to feel	[en]3000
+[en] séparer	to separate	[en]3000
+[en] sept	seven	[en]3000
+[en] sérieux	serious	[en]3000
+[en] serré	tight	[en]3000
+[en] serrer	to squeeze	[en]3000
+[en] seul	alone	[en]3000
+[en] seulement&nbsp;	only	[en]3000
+[en] sévère	severe	[en]3000
+[en] sexuel	sexual	[en]3000
+[en] si	if	[en]3000
+[en] significativement	significantly	[en]3000
+[en] tranquille	quiet	[en]3000
+[en] silencieux	silent	[en]3000
+[en] similaire	similar	[en]3000
+[en] simple&nbsp;	simple / mere	[en]3000
+[en] simplement	simply	[en]3000
+[en] sinon&nbsp;	otherwise	[en]3000
+[en] six	six	[en]3000
+[en] social	social	[en]3000
+[en] soi-même&nbsp;	oneself	[en]3000
+[en] soit ... soit (ou bien)	either ... either	[en]3000
+[en] solaire	solar	[en]3000
+[en] solide	solid	[en]3000
+[en] sombre	dark	[en]3000
+[en] sophistiqué	sophisticated	[en]3000
+[en] soudain	sudden (adj) / suddenly (adv)	[en]3000
+[en] souffler	to blow	[en]3000
+[en] souhaiter	to wish	[en]3000
+[en] sous (dans un sens qui marque la supériorité et l'infériorité)	beneath	[en]3000
+[en] sous	under	[en]3000
+[en] supporter (pour faire évoluer)	to support	[en]3000
+[en] supporter (une situation qui dure)	to sustain	[en]3000
+[en] souvent	often	[en]3000
+[en] spécial	special	[en]3000
+[en] spectaculaire	dramatic	[en]3000
+[en] sportif, athlétique	athletic	[en]3000
+[en] stable (quand quelque chose est fixé)	stable	[en]3000
+[en] stable (pour une situation qui pourrait éventuellement évoluer mais qui reste stable)	steady	[en]3000
+[en] le stress	the stress	[en]3000
+[en] stupide	stupid	[en]3000
+[en] subir	to undergo	[en]3000
+[en] substantiel	substantial	[en]3000
+[en] sucré	sweet	[en]3000
+[en] suffisant	sufficient	[en]3000
+[en] suggérer	to suggest	[en]3000
+[en] super	super	[en]3000
+[en] supplémentaire	extra	[en]3000
+[en] supposer	to suppose	[en]3000
+[en] suprême	supreme	[en]3000
+[en] sur	on	[en]3000
+[en] par dessus quelque chose d'autre	onto	[en]3000
+[en] sur (pour des idées, pas pour des choses concrètes)	upon	[en]3000
+[en] sûr (dans le sens de la sécurité)	safe	[en]3000
+[en] sûr (c'est certain)	sure	[en]3000
+[en] sûrement	surely	[en]3000
+[en] surpasser	to overcome	[en]3000
+[en] surprenant	surprising	[en]3000
+[en] surtout	especially	[en]3000
+[en] survivre	to survive	[en]3000
+[en] tandis que	whereas	[en]3000
+[en] pendant que	while	[en]3000
+[en] risquer / s'aventurer	to venture (into)	[en]3000
+[en] tel	such (as)	[en]3000
+[en] témoigner	to testify	[en]3000
+[en] avoir tendance (à)	to tend (to)	[en]3000
+[en] tenir	to hold	[en]3000
+[en] tenter	to attempt	[en]3000
+[en] terminer une tâche	to achieve	[en]3000
+[en] horrible	awful	[en]3000
+[en] un théâtre	a theater	[en]3000
+[en] l'infraction, la violation	the violation	[en]3000
+[en] la violence	violence	[en]3000
+[en] tirer	to pull	[en]3000
+[en] tomber	to fall	[en]3000
+[en] totalement	totally	[en]3000
+[en] toujours	always	[en]3000
+[en] tourner sur soi-même&nbsp;	to spin	[en]3000
+[en] tourner	to turn	[en]3000
+[en] tous les deux	both	[en]3000
+[en] tous les jours	everyday	[en]3000
+[en] tout	all	[en]3000
+[en] l'intégralité	completeness / entirety	[en]3000
+[en] tout au long de	throughout	[en]3000
+[en] tout, toutes les choses	everything	[en]3000
+[en] toutefois	nonetheless	[en]3000
+[en] chacun / tout le monde&nbsp;	everyone / everybody	[en]3000
+[en] traditionnel	traditional	[en]3000
+[en] traduire	to translate	[en]3000
+[en] traîner	to drag	[en]3000
+[en] tranchant	sharp	[en]3000
+[en] tranquillement	quietly	[en]3000
+[en] transférer	to transfer	[en]3000
+[en] transformer	to transform	[en]3000
+[en] travailler	to work	[en]3000
+[en] trente	thirty	[en]3000
+[en] de manière très intense	highly	[en]3000
+[en] très	very	[en]3000
+[en] trier	to sort	[en]3000
+[en] triste	sad	[en]3000
+[en] trois	three	[en]3000
+[en] trouver	to find	[en]3000
+[en] tu	you	[en]3000
+[en] tuer	to kill	[en]3000
+[en] typique	typical	[en]3000
+[en] un	one / a / an&nbsp;	[en]3000
+[en] une fois que	once	[en]3000
+[en] une grande quantité de	plenty of	[en]3000
+[en] uni (unifié)	united	[en]3000
+[en] unique (exceptionnel) / seul&nbsp;	unique / single&nbsp;	[en]3000
+[en] urbain	urban	[en]3000
+[en] aidant	helpful	[en]3000
+[en] utile	useful	[en]3000
+[en] utilisé	used	[en]3000
+[en] utiliser	to use	[en]3000
+[en] l'utilité	utility	[en]3000
+[en] valable	worth	[en]3000
+[en] vaste	vast	[en]3000
+[en] vendre	to sell	[en]3000
+[en] venir	to come	[en]3000
+[en] verrouiller	to lock	[en]3000
+[en] vers (quand un objet est immobile)	toward	[en]3000
+[en] vers (quand un objet bouge)	towards	[en]3000
+[en] vers l'avant	forward	[en]3000
+[en] vers l'est&nbsp;	eastward	[en]3000
+[en] vers le bas	downward	[en]3000
+[en] vers le nord [	northward	[en]3000
+[en] verser	to pour	[en]3000
+[en] vert	green	[en]3000
+[en] vide	empty	[en]3000
+[en] vieux	old	[en]3000
+[en] vingt	twenty	[en]3000
+[en] violent	violent	[en]3000
+[en] violer&nbsp;	to violate / to rape	[en]3000
+[en] visible	visible	[en]3000
+[en] visuel	visual	[en]3000
+[en] vital	vital	[en]3000
+[en] rapide	fast	[en]3000
+"[en] vivant (utilisé quand il est opposé à ""mort"")"	alive	[en]3000
+[en] vivant	living&nbsp;	[en]3000
+[en] vivre	to live	[en]3000
+[en] voir	to see	[en]3000
+[en] voler (comme un oiseau)	to fly	[en]3000
+[en] voter	to vote	[en]3000
+[en] votre	your	[en]3000
+[en] vouloir	to want	[en]3000
+[en] vouloir dire	to mean	[en]3000
+[en] vrai	true	[en]3000
+[en] réellement (véritablement, beaucoup)	really	[en]3000
+[en] vraiment	truly / really	[en]3000
+[en] vulnérable	vulnerable	[en]3000
+[en] un angle	an angle	[en]3000
+[en] à la perfection	perfectly	[en]3000
+[en] propager	to spread	[en]3000
+[en] lancer	to throw / to toss	[en]3000
+[en] monter	to mount	[en]3000
+[en] absolu	absolute	[en]3000
+[en] absorber	to absorb	[en]3000
+[en] abuser (de quelqu'un)	to abuse (someone)	[en]3000
+[en] académique	academic	[en]3000
+[en] accéder	to access	[en]3000
+[en] accepter	to accept	[en]3000
+[en] accuser	to accuse	[en]3000
+[en] en ce moment (quand le moment est assez long)	currently	[en]3000
+[en] adapter	to adapt	[en]3000
+[en] adéquat	adequate	[en]3000
+[en] admettre	to admit	[en]3000
+[en] admirer	to admire	[en]3000
+[en] adopter	to adopt	[en]3000
+[en] affirmer	to assert	[en]3000
+[en] assister (aider)	to assist	[en]3000
+[en] ajuster	to adjust	[en]3000
+[en] altérer (modifier)	to alter	[en]3000
+[en] amical	friendly	[en]3000
+[en] apparaître	to appear	[en]3000
+[en] apparent	apparent	[en]3000
+[en] appeler	to call	[en]3000
+[en] apporter	to bring	[en]3000
+[en] profiter / savourer&nbsp;	to enjoy	[en]3000
+[en] apprendre	to learn	[en]3000
+[en] artistique	artistic	[en]3000
+[en] assigner	to assign	[en]3000
+[en] assurer (s'assurer)	to assure (to ensure)	[en]3000
+[en] attacher	to attach	[en]3000
+[en] attaquer	to attack	[en]3000
+[en] attendre (qq'un)	to wait (for someone)	[en]3000
+[en] au sens propre	literally	[en]3000
+[en] augmenté	increased	[en]3000
+[en] autoriser	to allow	[en]3000
+[en] permettre (offrir la possibilité) / autoriser	to enable / to allow	[en]3000
+[en] autre part	elsewhere	[en]3000
+[en] autrement	otherwise	[en]3000
+[en] avertir	to warn	[en]3000
+[en] avoir	to have	[en]3000
+[en] avoir besoin	to need	[en]3000
+[en] balayer	to sweep	[en]3000
+[en] battre	to beat	[en]3000
+[en] bienvenue	welcome	[en]3000
+[en] blesser	to hurt	[en]3000
+[en] bloquer	to block	[en]3000
+[en] boire	to drink	[en]3000
+[en] bouger	to move	[en]3000
+[en] brûler	to burn	[en]3000
+[en] cacher	to hide	[en]3000
+[en] catholique	Catholic	[en]3000
+[en] ce soir	tonight	[en]3000
+[en] certainement	certainly	[en]3000
+[en] chanter	to sing	[en]3000
+[en] charger	to charge	[en]3000
+[en] chimique	chemical	[en]3000
+[en] choisir (sur le long terme)	to choose	[en]3000
+[en] choisir (dans l'instant)	to pick	[en]3000
+[en] citer	to cite	[en]3000
+[en] clinique	clinical	[en]3000
+[en] cognitif	cognitive	[en]3000
+[en] colonial	colonial	[en]3000
+[en] combattre	to fight	[en]3000
+[en] changer / échanger	to switch	[en]3000
+[en] comploter	to plot	[en]3000
+[en] comprenant	including	[en]3000
+[en] compter	to count	[en]3000
+[en] compter sur	to rely on	[en]3000
+[en] inquiet / préoccupé	concerned	[en]3000
+[en] conduire	to drive	[en]3000
+[en] conseiller	to advise	[en]3000
+[en] constant	constant	[en]3000
+[en] construire	to build	[en]3000
+[en] copier	to copy	[en]3000
+[en] correctement	properly	[en]3000
+[en] couler	to flow	[en]3000
+[en] coûteux	expensive	[en]3000
+[en] créatif	creative	[en]3000
+[en] créer	to create	[en]3000
+[en] crier	to shout	[en]3000
+[en] crier (quand on est en colère)	to yell	[en]3000
+[en] criminel	criminal	[en]3000
+[en] cuire	to bake	[en]3000
+[en] cuisiner	to cook	[en]3000
+[en] culturel	cultural	[en]3000
+[en] exhorter	to urge	[en]3000
+[en] d'habitude	usually	[en]3000
+[en] imposer	to impose	[en]3000
+[en] dangereux	dangerous	[en]3000
+[en] de même	similarly / as far as	[en]3000
+[en] relier&nbsp;	to link / to connect	[en]3000
+[en] se tenir	to stand	[en]3000
+[en] de valeur	valuable	[en]3000
+[en] débattre	to debate	[en]3000
+[en] décider	to decide	[en]3000
+[en] défendre	to defend	[en]3000
+[en] défensive	defensive	[en]3000
+[en] définir	to define	[en]3000
+[en] demain	tomorrow	[en]3000
+[en] dépeindre	to depict, to portray	[en]3000
+[en] dépendant	dependent	[en]3000
+[en] dépendre	to depend (on)&nbsp;	[en]3000
+[en] dépenser	to spend	[en]3000
+[en] déranger	to bother	[en]3000
+[en] désespéré	desperate	[en]3000
+[en] désirer	to desire	[en]3000
+[en] dessiner	to draw	[en]3000
+[en] détaillé	detailed	[en]3000
+[en] détecter	to detect	[en]3000
+[en] devenir	to become	[en]3000
+[en] deviner	to guess	[en]3000
+[en] différent	different	[en]3000
+[en] différer	to differ	[en]3000
+[en] difficile	difficult	[en]3000
+[en] diplômé	graduate	[en]3000
+"[en] dire (dans le sens de ""donner une information"")"	to tell	[en]3000
+[en] directement	directly	[en]3000
+[en] disponible	available	[en]3000
+[en] distinct	distinct	[en]3000
+[en] divers (plusieurs) / divers (différents, variés)	many - several&nbsp; / various - different - diverse	[en]3000
+[en] diviser	to divide	[en]3000
+[en] dominant	dominant	[en]3000
+[en] donner	to give	[en]3000
+[en] donner un coup de pied	to kick	[en]3000
+[en] dormir	to sleep	[en]3000
+[en] une ébauche	a draft	[en]3000
+[en] échouer	to fail	[en]3000
+[en] économique	economic	[en]3000
+[en] écouter	to listen to	[en]3000
+[en] efficace (dont les fonctions sont bien appropriées)	effective	[en]3000
+[en] efficace (qui fonctionne avec un bon rendement)	efficient	[en]3000
+[en] menacer	to threaten	[en]3000
+[en] électrique	electric	[en]3000
+[en] élire	to elect	[en]3000
+[en] embrasser (se faire des bises, des bisous)	to kiss	[en]3000
+[en] émotif	emotional	[en]3000
+[en] emprunter	to borrow	[en]3000
+[en] en ce qui concerne	regarding	[en]3000
+[en] en fonction de	depending (on)	[en]3000
+[en] en fonctionnement	operating	[en]3000
+[en] enceinte	pregnant	[en]3000
+[en] engager	to engage	[en]3000
+[en] embaucher	to hire	[en]3000
+[en] énorme	enormous / huge / tremendous	[en]3000
+[en] enregistrer (un son)	to record	[en]3000
+[en] enseigner	to teach	[en]3000
+[en] ensemble	together	[en]3000
+[en] entendre	to hear	[en]3000
+[en] enterrer	to bury	[en]3000
+[en] entièrement	entirely	[en]3000
+[en] entrer	to enter	[en]3000
+[en] envelopper	to wrap	[en]3000
+[en] envoyer	to send	[en]3000
+[en] escalader	to climb	[en]3000
+[en] essentiel	essential	[en]3000
+[en] étendre (un objet concret)	to expand	[en]3000
+[en] étendre (des idées, des connaissances)	to extend	[en]3000
+[en] être d'accord	to agree	[en]3000
+[en] étudier	to study	[en]3000
+[en] évidemment / manifestement / clairement	obviously	[en]3000
+[en] éviter	to avoid	[en]3000
+[en] évoluer	to evolve	[en]3000
+[en] excellent	excellent	[en]3000
+[en] exécutif	executive	[en]3000
+[en] existant	existing	[en]3000
+[en] exister	to exist	[en]3000
+[en] externe	external	[en]3000
+[en] extrêmement	extremely	[en]3000
+[en] fabriquer	to make	[en]3000
+[en] faire confiance	to trust	[en]3000
+[en] faire varier	to vary	[en]3000
+[en] familier	familiar	[en]3000
+[en] fermer (de manière complète, refermer)	to shut	[en]3000
+[en] fixer (regarder fixement)	to stare	[en]3000
+[en] flâner	to wander	[en]3000
+[en] flotter	to float	[en]3000
+[en] fondamentalement	basically	[en]3000
+[en] forcer	to force	[en]3000
+[en] fortement (avec l'idée de force)	strongly	[en]3000
+[en] frapper (une surface / porte pour attirer l'attention)	to knock	[en]3000
+[en] fréquent	frequent	[en]3000
+[en] fuir	to flee	[en]3000
+[en] fumer	to smoke	[en]3000
+[en] gagner (de l'argent)	to earn (money)	[en]3000
+[en] garder	to keep	[en]3000
+[en] retenir (dans le sens de garder)	to retain	[en]3000
+[en] geler	to freeze	[en]3000
+[en] généralement	generally	[en]3000
+[en] gérer	to handle	[en]3000
+[en] glisser	to slide	[en]3000
+[en] goûter	to taste	[en]3000
+[en] grandir	to grow (up)	[en]3000
+[en] guider	to guide	[en]3000
+[en] hausser les épaules	to shrug	[en]3000
+[en] hier	yesterday	[en]3000
+[en] historique	historical	[en]3000
+[en] hurler	to scream / to yell	[en]3000
+[en] ignorer	to ignore	[en]3000
+[en] immédiat	immediate	[en]3000
+[en] impliqué	involved	[en]3000
+[en] important	important	[en]3000
+[en] proéminent	prominent	[en]3000
+[en] imprimer	to print	[en]3000
+[en] inconnu	unknown	[en]3000
+[en] informer	to inform	[en]3000
+[en] inhabituel	unusual	[en]3000
+[en] initialement	initially	[en]3000
+[en] innocent	innocent	[en]3000
+[en] inquiet	worried	[en]3000
+[en] insister	to insist	[en]3000
+[en] investir	to invest	[en]3000
+[en] inviter	to invite	[en]3000
+[en] joindre, rejoindre	to join	[en]3000
+[en] jouer	to play	[en]3000
+[en] jurer	to swear	[en]3000
+[en] un acheteur	a buyer	[en]3000
+[en] un acide	an acid	[en]3000
+[en] l'acier	steel	[en]3000
+[en] un acteur	an actor	[en]3000
+[en] un adulte	an adult	[en]3000
+[en] un agent	an agent	[en]3000
+[en] une aide	an aid	[en]3000
+[en] une aile	a wing	[en]3000
+[en] s'adapter&nbsp;	to fit	[en]3000
+[en] un album	an album	[en]3000
+[en] un allié	an ally / an associate	[en]3000
+[en] un amant	a lover	[en]3000
+[en] l'âme	the soul	[en]3000
+[en] l'amour&nbsp;	love	[en]3000
+[en] un animal de compagnie	a pet	[en]3000
+[en] un anneau	a ring	[en]3000
+[en] une année	a year	[en]3000
+[en] un Arabe	an Arab	[en]3000
+[en] un arbre	a tree	[en]3000
+[en] l'argent liquide	cash / money	[en]3000
+[en] la monnaie (d'un pays)&nbsp;	the currency	[en]3000
+[en] l'armée	the army	[en]3000
+[en] un article (objet dans un catalogue)	an item	[en]3000
+[en] un ascenseur	a lift	[en]3000
+[en] l'Asie&nbsp;	Asia	[en]3000
+[en] une astuce	a trick	[en]3000
+[en] un avion	a plane	[en]3000
+[en] l'eau	water	[en]3000
+[en] un échange	&nbsp;a trade	[en]3000
+[en] une échelle&nbsp;	a ladder	[en]3000
+[en] un électeur	a voter	[en]3000
+[en] une élite	an elite	[en]3000
+[en] un endroit prisé&nbsp;	a spot	[en]3000
+[en] un enfant (des enfants)	a child (children)	[en]3000
+[en] un enfant&nbsp;	a kid / a child	[en]3000
+[en] l'enfer&nbsp;	hell	[en]3000
+[en] un enjeu&nbsp;	an issue / a challenge / a skate	[en]3000
+[en] un ennemi	an enemy	[en]3000
+[en] un entraîneur	a coach	[en]3000
+[en] un équipage	a crew	[en]3000
+[en] une équipe	a team / a staff	[en]3000
+[en] une erreur (d'une machine)	an error	[en]3000
+[en] l'escalier	the stairs	[en]3000
+[en] un esclave	a slave	[en]3000
+[en] l'espace&nbsp;	space	[en]3000
+[en] l'esprit (au sens athée du terme)	the mind	[en]3000
+[en] l'essai (littéraire)	the essay	[en]3000
+[en] une étagère	a shelf	[en]3000
+[en] un état	a state	[en]3000
+[en] une étiquette	a label	[en]3000
+[en] une étoile	a star	[en]3000
+[en] l'être	the being	[en]3000
+[en] un événement	a event	[en]3000
+[en] un évier	a sink	[en]3000
+[en] l'habitude	the habit	[en]3000
+[en] l'herbe	the grass	[en]3000
+[en] l'heure	the hour	[en]3000
+[en] une histoire	a story	[en]3000
+[en] un homme	a man	[en]3000
+[en] l'honneur	the honor	[en]3000
+[en] une horloge	a clock	[en]3000
+[en] un hôtel	a hotel	[en]3000
+[en] l'huile	the oil	[en]3000
+[en] l'humain	human being	[en]3000
+[en] l'humeur	the mood	[en]3000
+[en] l'humour	humor	[en]3000
+[en] une idée	an idea	[en]3000
+[en] une image (dans notre tête)	an image	[en]3000
+[en] l'index (pour le doigt)&nbsp;	index finger	[en]3000
+[en] un indice	a clue	[en]3000
+[en] une infirmière	a nurse	[en]3000
+[en] un invité	a guest	[en]3000
+[en] un Irlandais&nbsp;	Irishman	[en]3000
+[en] l'océan	ocean	[en]3000
+[en] une odeur	a smell	[en]3000
+[en] un oeil	an eye	[en]3000
+[en] un œuf	an egg	[en]3000
+[en] une offre	an offer	[en]3000
+[en] un oignon	an onion	[en]3000
+[en] un oiseau	a bird	[en]3000
+[en] un oncle	an uncle	[en]3000
+[en] l'or	gold	[en]3000
+[en] une oreille	an ear	[en]3000
+[en] un os	a bone	[en]3000
+[en] un ours	a bear	[en]3000
+[en] un outil	a tool	[en]3000
+[en] l'union	the union	[en]3000
+[en] l'unité	the unit	[en]3000
+[en] un utilisateur	a user	[en]3000
+[en]une balançoire	a swing	[en]3000
+[en] une bande (bandelette) / une bande (équipe)	a strip / a band	[en]3000
+[en] une banque	a bank	[en]3000
+[en] une barrière (clôture)	a fence	[en]3000
+[en] la base&nbsp;	the basis	[en]3000
+[en] la Bible	the Bible	[en]3000
+[en] une bière	a beer	[en]3000
+[en] une blague	a joke	[en]3000
+[en] une bombe	a bomb	[en]3000
+[en] la bouche	the mouth	[en]3000
+[en] une boutique	a shop	[en]3000
+[en] une brique	a brick	[en]3000
+[en] une brosse	a brush	[en]3000
+[en] une cabine (d'essayage ou photo)	a booth	[en]3000
+[en] une carte (à jouer, la carte de crédit)	a card (a credit card)	[en]3000
+[en] la cause	the cause	[en]3000
+[en] une ceinture	a belt	[en]3000
+[en] une cellule	a cell	[en]3000
+[en]une chaîne	a chain	[en]3000
+[en] la chair	the flesh	[en]3000
+[en] une chaise	a chair	[en]3000
+[en] la chaleur	the heat	[en]3000
+[en] une pièce (dans une maison)	a room	[en]3000
+[en] la chance	the luck	[en]3000
+[en] une chanson	a song	[en]3000
+[en] la charge (à porter)	the load	[en]3000
+[en] une poursuite	a pursuit / a chase	[en]3000
+[en] une botte	a boot	[en]3000
+[en] une chaussure	a shoe	[en]3000
+[en] une chemise	a shirt	[en]3000
+[en] une chose	a thing	[en]3000
+[en] une citation	a quote	[en]3000
+[en] une classe	a class	[en]3000
+[en] une cloche	a bell	[en]3000
+[en] la colère	anger	[en]3000
+[en] une colline	a hill	[en]3000
+[en] une compétence	a skill	[en]3000
+[en] une coquille	a shell	[en]3000
+[en]une corde	a rope	[en]3000
+[en] la côte (mer)	the coast	[en]3000
+[en] une couche (pas celle du bébé)	a layer	[en]3000
+[en] une couleur	a color	[en]3000
+[en] une cour	a yard	[en]3000
+[en] la course (pour gagner)	the race	[en]3000
+[en] une crème	a cream	[en]3000
+[en] une dame	a lady	[en]3000
+[en] une date / un rendez-vous	a date	[en]3000
+[en] une demande (que l'on fait tranquillement mais avec persévérance)&nbsp;	a request	[en]3000
+[en] la moitié	the half	[en]3000
+[en] une dent (des dents)	a tooth (teeth)	[en]3000
+[en] une dette	a debt	[en]3000
+[en] la douleur	pain	[en]3000
+[en] une douzaine	a dozen	[en]3000
+[en] une drogue	a drug	[en]3000
+[en] la droite	the right	[en]3000
+[en] la face / le visage	the face	[en]3000
+[en] une faute	a fault	[en]3000
+[en] la femme (d'un mari)	the wife	[en]3000
+[en] une femme	a woman	[en]3000
+[en] une ferme	a farm	[en]3000
+[en] une fête	a party	[en]3000
+[en] une feuille (d'un arbr	a leaf	[en]3000
+[en] une feuille (en papier)	a sheet	[en]3000
+[en] la fibre	the fiber	[en]3000
+[en] la fierté	the pride	[en]3000
+[en] la fille (par opposition au garçon)	the girl	[en]3000
+[en] une fissure	a crack	[en]3000
+[en] une flamme	a flame	[en]3000
+[en] la foi	the faith	[en]3000
+[en] la forme (la forme physique)	the form	[en]3000
+[en] la forme (le design des contours)	the shape	[en]3000
+[en] une foule	a crowd	[en]3000
+[en] la fraîcheur	coolness	[en]3000
+[en] une gamme	a range	[en]3000
+[en] la gauche	the left	[en]3000
+[en] une graine	a seed	[en]3000
+[en] la haine	the hate	[en]3000
+[en] la jeunesse	youth	[en]3000
+[en] la joue	the cheek	[en]3000
+[en] une lame	a blade	[en]3000
+[en] une larme	a tear	[en]3000
+[en] une ligne	a line	[en]3000
+[en] une limite (floue, imprécise)	a limit	[en]3000
+[en] une liste	a list	[en]3000
+[en] une livre	a pound	[en]3000
+[en] la lumière	the light	[en]3000
+[en] la lune	the moon	[en]3000
+[en] la main	the hand	[en]3000
+[en] un foyer	a home	[en]3000
+[en] une maison	a house	[en]3000
+[en] une marche (d'escalier) / une marche (balade)	a step / a walk	[en]3000
+[en] une marque commerciale	a brand	[en]3000
+[en] une marque	a mark	[en]3000
+[en] la masse	the mass	[en]3000
+[en] la merde	the shit	[en]3000
+[en] la mode&nbsp;	fashion	[en]3000
+[en] la mort	death	[en]3000
+[en] la musique	the music	[en]3000
+[en] une naissance	a birth	[en]3000
+[en] la neige	the snow	[en]3000
+[en] un grade / une note (à l'école)	a grade	[en]3000
+[en] une note (de musique)	a note	[en]3000
+[en] la nourriture	the food	[en]3000
+[en] la nuit	the night	[en]3000
+[en] une page	a page	[en]3000
+[en] une paire	a pair	[en]3000
+[en] la paix	peace	[en]3000
+[en] une palme (également la paume de la main)	a palm	[en]3000
+[en] une part / une partie	a part	[en]3000
+[en] une pause (longue)	a break	[en]3000
+[en] une pause (courte)	a pause	[en]3000
+[en] la peau	the skin	[en]3000
+[en] une pelouse	a lawn	[en]3000
+[en] la perte	the loss	[en]3000
+[en] la peur	fear	[en]3000
+[en] une phase	a phase / a period / a cycle	[en]3000
+[en] une photo	a photo	[en]3000
+[en] une pièce (un morceau / une partie)	a piece / a part	[en]3000
+[en] une pierre	a stone	[en]3000
+[en] une pile	a pile	[en]3000
+[en] une piscine	a pool	[en]3000
+[en] un chemin (dans une forêt)	a trail	[en]3000
+[en] une plage	a beach	[en]3000
+[en] une assiette	a plate	[en]3000
+[en] la pluie	the rain	[en]3000
+[en] la poitrine	the chest	[en]3000
+[en] une pomme	an apple	[en]3000
+[en] une porte	a door	[en]3000
+[en] un portail	a gate	[en]3000
+[en] la poussière	the dust	[en]3000
+[en] le 1 du mois, le premier	the first	[en]3000
+[en] la presse	the press	[en]3000
+[en] une preuve (après laquelle il reste encore un doute)	a proof	[en]3000
+[en] la profondeur	the depth	[en]3000
+[en] une puce (électronique) / une puce (animal)	a chip / a flea	[en]3000
+[en] la puissance	the power	[en]3000
+[en] une queue (d'un animal) / une queue (file d'attente)	a tail / a line	[en]3000
+[en] une racine	a root	[en]3000
+[en] une radio	a radio	[en]3000
+[en] une récompense	tan award	[en]3000
+[en] une règle	a rule	[en]3000
+[en] une rive	a shore	[en]3000
+[en] une rivière	a river	[en]3000
+[en] une robe	a dress	[en]3000
+[en] une roche	ta rock	[en]3000
+[en] une roue	a wheel	[en]3000
+[en] la route (sur laquelle on roule)	the road	[en]3000
+[en] la route (le chemin qu'on va emprunter]	the route	[en]3000
+[en] une salade	a salad	[en]3000
+[en] une sauce	a sauce	[en]3000
+[en] une scène	a scene	[en]3000
+[en] une scène (dans ue salle de théâtre)	a stage	[en]3000
+[en] une semaine	a week	[en]3000
+[en] une soupe	a soup	[en]3000
+[en] une souris (des souris) / une souris (d'ordinateur)	a mouse (mice) / a computer mouse	[en]3000
+[en] une subvention	a grant	[en]3000
+[en] une table	a table	[en]3000
+[en] une tâche	a task	[en]3000
+[en] une taille (de vêtement)	a size	[en]3000
+[en] une tempête	a storm	[en]3000
+[en] une tendance	a trend / a tendancy / an inclination	[en]3000
+[en] une tente	a tent	[en]3000
+[en] la terre (d'un territoire) / la terre (du jardin)	the land / the soil	[en]3000
+[en] la tête	the head	[en]3000
+[en] une tombe	a grave	[en]3000
+[en] une tour	a tower	[en]3000
+[en] une trace	a trace	[en]3000
+[en] une tribu	a tribe	[en]3000
+[en] une troupe	a troop	[en]3000
+[en] une vague	a wave	[en]3000
+[en] la valeur	the value	[en]3000
+[en] une vente	a sale	[en]3000
+[en] la vérité	the truth	[en]3000
+[en] la viande	the meat	[en]3000
+[en] une vidéo	a video	[en]3000
+[en] une vie	a life	[en]3000
+[en] une (grande) ville	a city	[en]3000
+[en] une petite ville	a town	[en]3000
+[en] la vitesse	the speed	[en]3000
+[en] la voix	the voice	[en]3000
+[en] une vue (une belle vue d'un paysage)	a view / a sight	[en]3000
+[en] un endroit	an area	[en]3000
+[en] une zone	a zone	[en]3000
+[en] lancer (une fusée)	to launch	[en]3000
+[en] latin	Latin	[en]3000
+[en] un ballon	a ball	[en]3000
+[en] un banc	a bench	[en]3000
+[en] un bateau	a boat	[en]3000
+[en] un bateau (vaisseau)	a ship	[en]3000
+[en] un bâton	a stick	[en]3000
+[en] un bébé	a baby	[en]3000
+[en] du bois	wood	[en]3000
+[en] un bord	an edge	[en]3000
+[en] un bruit	a noise	[en]3000
+[en] un bureau (meuble)	a desk	[en]3000
+[en] un but (en sport) / un objectif&nbsp;&nbsp;	a goal	[en]3000
+[en] un câble	a cable	[en]3000
+[en] un cadeau	a gift	[en]3000
+[en] un cadre	a frame	[en]3000
+[en] un camion	a truck	[en]3000
+[en] un camp	a camp	[en]3000
+[en] un canapé	a couch	[en]3000
+[en] le carburant	fuel	[en]3000
+[en] un centre commercial	a mall	[en]3000
+[en] un cerveau	a brain	[en]3000
+[en] un champ	a field	[en]3000
+[en] du charbon	coal	[en]3000
+[en] un chef&nbsp;	a boss	[en]3000
+[en] un chemin&nbsp;	a path	[en]3000
+[en] un cheval	a horse	[en]3000
+[en] un choc	a shock	[en]3000
+[en] le 5 du mois, le cinquième	the fifth	[en]3000
+[en] un citron	a lemon	[en]3000
+[en] un club	a club	[en]3000
+[en] un code	a code	[en]3000
+[en] le cœur	the heart	[en]3000
+[en] un conte	a tale	[en]3000
+[en] le corps	the body	[en]3000
+[en] un costume&nbsp;	a suit	[en]3000
+[en] un côté	a side	[en]3000
+[en] le cou	the neck	[en]3000
+[en] le courrier	the mail	[en]3000
+[en] le coût	the cost	[en]3000
+[en] un couteau	a knife	[en]3000
+[en] un crime	a crime	[en]3000
+[en] commencer, débuter	to start / to begin	[en]3000
+[en] le déjeuner	the lunch	[en]3000
+[en] un retard / un délai	a delay	[en]3000
+[en] le désordre (la pagaille)	the mess	[en]3000
+[en] le destin	the fate	[en]3000
+[en] le devant	the front	[en]3000
+[en] le devoir (moral)	the duty	[en]3000
+[en] un doute	a doubt	[en]3000
+[en] un drame	a drama	[en]3000
+[en] un drapeau	a flag	[en]3000
+[en] un fait	a fact	[en]3000
+[en] un fantôme	a ghost	[en]3000
+[en] du fer / le fer à repasser	iron / the iron	[en]3000
+[en] le feu	the fire	[en]3000
+[en] un fichier	a file	[en]3000
+[en] un film	a movie / a film	[en]3000
+[en] un final / une finale	a final	[en]3000
+[en] le fonds	the fund	[en]3000
+[en] un fou&nbsp;	a crazy man	[en]3000
+[en] un four	an oven	[en]3000
+[en] un fruit	a fruit	[en]3000
+[en] un fusil	&nbsp;a rifle	[en]3000
+[en] un gain	a gain	[en]3000
+[en] un gang	a gang	[en]3000
+[en] un gant	a glove	[en]3000
+[en] un garde	a guard	[en]3000
+[en] un gâteau	a cake	[en]3000
+[en] un géant	a giant	[en]3000
+[en] un gène	a gene	[en]3000
+[en] un genou	a knee	[en]3000
+[en] le genre (le style de)	the kind	[en]3000
+[en] un glissement	a slip	[en]3000
+[en] le golf	the golf	[en]3000
+[en] le rang (dans un classement)	the rank	[en]3000
+[en] le grain [aussi utilisé pour céréale]	the grain	[en]3000
+[en] un groupe (musical)	a band	[en]3000
+[en] un groupe	a group&nbsp;	[en]3000
+[en] un hall	a hall	[en]3000
+[en] un haricot	a bean	[en]3000
+[en] un héros	a hero	[en]3000
+[en] un jeu	a game	[en]3000
+[en] un juge	a judge	[en]3000
+[en] un jury	a jury	[en]3000
+[en] un jus	a juice	[en]3000
+[en] un lac	a lake	[en]3000
+[en] le lait	milk	[en]3000
+[en] un lien	a link	[en]3000
+[en] un lieu	a place	[en]3000
+[en] un livre	a book	[en]3000
+[en] un maire	a mayor	[en]3000
+[en] du maïs	corn	[en]3000
+[en] un mâle	a male	[en]3000
+[en] le manque (de qchose)&nbsp;	the lack (of) / the shortage (of)	[en]3000
+[en] un manteau	a coat	[en]3000
+[en] un masque	a mask	[en]3000
+[en] un match	a match	[en]3000
+[en] le même	the same	[en]3000
+[en] un menu	a menu	[en]3000
+[en] le métal	metal	[en]3000
+[en] un mètre	a meter	[en]3000
+[en] un mineur	a minor	[en]3000
+[en] un modèle	a model	[en]3000
+[en] un mois	a month	[en]3000
+[en] le monde	the world	[en]3000
+[en] le moral	the moral	[en]3000
+[en] les morts (par opposition aux vivants)	the dead	[en]3000
+[en] un mot	a word	[en]3000
+[en] un moteur (électrique)	a motor	[en]3000
+[en] un mur	a wall	[en]3000
+[en] un mythe	a myth	[en]3000
+[en] le nerf	the nerve	[en]3000
+[en] le nez	the nose	[en]3000
+[en] un niveau	a level	[en]3000
+[en] un nom	a name	[en]3000
+[en] le nord	the north	[en]3000
+[en] un nuage	a cloud	[en]3000
+[en] un camarade / un collègue	a peer	[en]3000
+[en] un panel	a panel	[en]3000
+"[en] un pantalon / des sous-vêtements (chez les anglais ; mais ""underpants"" chez les américains )&nbsp;"	pants	[en]3000
+[en] un papier	a paper	[en]3000
+[en] un parc	a park	[en]3000
+[en] un décalage	a shift	[en]3000
+[en] le passé	the past	[en]3000
+[en] un patron	a boss	[en]3000
+[en] le personnel d'une entreprise (dans le sens d'une équipe)	the staff	[en]3000
+[en] un piano	a piano	[en]3000
+[en] le pied / les pieds	the foot / feet	[en]3000
+[en] un pilote	a pilot	[en]3000
+[en] un pin	a pine	[en]3000
+[en] un plan	a plan	[en]3000
+[en] un plat	a dish	[en]3000
+[en] un pneu	a tire	[en]3000
+[en] un poème	a poem	[en]3000
+[en] un poète	a poet	[en]3000
+[en] un point / un point (symbole de ponctuation)	a point / a dot	[en]3000
+[en] un poisson	a fish	[en]3000
+[en] le pôle	the pole	[en]3000
+[en] un bureau	a deck	[en]3000
+[en] un porche	a porch	[en]3000
+[en] un port / un port maritime	a port / a harbour	[en]3000
+[en] le poumon	the lung	[en]3000
+[en] majeur, important	major	[en]3000
+[en] un prix	a price	[en]3000
+[en] l'issue (solution à un problème)	the issue	[en]3000
+[en] un procès	a trial	[en]3000
+[en] un projet de loi / une facture (au restaurant par ex)	a bill	[en]3000
+[en] le propriétaire	the owner	[en]3000
+[en] un rail	a rail	[en]3000
+[en] un ratio	a ratio	[en]3000
+[en] un regard	a gaze	[en]3000
+[en] un rendement	a yield	[en]3000
+[en un repas	a meal	[en]3000
+[en] un reste	a rest	[en]3000
+[en] un rêve	a dream	[en]3000
+[en] les riches&nbsp;	the rich	[en]3000
+[en] un risque	a risk	[en]3000
+[en] du riz	rice	[en]3000
+[en] un roi	a king	[en]3000
+[en] un rôle	a role	[en]3000
+[en] un roman	a novel	[en]3000
+[en] un rouleau	a roll	[en]3000
+[en] un ruban	a tape	[en]3000
+[en] le sable	sand	[en]3000
+[en] sage, avisé, prudent	wise	[en]3000
+[en] le sang	blood	[en]3000
+[en] un score	a score	[en]3000
+[en] le sel	salt	[en]3000
+[en] le sens (5 sens)	the sense	[en]3000
+[en] le SIDA	the AIDS	[en]3000
+[en] un siège (où l'on s'assoit)	a seat	[en]3000
+[en] un signe	a sign	[en]3000
+[en] un site	a site	[en]3000
+[en] un étage&nbsp;	a floor	[en]3000
+[en] le son	the sound	[en]3000
+[en] un sondage	a poll	[en]3000
+[en] un soupir	a sigh	[en]3000
+[en] le sport	the sport	[en]3000
+[en] un style	a style	[en]3000
+[en] le sucre	sugar	[en]3000
+[en] le sud	the south	[en]3000
+[en] un sujet (d'une discussion par ex)	a topic	[en]3000
+[en] un tableau	a board	[en]3000
+[en] un graphique	a chart	[en]3000
+[en] le talon	the heel	[en]3000
+[en] un tank	a tank	[en]3000
+[en] le taux	the rate	[en]3000
+[en] un téléphone	a phone&nbsp;	[en]3000
+[en] le temps (qui passe)	the time	[en]3000
+[en] un terme	a term	[en]3000
+[en] un terrain	a pitch	[en]3000
+[en] un test	a test	[en]3000
+[en] un texte	a text	[en]3000
+[en] le thème	the theme	[en]3000
+[en] un tir	a shot	[en]3000
+[en] un titre	a title	[en]3000
+[en] un toit	a roof	[en]3000
+[en] le ton	the tone	[en]3000
+[en] le total	the total	[en]3000
+[en] un train	a train	[en]3000
+[en] le trajet (dans un transport : vélo, voiture, train, bus...)	the ride	[en]3000
+[en] le travail&nbsp;	the work, the labor	[en]3000
+[en] un tribunal	a court	[en]3000
+[en] le 3 du mois /// le troisième	the third	[en]3000
+[en] un trou	a hole	[en]3000
+[en] un truc	&nbsp;a stuff	[en]3000
+[en] un tuyau	a pipe	[en]3000
+[en] un type (un genre)	a type	[en]3000
+[en] un vélo	a bike	[en]3000
+[en] le vent	the wind	[en]3000
+[en] un verre	a glass	[en]3000
+[en] le vin	wine	[en]3000
+[en] un virus	a virus	[en]3000
+[en] un viseur	a scope	[en]3000
+[en] un voyage court	a trip	[en]3000
+[en] légèrement	slightly	[en]3000
+[en] aveugle	blind	[en]3000
+[en] les chances (la probabilité que qchose advienne)	the odds	[en]3000
+[en] les cheveux	the hair	[en]3000
+[en] les déchets	waste	[en]3000
+[en] les données	data	[en]3000
+[en] les maths	maths	[en]3000
+[en] les média	media	[en]3000
+[en] les nouvelles	news	[en]3000
+[en] les termes	terms	[en]3000
+[en] les travaux	works	[en]3000
+"[en] magnifique (dans le sens de ""beau"")"	beautiful	[en]3000
+"[en] magnifique (dans le sens de ""extraordinaire"")"	wonderful	[en]3000
+[en] mille	a thousand	[en]3000
+[en] n'importe quand	whenever	[en]3000
+[en] naturellement	naturally	[en]3000
+[en] nécessaire	necessary	[en]3000
+[en] nettoyer	to clean	[en]3000
+[en] Noël	Christmas	[en]3000
+[en] nous-mêmes	ourselves	[en]3000
+[en] obtenir	to get / to obtain	[en]3000
+[en] occuper	to occupy	[en]3000
+[en] une offensive / insultant&nbsp;	an offensive / offensive (adj)	[en]3000
+[en] oublier	to forget	[en]3000
+[en] par conséquent	therefore	[en]3000
+[en] parler (sans forcément que l'on nous répondre)	to speak	[en]3000
+[en] partager	to share	[en]3000
+[en] participer (être dans un évènement en étant passif)	to attend	[en]3000
+[en] partir	to leave	[en]3000
+[en] partir à la retraite	to retire	[en]3000
+[en] pendant ce temps	meanwhile	[en]3000
+[en] perdre	to loose	[en]3000
+[en] permanent (et qui l'on ne peut pas changer)	permanent	[en]3000
+[en] permanent (mais qui peut changer)	standing	[en]3000
+[en] le personnel d'une entreprise (dans le sens d'employés)	the personnel	[en]3000
+[en] pertinent	relevant	[en]3000
+[en] peser	to weigh	[en]3000
+[en] peu importe	whatever	[en]3000
+[en] peu probable	unlikely	[en]3000
+[en] planter	to plant	[en]3000
+[en] politique	political	[en]3000
+[en] porter (un objet)	to carry	[en]3000
+[en] postuler	to apply	[en]3000
+[en] potentiel	potential	[en]3000
+[en] échapper à	to escape	[en]3000
+[en] écrire	to write	[en]3000
+[en] évaluer [une situation]	to assess	[en]3000
+[en] finir	to finish	[en]3000
+[en] gérer (un business, des problèmes...)	to manage	[en]3000
+[en] localiser	to locate	[en]3000
+[en] sélectionner	to select	[en]3000
+[en] poursuivre	to pursue	[en]3000
+[en] pratique	practical	[en]3000
+[en] précisément	precisely	[en]3000
+[en] une faveur	a favor	[en]3000
+[en] préférer	to prefer	[en]3000
+[en] premier&nbsp;	first	[en]3000
+[en] présumer	to assume	[en]3000
+[en] premièrement	primarily	[en]3000
+[en] progressivement	gradually	[en]3000
+[en] prouver	to prove	[en]3000
+[en] quelqu'un	somebody, someone	[en]3000
+[en] quelque chose	something	[en]3000
+[en] quelque part	somewhere	[en]3000
+[en] quelque peu	somewhat	[en]3000
+[en] quelquefois	sometimes	[en]3000
+[en] ranger (quelque chose dans quelque chose d'autre)	to store	[en]3000
+"[en] rappeler (""ça me rappelle..."")"	"to remind (""it reminds me ..."")"	[en]3000
+[en] rassembler	to gather	[en]3000
+[en] réagir	to react	[en]3000
+[en] réduire	to reduce	[en]3000
+[en] réformer	to reform	[en]3000
+[en] refuser	to refuse	[en]3000
+[en] regarder (passivement)	to watch	[en]3000
+[en] régulièrement	regularly	[en]3000
+[en] rejeter	to reject	[en]3000
+[en] relatif	relative	[en]3000
+[en] religieux	religious	[en]3000
+[en] remarquer	to notice	[en]3000
+[en] remercier	to thank	[en]3000
+[en] rendre / rapporter	to return	[en]3000
+[en] répéter	to repeat	[en]3000
+[en] répondre	to reply	[en]3000
+[en] reprocher / blâmer&nbsp;	to blame	[en]3000
+[en] résoudre (au premier essai)	to solve	[en]3000
+[en] restant	remaining	[en]3000
+[en] rester (pour un objet, ou pour une personne contrainte)	to remain	[en]3000
+[en] retirer	to remove	[en]3000
+[en] révéler	to reveal	[en]3000
+[en] rire	to laugh	[en]3000
+[en] romantique	romantic	[en]3000
+[en] s'assurer	to ensure	[en]3000
+[en] s'attendre à	to expect	[en]3000
+[en] s'inquiéter	to worry	[en]3000
+[en] s'installer	to settle	[en]3000
+[en] s'opposer	to oppose	[en]3000
+[en] se battre (contre)	to battle	[en]3000
+[en] se concentrer (sur une tâche)	to focus	[en]3000
+[en] se dévouer	to devote	[en]3000
+[en] se disputer	to argue	[en]3000
+[en] apparaître (ex : un problème apparaît)	to arise	[en]3000
+[en] se marier (avec John)&nbsp;	to marry (John)	[en]3000
+[en] se passer [événement]	to happen	[en]3000
+[en] se permettre (financièrement)	to afford	[en]3000
+[en] se référer	to refer	[en]3000
+[en] se relaxer	to relax	[en]3000
+[en] secouer	to shake	[en]3000
+[en] sécuriser	to secure	[en]3000
+[en] sensible	sensitive	[en]3000
+[en] sérieusement	seriously	[en]3000
+[en] servir	to serve	[en]3000
+[en] soi-disant	so-called	[en]3000
+[en] soigneusement	carefully	[en]3000
+[en] souffrir	to suffer	[en]3000
+[en] mettre en évidence	to emphasize / to highlight	[en]3000
+[en] soumettre	to submit	[en]3000
+[en] sourire	to smile	[en]3000
+[en] spécifique	specific	[en]3000
+[en] spirituel	spiritual	[en]3000
+[en] stocker	to stock	[en]3000
+[en] stratégique	strategic	[en]3000
+[en] suivre	to follow	[en]3000
+[en] supposé	supposed	[en]3000
+[en] surpris	surprised	[en]3000
+[en] technique	technical	[en]3000
+[en] temporaire	temporary	[en]3000
+[en] terrible, horrible	terrible	[en]3000
+[en] tirer (une balle)	to shoot	[en]3000
+[en] toi-même	yourself	[en]3000
+[en] toucher	to touch	[en]3000
+[en] tout à coup	suddenly	[en]3000
+[en] tout droit	straight (on)	[en]3000
+[en] traiter	to treat	[en]3000
+[en] trancher	to slice	[en]3000
+[en] traverser	to cross	[en]3000
+[en] typiquement	typically	[en]3000
+[en] ultime	ultimate	[en]3000
+[en] un emprunt	a loan	[en]3000
+[en] un tube	a tube	[en]3000
+[en] universel	universal	[en]3000
+[en] vérifier	to check	[en]3000
+[en] virtuellement	virtually	[en]3000
+[en] visiter	to visit	[en]3000
+[en] voler (un objet)	to steal	[en]3000
+[en] voyager	to travel	[en]3000
+[en] capable	capable / able	[en]3000
