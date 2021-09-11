@@ -35,7 +35,7 @@ The items to be remembered in this mnemonic system are mentally associated with 
 - Pénestin _ Maison vacances (WIP)
 - Belle Isle _ Maison Palais (WIP)
 - [Chez Matou _ Maison Triel-sur-Seine (26 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-matou-_-maison-triel-sur-seine-26-emplacements)
-- [Chez Dorothée _ Maison Festieux (35 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-doroth%C3%A9e-_-maison-festieux-26-emplacements)
+- [Chez Dorothée _ Maison Festieux (35 emplacements)](https://github.com/obrunet/Anki_decks_-_memory_cards/blob/master/Palaces.md#chez-doroth%C3%A9e-_-maison-festieux-35-emplacements)
 
 # Details 
 
