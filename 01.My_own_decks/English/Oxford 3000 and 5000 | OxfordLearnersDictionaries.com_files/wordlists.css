@@ -1,0 +1,1153 @@
+.hidden{
+
+    display: none;
+
+}
+
+h2.wordlistsName,
+
+.wordlistsButtons{
+
+    width: 50%;
+    margin: 0px;
+    display:-webkit-inline-box;
+    display:-ms-inline-flexbox;
+    display:inline-flex;
+    float:right;
+    text-align: center;
+
+}
+
+#toggleDescription{
+
+    cursor: pointer;
+    color: #4577bf;
+    font-size: 18px;
+    display: none;
+    float: right;
+    border: 2px solid;
+    border-radius: 5px;
+
+}
+
+#toggleDescription i{
+
+    padding: 8px;
+
+}
+
+.wordlistsHiddenContent{
+
+    display: block;
+    margin-bottom: 15px;
+    margin-top:5px;
+
+}
+
+.wordlistsHiddenContent p {
+    display:inline;
+}
+
+.wordlistsHiddenContent .link-right {
+    display:inline;
+}
+
+
+.field-input-search {
+    position:absolute;
+    margin-bottom:8px;
+    display:inline-block;
+    width:100%;
+    height:40px;
+}
+
+#wordlistsSearch{
+
+    width: 100%;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: #333333;
+    background: #ffffff;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+#wordlistSearch:hover {
+    color: #333333;
+    background: #ffffff;
+    
+}
+
+input#wordlistsSearch + .cross {
+
+  display:none;
+  font-size:10px;
+  color:#a1a1a1;
+  position:absolute;
+  right:50px;
+  /*top:50%;*/
+  /*transform:translate(0, -50%);*/
+    top:0px;
+    line-height:40px;
+
+}
+
+input#wordlistsSearch + .icon-cross:after {
+    vertical-align: middle;
+    line-height: 40px;
+    cursor: pointer;
+
+}
+
+
+
+.wordlistsField {
+
+    background: #fff;
+    border: solid 2px #4577bf;
+    border-radius: 25px;
+    color: #4577bf;
+    margin-bottom: 8px;
+    padding: 4px 10px;
+    height:40px;
+    font-size:16px;
+    cursor:pointer;
+
+}
+
+.wordlistsField:hover {
+
+    color: white;
+    background: #4577bf;
+
+}
+
+.wordlistsField i{
+
+    margin-bottom: 2px;
+
+}
+
+#wordlistsOverlay {
+
+    background: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    display: none;
+    position: fixed;
+    top:0;
+    right:0;
+    z-index: 10;
+
+}
+
+.wordlistsMenu {
+
+    background-color: #fff;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    z-index: 15;
+    transform: translateX(100%);
+    transition: .3s ease-out;
+    max-width: 600px;
+
+}
+
+.wordlistsMenu.open{
+
+    transform: translateX(0%);
+    padding: 0 15px;
+
+}
+
+.closemenu{
+
+    color: #0d3880;
+    cursor: pointer;
+    display: block;
+    padding: 5px;
+    text-align: right;
+
+}
+
+.closemenu i{
+
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+
+}
+
+.icon-cross::after {
+    vertical-align: bottom;
+    display: inline-block;
+    font-family: 'oup-icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\ea0f";
+    padding-left: 5px;
+    font-size: 14px;
+
+}
+
+.wordlistsMenu .header{
+
+    border-bottom: 1px solid #d9d9d9;
+    margin-bottom: 10px;
+
+}
+
+.wordlistsMenu .header p:first-child{
+
+    color: #0d3880;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.wordlistsMenu .header i{
+
+    line-height: 32px;
+
+}
+
+.wordlistsMenu .fields div{
+
+    margin-bottom: 5px;
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    -ms-flex-direction:column;
+    flex-direction:column;
+    overflow-x: hidden;
+
+}
+
+.wordlistsMenu .fields div span{
+
+    display:inline-block;
+    font-weight: bold;
+
+}
+
+.wordlistsMenu .fields .field-download{
+    
+    -webkit-box-orient:horizontal;
+    -webkit-box-direction:normal;
+    -ms-flex-direction:row;
+    flex-direction:row;
+    justify-content: space-between;
+
+}
+
+.wordlistsMenu .fields .field-download * {
+
+  margin-top:auto;
+  margin-bottom:auto;
+
+}
+
+.wordlistsMenu .fields div .ms-drop.bottom{
+
+    display:none;
+
+}
+
+.wordlistsMenu .fields select{
+
+    background: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px;
+    outline: none;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 40px;
+    font-size: 16px;
+
+}
+
+
+.wordlistsMenu .fields select[disabled]{
+
+    cursor: not-allowed;
+
+}
+
+#wordlistsDownloadMenu .fields div{
+
+    border-bottom: 1px solid #999999;
+    overflow: hidden;
+
+}
+
+#wordlistsDownloadMenu .fields div:last-of-type{
+
+    border-bottom: none;
+
+}
+
+#wordlistsDownloadMenu .fields div a{
+
+    background: #4776ae;
+    border-radius: 4px;
+    color: white;
+    font-size: 17px;
+    float: right;
+    text-decoration: none;
+    width: 80px;
+    height: 34px;
+    text-align: center;
+    border-top: 0px solid transparent;
+    border-left: 0px solid transparent;
+    border-right: 0px solid transparent;
+    border-bottom: 3px solid #002147;
+
+}
+
+#wordlistsDownloadMenu .fields div a:hover{
+    
+    background-color: #002147;
+    border-top: 0px solid transparent;
+    border-left: 0px solid transparent;
+    border-right: 0px solid transparent;
+    border-bottom: 3px solid #002147;
+    text-decoration: none;
+}
+
+#wordlistsDownloadMenu .fields div a:before{
+
+    line-height: 34px;
+    vertical-align: middle;
+    font-size: 20px;
+
+}
+
+#wordlistsDownloadMenu .fields div span{
+
+    font-size: 16px;
+    font-weight: normal;
+    padding: 10px 0px 10px 0px;
+
+}
+
+.wordlistsMenu .field-title{
+
+    font-weight: bold;
+
+}
+
+.wordlistsButton{
+
+    margin: 0px 0px 0px 10px;
+    height: 40px;
+    padding: 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    width: 100%;
+    background-color: #4776ae;
+    border-top: 0px solid transparent;
+    border-left: 0px solid transparent;
+    border-right: 0px solid transparent;
+    border-bottom: 3px solid #002147;
+    color: #ffffff;
+    white-space: nowrap;
+    line-height: 34px;
+    
+}
+
+.wordlistsButton:hover{
+
+    background-color: #002147;
+    border-top: 0px solid transparent;
+    border-left: 0px solid transparent;
+    border-right: 0px solid transparent;
+    border-bottom: 3px solid #002147;
+    text-decoration: none;
+
+}
+
+.wordlistButton_Filter_Submit {
+    line-height:40px;
+    margin-left:0px;
+    width:100%;
+    font-size:16px;
+    max-width:100%;
+}
+
+#wordlistsTooltip{
+
+    background: rgba(0,0,0,0.7);
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    display: none;
+    padding: 5px 8px;
+    position: absolute;
+
+}
+
+#wordlistsContentPanel{
+
+    border: 1px solid #9b9b9b;
+    margin-bottom: 100px;
+    overflow-y: scroll;
+    border-radius: 0px 0px 5px 5px;
+
+}
+
+#wordlistsContentPanel li{
+
+    border-bottom: 1px solid #999999;
+    line-height: 42px;
+    padding: 0px 20px;
+
+}
+
+#wordlistsContentPanel li:last-child{
+
+    border-bottom: none;
+}
+#wordlistsContentPanel #empty {
+    text-align: center;
+    margin-top: 25px;
+    font-style: italic;
+    font-size: 16px;
+    color: grey;
+}
+
+#wordlistsContentPanel li a,
+
+#wordlistsContentPanel li > span:first-child{
+
+    display: inline;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-right: 10px;
+    text-decoration: none;
+    vertical-align: middle;
+
+}
+
+#wordlistsContentPanel .pos{
+
+    font-size: 0.95em;
+    margin-right: 5px;
+    vertical-align: middle;
+
+}
+
+#wordlistsContentPanel li > div{
+
+    display: inline-block;
+    float: right;
+    min-width: 154px;
+
+}
+
+
+#wordlistsContentPanel data .OPAL_Spoken,
+
+#wordlistsContentPanel data .OPAL_Written,
+
+#wordlistsContentPanel data .OPAL_spoken_phrases,
+
+#wordlistsContentPanel data .OPAL_Written_Phrases {
+
+    display: none;
+
+}
+
+
+#wordlistsContentPanel .belong-to{
+
+background: #666666;
+    border-radius: 3px;
+    color: #FFF;
+    margin-right: 5px;
+    padding: 3px 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#wordlistsContentPanel .sound{
+
+    display: inline-block;
+    margin-right: 15px;
+    cursor: pointer;
+    height: 34px;
+    width: 34px;
+
+}
+
+
+.wordlistsFind > #search-btn {
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    height: 34px;
+    width: 34px;
+    border-left: none;
+}
+
+
+.wordlistsFind > #search-btn input {
+    height: 34px;
+    width: 34px;
+    margin-right: 0px;
+    margin-top: 0px;
+    position: relative;
+    font-size: 16px;
+    border-radius: 34px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 34px;
+    vertical-align: middle;
+    color: #ffffff;
+    background-color: #4776ae;
+    padding: 0px;
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.wordlistsFind > #search-btn input:hover {
+    background-color: #002147;
+    text-decoration: none;
+    appearance:none;
+    -moz-appearance:none;
+    -webkit-appearance:none;
+}
+
+.wordlistsFind > #search-btn:before {
+    display:none;
+}
+
+
+.wordlistsFind {
+    
+    display: inline-block;
+    width: 50%;
+    height:40px;
+    float: left;
+    position: relative;
+}
+
+.wordlistControls {
+    
+    height: 60px;
+    background-color: #f0f8fe;
+    padding: 10px;
+    border-top: 1px solid #9b9b9b;
+    border-left: 1px solid #9b9b9b;
+    border-right: 1px solid #9b9b9b;
+    border-radius: 5px 5px 0px 0px;
+    
+}
+
+
+#wordlistsBreadcrumb {
+
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:15px;
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow: ellipsis;
+      color:#0d3880;
+      cursor:pointer;
+    background-color: #f0f8fe;
+    border-right: 1px solid #9b9b9b;
+    border-left: 1px solid #9b9b9b;
+
+}
+
+#wordlistsBreadcrumb span i {
+
+  font-style: normal;
+  text-transform:capitalize;
+
+}
+
+#wordlistsBreadcrumb span i::after {
+
+  display:inline;
+  content:",";
+  margin:0 5px 0 0;
+
+}
+
+#wordlistsBreadcrumb span i:last-child::after{
+
+  display:none;
+
+}
+
+#wordlistsBreadcrumb span::after{
+
+  content:">";
+  display:inline;
+  margin:0 5px;
+
+}
+
+#wordlistsBreadcrumb span:last-child::after{
+
+  display:none;
+  margin:0;
+
+}
+
+@media screen and (min-width: 972px){
+
+    #wordlistsContentPanel li a,
+
+    #wordlistsContentPanel li > span:first-child{
+
+        min-width: 120px;
+
+    }
+
+    #wordlistsContentPanel .sound:first-of-type{
+
+        margin-left: 15px;
+
+    }
+
+    .wordlistsMenu {
+
+        width: 40%;
+
+    }
+
+    .information-content-reduced-width {
+        
+        max-width:1000px;
+        
+    }
+
+}
+
+
+@media screen and (max-width: 972px){
+
+    .wordlistsMenu {
+
+        width: 60%;
+
+    }
+
+    #wordlistsContentPanel .sound:first-of-type{
+
+        margin-left: 20px;
+
+    }
+
+}
+
+
+@media screen and (max-width: 748px){
+
+    .wordlistsMenu {
+
+        width: 70%;
+
+    }
+    #wordlistsContentPanel .sound:first-of-type{
+
+        margin-left: 10px;
+
+    }
+
+}
+
+@media screen and (max-width: 600px){
+
+    .wordlistsMenu {
+
+        width: 90%;
+
+    }
+
+    .wordlistsFind {
+        
+        width:70%;
+        
+    }
+
+    .wordlistsButtons {
+        
+        width:30%;
+        min-width:0px;
+        
+    }
+
+    .wordlistsButton {
+
+        max-width: 50%;
+        margin: 0px 0px 0px 5px;
+        min-width:0px;
+        font-size:0px;
+        
+    }
+
+    .wordlistsButton i {
+        
+        font-size:20px;
+        line-height: 34px;
+        
+    }
+    
+    #wordlistsContentPanel .sound:first-of-type{
+
+        margin-left: 10px;
+
+    }
+    
+    #wordlistsContentPanel .sound {
+        
+        margin-right: 10px;
+        
+    }
+    
+    .wordlistButton_Filter_Submit {
+        
+        line-height:40px;
+        margin-left:0px;
+        width:100%;
+        font-size:16px;
+        max-width:100%;
+        
+    }
+
+}
+
+@media screen and (min-width: 451px){
+    
+     #wordlistsContentPanel {
+        
+        height: 568px;
+          padding-bottom:522px;
+        
+      }
+    
+}
+
+@media screen and (max-width: 451px){
+    
+    #wordlistsContentPanel{
+
+        overflow-y:hidden;
+
+    }
+
+    #wordlistsContentPanel li a,
+
+    #wordlistsContentPanel li > span:first-child{
+
+        line-height: 26px;
+        max-width: 160px;
+
+    }
+
+    #wordlistsContentPanel li > div{
+
+        min-width: 109px;
+
+    }
+
+    #wordlistsContentPanel .pos {
+
+        line-height: 18px;
+        max-width: 80px;
+        vertical-align: middle;
+        margin-right:3px;
+
+    }
+
+    .wordlistsMenu {
+
+        width: 90%;
+
+    }
+
+    #wordlistsContentPanel .sound:first-of-type{
+
+        margin-left: 5px;
+
+    }
+    
+    #wordlistsContentPanel .belong-to {
+        
+        margin-right: 0px;
+        padding: 3px 5px;
+        
+    }
+    
+    #wordlistsContentPanel li a, #wordlistsContentPanel li > span:first-child {
+        
+        margin-right: 3px;
+        display: inline-block;
+        
+    }
+
+}
+
+
+@media screen and (max-width: 420px){
+
+    .responsive_entry_center_wrap{
+
+        padding: 0;
+
+    }
+    
+    #wordlistsBreadcrumb{
+         
+        padding-left:15px;
+        padding-right:15px;
+        border-left: none;
+        border-right: none;
+        
+    }
+    
+    #wordlistsContentPanel li a,
+
+    #wordlistsContentPanel li > span:first-child{
+
+        font-size: 1em;
+        padding-right:10px;
+
+    }
+
+    #wordlistsContentPanel .pos {
+
+        font-size: 0.85em;
+        line-height: 18px;
+        max-width: 80px;
+        vertical-align: middle;
+        margin-right:3px;
+        margin-left: -10px;
+
+    }
+
+    #wordlistsHeaderPanel h1{
+
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 20px;
+        margin-top: 5px;
+
+    }
+
+    h2.wordlistsName{
+
+        font-size:24px;
+        line-height: 28px;
+
+    }
+
+    #wordlistsContentPanel{
+
+        border-left: 0;
+        border-right: 0;
+        margin:0;
+        margin-bottom: 100px;
+        border-radius:0px;
+        overflow-y:hidden;
+
+    }
+    
+    #wordlistsHeaderPanel > div {
+        
+        border-radius: 0px;
+        border-left: none;
+        border-right: none;
+        padding-left:5px;
+        padding-right:5px;
+        
+    }
+
+    #wordlistsContentPanel li{
+
+        margin: 0;
+        padding: 0px 10px 0px 15px;
+
+    }
+
+    .wordlistsMenu {
+
+        width: 90%;
+
+    }
+
+    #toggleDescription{
+
+        display: none;
+
+    }
+
+    .wordlistsHiddenContent{
+
+        display: none;
+
+    }
+
+    #wordlistsContentPanel .sound:first-of-type{
+
+        margin-left: 5px;
+        margin-right: 5px;
+
+    }
+    
+    #wordlistsContentPanel .sound {
+        
+        margin-right: 0px;
+        
+    }
+
+    #wordlistsContentPanel .belong-to {
+        
+        margin-right: 0px;
+        padding: 3px 5px;
+        
+    }
+    
+    #wordlistsContentPanel li a, #wordlistsContentPanel li > span:first-child {
+    
+        margin-right: 3px;
+        display: inline-block;
+        
+    }
+
+}
+
+
+#wordlistsContentPanel .top-g {
+
+    display: none;
+
+}
+
+#wordlistsContentPanel #wordlistsLoading {
+
+    background: #4577bf;
+    border: 2px solid #4577bf;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+    width: 250px;
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+@keyframes blink {
+
+    0% { opacity: .2; }
+
+    20% { opacity: 1; }
+
+    100% { opacity: .2; }
+
+}
+
+#wordlistsContentPanel #wordlistsLoading span {
+
+    animation-name: blink;
+    animation-duration: 1.4s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+    display: inline-block;
+    font-size: 1.3em;
+    padding-left: 1px;
+
+}
+
+#wordlistsContentPanel #wordlistsLoading span:nth-child(1) {
+
+    margin-left: 5px;
+
+}
+
+#wordlistsContentPanel #wordlistsLoading span:nth-child(2) {
+
+    animation-delay: .2s;
+
+}
+
+#wordlistsContentPanel #wordlistsLoading span:nth-child(3) {
+
+    animation-delay: .4s;
+
+}
+
+#wordlistsContentPanel.loaded .top-g {
+
+    display: block;
+
+}
+
+#wordlistsContentPanel.loaded #wordlistsLoading {
+    
+    display: none;
+    
+}
+
+.level-select {
+    
+    background: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px;
+    outline: none;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 40px !important;
+    font-size: 16px;
+    
+}
+
+#saveFilters {
+    
+    position:sticky;
+    bottom:0;
+    padding: 15px 0px 15px 0px;
+    background-color: #ffffffb5;
+    
+}
+
+.ms-parent{
+      
+    overflow-x:scroll;
+      border-radius:5px;
+    max-width: 100%;
+    width: 100%;
+    border: none;
+    padding: 0px;
+    height: auto !important;
+    min-height: auto;
+    max-height: fit-content;
+    margin-bottom: 90px !important;
+    
+}
+
+.ms-parent li {
+    
+    padding-bottom: 10px;
+    
+}
+
+input[type="checkbox"] {
+      
+    position: absolute;
+      opacity: 0;
+      cursor: pointer;
+      height: 0;
+      width: 0;
+    
+}
+
+.ms-label:hover {
+    
+    background-color: #f3f3f3;
+    cursor: pointer;
+    
+}
+
+.ms-label input[type="checkbox"] + label {
+    
+    font-weight: 400;
+    
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+      height: 34px;
+      width: 34px;
+      background-color: #eee;
+    margin-right: 10px;
+    border-radius:5px;
+    
+}
+
+/* On mouse-over, add a grey background color */
+.ms-label:hover input ~ .checkmark {
+      
+    background-color: #ccc;
+    
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+      
+    content: "";
+      position: absolute;
+      display: none;
+    
+}
+
+/* Show the checkmark when checked */
+.ms-label input:checked ~ .checkmark:after {
+      
+    display: block;
+    background-position: 0px -34px;
+    
+}
+
+/* Style the checkmark/indicator */
+.ms-label .checkmark:after {
+    
+    position: relative;
+    display: inline-block;
+    background-image: url("../images/wordlist/icon-checkbox.svg");
+    background-repeat: no-repeat;
+    background-size: 68px 68px;
+    background-position: -34px 0px;
+    height: 34px;
+    vertical-align: sub;
+    cursor: pointer;
+    
+}
+
+.ms-label {
+    
+    display: block;
+    position: relative;
+    padding-left: 45px;
+    line-height: 34px;
+    
+}
+
+html.disable-scroll {
+   
+    overflow-y: hidden;
+    height:100%;
+    
+}

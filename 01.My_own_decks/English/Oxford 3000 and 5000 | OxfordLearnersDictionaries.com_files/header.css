@@ -1,0 +1,892 @@
+#ox-header {
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#flex-header-container {
+    position: relative;
+    z-index: 13;
+    background: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#flex-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    font-size: 1rem;
+    height: 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#flex-menu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    font-size: 1rem;
+    height: 48px;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#flex-menu ul.flex-menu-desktop-nav li {
+	float:left;
+}
+
+#flex-menu li {
+    margin-right: 10px;
+    list-style: none;
+    line-height: 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#flex-menu li span:after {
+    vertical-align: middle;
+    top: 0px;
+    left: 3px;
+    font-family: 'Source Sans Pro', sans-serif;
+    content: "";
+    background-repeat: no-repeat;
+    background-image: url(../images/graphics/arrow.svg);
+    background-size: contain;
+    background-position-y: center;
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    padding: 0px 3px 0px 4px;
+    margin-right: 5px;
+}
+
+#panel-smartphone .link-right:after {
+    vertical-align: middle;
+    top: 0px;
+    left: 3px;
+    font-family: 'Source Sans Pro', sans-serif;
+    content: "";
+    background-repeat: no-repeat;
+    background-image: url(../images/graphics/arrow.svg);
+    background-size: contain;
+    background-position-y: center;
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    padding: 0px 3px 0px 4px;
+    margin-right: 5px;
+}
+
+.flex-header-links, #h-sign-in-mobile, #h-help, #h-redeem, #h-upgrade {
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 5px;
+    color: #4776ae;
+    border-color: #4776ae;
+    padding-left: 5px;
+    position: relative;
+    border: 1px solid;
+    padding: 0px 10px;
+    min-height: 30px;
+    line-height: 28px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    max-width: 100%;
+    min-width: 40px;
+    fill: #fff;
+    -webkit-transition: background-color .1s;
+    -o-transition: background-color .1s;
+    transition: background-color .1s;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.flex-header-links:hover, #h-sign-in-mobile:hover, #h-help:hover, #h-redeem:hover, #h-upgrade:hover {
+    color: #002048;
+    border-color: #949494;
+    background-color: #e6e5e5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a.flex-header-links:hover, #h-sign-in-mobile:hover #h-help:hover, #h-redeem:hover, #h-upgrade:hover {
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#h-title {
+    color: #333333;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#h-title div {
+    font-size: 18px;
+}
+
+#h-title .h-title_semibold {
+    font-weight:600;
+    font-size: 18px;
+}
+
+#h-title:hover {
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.rounded-button {
+    border-radius: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.rounded-button:before {
+    content: "";
+    background: url("../images/header/profile-icon.svg") no-repeat center center;
+    background-color: #4776ae;
+    border-radius: 50%;
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    height: 20px;
+    width: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a.flex-header-links:hover.rounded-button:before {
+    background-color: #002048;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+
+a#h-sign-in, a#h-sign-in-mobile {
+    padding-left: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a#h-redeem {
+    background-color: #0C7BC0;
+    color:#ffffff;
+    border-color: #0C7BC0;
+    border-radius:4px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a#h-redeem:hover {
+    background-color: #ffffff;
+    color: #0C7BC0;
+    border-color: #0C7BC0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a#h-upgrade {
+    background-color: #E51069;
+    color:#ffffff;
+    border-color: #E51069;
+    border-radius:4px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a#h-upgrade:hover {
+    background-color: #ffffff;
+    color: #E51069;
+    border-color: #E51069;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#ox-header hr {
+    border-bottom: 1px solid #cccdc9;
+    color: #ffffff;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.top-toolbar-active {
+    border-bottom:3px solid black;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+#header-account {
+    margin: 5px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-container {
+    position: relative;
+    display: block;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.rounded-account {
+    background-color: #4776ae;
+    border: 1px solid #4776ae;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: -1px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-panel {
+    display: none;
+    z-index: 13;
+    position: absolute;
+    right: 0;
+    left: auto;
+    background-color: white;
+    border: 1px solid #cccdc9;
+    padding: 0px;
+    min-width: 260px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-panel:before, #header-account-panel:after{
+    bottom: 100%;
+    right: 9px;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-panel:before{
+    border-color: rgba(217, 217, 217, 0);
+    border-bottom-color: #d9d9d9;
+    border-width: 11px;
+    margin-left: -11px;
+    right: 8px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-panel:after{
+    border-color: rgba(255, 255, 255, 0);
+    border-bottom-color: #ffffff;
+    border-width: 10px;
+    margin-left: -10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-panel h3{
+    display: block;
+    font-weight:600;
+    padding: 15px 15px 7px 15px;
+    margin: 0px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333;
+    white-space: nowrap;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+#header-account-panel .rounded-account {
+    float:left;
+    display: inline-block;
+    margin:9px 10px 0px 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header-account-name {
+    display: inline-block;
+    font-weight: normal;
+    line-height: 30px;
+    color: #4776ae;
+    white-space: nowrap;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header-account-email {
+    color: #666;
+    margin: -4px 0 0 0;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header-account-gotoaccount {
+    display: block;
+    padding: 5px 15px;
+    clear: both;
+    font-weight: normal;
+    line-height: 30px;
+    color: #4776ae;
+    white-space: nowrap;
+    text-decoration: none !important;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header-account-gotoaccount:hover, #header-account-panel input[type='submit']:hover {
+    background-color: #f5f5f5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-panel input[type='submit'] {
+    display: block;
+    padding: 5px 15px;
+    clear: both;
+    font-weight: normal;
+    line-height: 30px;
+    color: #4776ae;
+    white-space: nowrap;
+    text-decoration: none !important;
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    border: none;
+    margin-right: 0px;
+    border-radius: initial;
+    text-align: left;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-account-panel hr {
+    margin:0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header-modal {
+    display: none;
+    position: fixed;
+    z-index: 12;
+    left: 0;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-elem {
+    cursor: pointer;
+    height: 48px;
+    padding-left: 5px;
+    padding-right: 10px;
+    margin-right: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-elem:hover {
+    -webkit-transition: background-color .1s;
+    -o-transition: background-color .1s;
+    transition: background-color .1s;
+    background-color: #f5f5f5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-dropdown {
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 12;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-width: 300px;
+    border: 1px solid #cccdc9;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-dropdown ul {
+    border: solid white 15px;
+}
+
+#flex-menu li .menu-dropdown ul li {
+    margin-right: 0px;
+    list-style: none;
+    line-height: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+	float: none;
+}
+
+#flex-menu li .menu-dropdown ul li a {
+    display:block;
+    padding-left:15px;
+    padding-right:15px;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#flex-menu li .menu-dropdown ul li a:hover {
+    background-color:#d3ecfc;
+    -webkit-transition: background-color .1s;
+    -o-transition: background-color .1s;
+    transition: background-color .1s;
+    font-weight:600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.fg {
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+.menu_button {
+    height: 34px;
+    width: 44px;
+    background-color: #ffffff;
+    background-size: 50%;
+    border-radius: 4px;
+    border: 1px solid #dddddd;
+    padding: 9px 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu_button:hover {
+    background-color: #dddddd;
+    background-size: 50%;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #888;
+    pointer-events: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.icon-bar + .icon-bar {
+    margin-top: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#panel-smartphone {
+    position: absolute;
+    left: 0px;
+    width: 90%;
+    height:100%;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #cccdc9;
+    border-left: none;
+    border-right: none;
+    padding: 0px;
+    top: 48px;
+    overflow: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#panel-smartphone div {
+    min-height: 48px;
+    line-height: 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#panel-smartphone div.panel-smartphone-account-section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#panel-smartphone #h-sign-in-mobile {
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 0px;
+    color: #4776ae;
+    border-color: #4776ae;
+    padding-left: 5px;
+    position: relative;
+    border: 1px solid;
+    padding: 0px 10px;
+    min-height: 30px;
+    line-height: 28px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    max-width: 100%;
+    min-width: 40px;
+    fill: #fff;
+    -webkit-transition: background-color .1s;
+    -o-transition: background-color .1s;
+    transition: background-color .1s;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#panel-smartphone a#h-sign-in-mobile {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left:30px;
+    margin-left:15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+#panel-smartphone .menu-elem {
+    padding-left: 15px;
+    display: block;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#panel-smartphone .top-toolbar-active {
+    border-left: 5px solid black;
+    border-bottom: none;
+    font-weight: 600;
+    padding-left:10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#panel-smartphone #h-redeem, #panel-smartphone #h-upgrade, #panel-smartphone #h-help {
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:15px;
+    display: block;
+    max-width: 200px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-dropdown-smartphone {
+    display: none;
+    padding: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-dropdown-smartphone ul li {
+    line-height: 45px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.menu-dropdown-smartphone ul li a {
+    padding: 0px 15px 0px 25px;
+    line-height: 45px;
+    display: block;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-dropdown-smartphone ul li a:hover {
+    padding: 0px 15px 0px 25px;
+    line-height: 45px;
+    display: block;
+    font-weight: 600;
+    -webkit-transition: background-color .1s;
+    -o-transition: background-color .1s;
+    transition: background-color .1s;
+    background-color: #f5f5f5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#searchbar {
+    background: rgb(8,69,144);
+background: -moz-linear-gradient(90deg, rgba(8,69,144,1) 0%, rgba(23,96,187,1) 50%, rgba(8,69,144,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(8,69,144,1) 0%, rgba(23,96,187,1) 50%, rgba(8,69,144,1) 100%);
+background: linear-gradient(90deg, rgba(8,69,144,1) 0%, rgba(23,96,187,1) 50%, rgba(8,69,144,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#084590",endColorstr="#084590",GradientType=1);
+    /*background-color: #1760bb;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    /*position: -webkit-sticky;
+    position: sticky;*/
+    top: 0px;
+    z-index: 10;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainsearch {
+    width: 780px;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainsearch.responsive_row {
+    margin-bottom:0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#search-form {
+    margin-top: 0px;
+    padding: 0px;
+    position: relative;
+    height: 52px;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainsearch #search-form {
+    margin-top: 0px;
+    padding: 0px;
+    position: relative;
+    height: 48px;
+    background-color: #fff;
+    background-image: none;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainsearch #dictionarySelector {
+    float: left;
+    width: 220px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    background-color:#F7EA76;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainsearch #dictionarySelector #select_div {
+    text-align: right;
+    width: 100%;
+    padding: 0px;
+    font-size: 16px;
+    text-transform: none;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 48px;
+    border-right: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainsearch #dictionarySelector #select_div div {
+    min-width: initial;
+    display: inline-block;
+    text-align: right;
+    padding-right: 10px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#arrow_select {
+    vertical-align: middle;
+    font-size: 17px;
+    color: #333333;
+}
+
+.mainsearch #dictionarySelector #select_div #arrow_select:before {
+    vertical-align: middle;
+    top: 0px;
+    left: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    content: "";
+    background-repeat: no-repeat;
+    background-image: url(../images/graphics/arrow_down.svg);
+    background-size: contain;
+    background-position-y: center;
+    padding: 0px 5px 0px 10px;
+    margin-right: 0px;
+}
+
+#keyboard_icon {
+    font-size: 20px;
+    color: #666666;
+}
+
+#keyboard_icon:hover {
+    color: #333333;
+}
+
+.searchfield {
+    width: 65%;
+    float: left;
+    height: 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.searchfield_input {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    width: 92%;
+    outline: none;
+    border: none;
+    height: 48px;
+    padding: 0px;
+    padding-left: 15px;
+}
+
+.mainsearch form #search-btn {
+    float: right;
+    height: 48px;
+    cursor: pointer;
+    line-height: 48px;
+    color: #4877af;
+    text-align: center;
+    vertical-align: middle;
+    width: 48px;
+    border-left: 1px solid #d9d9d9;
+    font-size: 28px;
+}
+
+.mainsearch form #search-btn:before {
+    display: none;
+}
+
+.mainsearch form #search-btn input {
+    margin-top: 0px;
+    margin-bottom:10px;
+    height: 48px;
+    width: 48px;
+    border: none;
+    content: "";
+    background-repeat: no-repeat;
+    background-image: url("../images/graphics/icon-search-blue.svg");
+    background-size: 25px;
+    background-position-y: center;
+    background-position-x: center;
+    background-color: #ffffff;
+    outline: none;
+    cursor: pointer;
+    line-height: 48px;
+    padding: 0px;
+    font-size: 16px;
+    border-radius: 0px;
+    -webkit-appearance: none;
+    text-align: center;
+    position: relative;
+    vertical-align: middle;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mainsearch form #search-btn input:hover {
+    background-image: url("../images/graphics/icon-search-blue-hover.svg");
+    background-color: #e6e5e5;
+    -webkit-transition: background-color .1s;
+    -o-transition: background-color .1s;
+    transition: background-color .1s;
+}
+
+.logo_placeholder {
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.csm {
+    border: 1px solid #F7EA76;
+    background-color: #fffce2;
+}
+
+#keyboard_letters {
+    top:-20px;
+}
+
+@media screen and (max-width: 400px) {
+
+#h-title div {
+    font-size: 16px;
+}
+
+#h-title .h-title_semibold {
+    font-size: 16px;
+}
+}
+
+
+@media screen and (max-width: 761px) {
+
+    #ox-header {
+        /*position: -webkit-sticky;
+        position: sticky;*/
+        top: 0px;
+        z-index: 13;
+        border-bottom:none;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+	
+	#ox-header hr.hr_nav_first {
+        display:none;
+    }
+
+    #searchbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    
+    .mainsearch {
+        width:100%;
+    }
+    
+    .inputSuggestions .suggestionCategory {
+        display:none;
+    }
+    
+    .inputSuggestions, .inputSuggestions .suggestionList {
+        width:100%;
+    }
+
+    .csm {
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 762px) and (max-width: 991px) {
+    .mainsearch {
+        width:728px;
+    }
+    
+    .searchfield {
+        width: 62%;
+    }
+}

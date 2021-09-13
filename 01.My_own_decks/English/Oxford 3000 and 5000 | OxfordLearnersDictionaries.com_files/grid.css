@@ -1,0 +1,37 @@
+/* New style guide given by OUP concerning grid containers */
+
+.grid-cntnr {
+    display:grid;
+    justify-content:space-around;
+    grid-gap:20px;
+}
+/* Phones */
+@media screen and (max-width: 767px) {
+    .grid-cntnr {
+        width: auto;
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+/* Tablets */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .grid-cntnr {
+        width: 748px;
+        grid-template-columns: repeat(8, 1fr);
+    }
+}
+/* Desktops */
+@media screen and (min-width: 992px) {
+    .grid-cntnr {
+        grid-template-columns: repeat(12, 1fr);
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .grid-cntnr {
+        width: 972px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .grid-cntnr {
+        width: 1180px;
+    }
+}
