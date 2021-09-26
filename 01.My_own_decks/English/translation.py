@@ -78,27 +78,5 @@ def main():
         df.to_csv(TRANSLATED_WORDS_FILENAME, index=False)        
 
 
-
-
-
-
-
-
-
-
-
-    # otherwise if the wordlist is present but no specific data scraped : read the list of word already retrieved
-    elif os.path.isfile(WORD_LIST_FILENAME) and not os.path.isfile(SCRAPED_WORDS_FILENAME):
-        df = pd.read_csv(WORD_LIST_FILENAME)
-        df = ingest_infos_into_df(df.iloc[:20]["def_urls"].values, df)  # df.iloc[:20] //::::::::/// change here
-        df.to_csv(SCRAPED_WORDS_FILENAME, index=False)
-
-    # finally, in the case some words def & examples have already been scraped but are incomplete (Nans)
-    else:
-        df = pd.read_csv(SCRAPED_WORDS_FILENAME)
-        df = ingest_infos_into_df(df[df["definition_1"].isnull()].iloc[:20]["def_urls"].values, df)  # df.iloc[:20//::::::::::/ change here
-        df.to_csv(SCRAPED_WORDS_FILENAME, index=False)
-
-
 if __name__ == "__main__":
     main()
