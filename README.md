@@ -37,8 +37,8 @@ coming soon
  
  ## Cloud / Big Data / Machine Learning
 - Azure
-- GCP
-    - [Machine Learning Engineer](fffffffffffffff)
+- Google Cloud Platform
+    - [Machine Learning Engineer](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Google_Cloud_Machine_Learning/)
     - [Looker]() - [LookML](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/LookML/LookML.apkg) 
 - [Spark v2.4 Machine Learning](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Spark/Spark%202.4%20-%20Part%203%20ML%20-%201.overview%2C%20preprocessing%20%26%20feat%20eng._bak_.apkg) (just an overview, will be updated in the future with v3) 
 
