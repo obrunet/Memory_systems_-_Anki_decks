@@ -29,7 +29,7 @@ coming soon
 
 ## [Programming languages](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/)
  - Python 1 / 2 : all programming aspects except functions & OOP : [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/python_cheat_sheet.ipynb) - [Anki deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/)
-  - Python 2 / 2 : functions & OOP : [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%202-2.ipynb) - [Anki deck WIP]()
+  - Python 2 / 2 : functions & OOP : [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%202-2.ipynb) - [Anki deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%202-2.apkg)
  - Scala
  - Linux shell
  - [Relationnal Databases Concepts]()
