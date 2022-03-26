@@ -1,5 +1,9 @@
-# My Anki decks / memory flash cards
+Hi,
 
+You'll find here everything you need if you're interested in memory training ! such as systems to remember a huge number of letters, digits, words... and flash cards for various topics: languages, programming, machine learning...
+
+
+### What's Anki ? decks ? memory flash cards
 
 [Anki](https://apps.ankiweb.net/) is a free and open-source flashcard program that utilizes spaced repetition (to increase rate of memorization). "Anki" (暗記) is the Japanese word for "memorization". The cards are presented using HTML and may include text, images, sounds, videos, and LaTeX equations. The decks of cards, along with the user's statistics, are stored in the open SQLite format.    
 Source : [Wikipedia](https://en.wikipedia.org/wiki/Anki_(software))
@@ -10,11 +14,15 @@ A community has shared a lot of Decks [HERE](https://ankiweb.net/decks/) in lots
 
 You'll find below __some decks that i've made__ for learning purpose. __There are also links to other decks__ made by the community that i've found interesting. I'm currently memorizing or have memorized those decks...
 
-## Method of loci - memory journey / palace
+### Why are memory systems usefull ?
+
+There are numerous techniques that can help you, like the __Method of loci__ - memory journey / palace
 * [More infos on Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 * [My own journeys' / palaces' list](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/Palaces.md) 
 
-## Memory systems
+more infos on [Art Of Memory](https://artofmemory.com/start/) and [Memory League](https://memoryleague.com/#!/home)
+
+# My Memory systems
 - [Playing Cards](https://github.com/obrunet/Memory_systems_-_Anki_decks/tree/master/00.Memory_systems/02.Cartes)
     - [Characters (in french)](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Cartes%20Personnages.apkg) from 0 to 52, only 1 character per card
     - [Objects (in french)](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Cartes%20Objet.apkg) from 0 to 52, with 2 objects per card
