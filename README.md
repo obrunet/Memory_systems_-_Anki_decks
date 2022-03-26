@@ -40,7 +40,7 @@ coming soon
  - [Python 3](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203.apkg) anki deck (with all subdecks aggregated:
     - Python 1 / 2 : all programming aspects except functions & OOP : [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%201-2.ipynb) - [Anki deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%201-2.apkg)
     - Python 2 / 2 : functions & OOP : [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%202-2.ipynb) - [Anki deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%202-2.apkg)
- - [Numpy notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/numpy/numpy_OLIVIER.ipynb) & [Numpy anki deck]()
+ - [Numpy notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Numpy/numpy_OLIVIER.ipynb) & [Numpy anki deck]()
  - [Pandas notebook]() & [Pandas anki deck]()
  - Linux shell
  - [Relationnal Databases Concepts]()
