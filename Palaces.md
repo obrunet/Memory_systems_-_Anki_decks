@@ -51,8 +51,9 @@ The items to be remembered in this mnemonic system are mentally associated with 
     8. entrée gardien
     9. ascenseur
     10. palier / local poubelle
-    11. entrée mirroir penderie
-    12. toilettes
+    11.voisine accent du sud
+    12. entrée mirroir penderie
+    13. toilettes
     14. cagibi
     15. 1er lit 
     16. 2ème lit
