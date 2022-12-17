@@ -40,8 +40,9 @@ coming soon
  - [Python 3](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203.apkg) anki deck (with all subdecks aggregated:
     - Python 1 / 2 : all programming aspects except functions & OOP : [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%201-2.ipynb) - [Anki deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%201-2.apkg)
     - Python 2 / 2 : functions & OOP : [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%202-2.ipynb) - [Anki deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Python/Python%203%20Cheat%20Sheet%202-2.apkg)
- - [Numpy notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Numpy/numpy_OLIVIER.ipynb) & [Numpy anki deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Numpy.apkg)
- - [Pandas notebook]() & [Pandas anki deck]()
+ - Numpy -  [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Numpy/numpy_OLIVIER.ipynb) & [Anki Deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/Numpy.apkg)
+ - Pandas - [Notebook]() & [Anki Deck]()
+ - Data visualization with Plotly Express - [Anki Deck](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Data/37.Plotly.apkg) - [Notebook](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Data/37.Plotly.ipynb)
  - Linux shell
  - [Relationnal Databases Concepts]()
  - [SQL syntax and commands](https://github.com/obrunet/Memory_systems_-_Anki_decks/blob/master/01.My_own_decks/Programming_languages/SQL/SQL%20syntax%20and%20commands.apkg)
