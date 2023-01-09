@@ -59,8 +59,7 @@ coming soon
  ## Information technology
 - LPIC
 - Git / Github
-- Docker 
-- Kubernetes  
+- Docker / Kubernetes  
 coming soon
 
 ## Misc
